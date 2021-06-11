@@ -1,0 +1,2431 @@
+,concept:name,time:timestamp,end_timestamp,case:concept:name
+0,Co-founder engagement,1970-01-01 01:03:00,1970-01-02 01:57:35,1
+1,Co-founder termsheet - customization,1970-01-02 01:57:35,1970-01-03 02:38:21,1
+2,Co-founder termsheet - signing,1970-01-03 02:38:21,1970-01-04 06:10:00,1
+3,Documents collection,1970-01-04 06:10:00,1970-01-05 02:40:41,1
+4,Documents sending to notary,1970-01-05 02:40:41,1970-01-05 22:32:11,1
+5,Notary appointment,1970-01-04 06:10:00,1970-01-05 02:42:31,1
+6,Payment of company shares,1970-01-04 06:10:00,1970-01-05 10:51:01,1
+7,Board minutes for attribution of powers,1970-01-04 06:10:00,1970-01-05 06:57:42,1
+8,Co-founder contract - customization,1970-01-04 06:10:00,1970-01-06 23:51:22,1
+9,Co-founder contract - signing,1970-01-06 23:51:22,1970-01-07 20:36:46,1
+10,Founding,1970-01-05 22:32:11,1970-01-08 10:41:18,1
+11,Receipt of documents of incorporation,1970-01-08 10:41:18,1970-01-09 07:43:25,1
+12,Documents sending to business consultant,1970-01-09 07:43:25,1970-01-10 10:02:38,1
+13,Operations kick-off,1970-01-08 10:41:18,1970-01-09 11:06:10,1
+14,Creation of social books,1970-01-10 10:02:38,1970-01-11 06:09:26,1
+15,Bank account creation,1970-01-11 06:09:26,1970-01-15 09:30:22,1
+16,Funds transfer,1970-01-15 09:30:22,1970-01-16 11:37:21,1
+17,Registered office activation,1970-01-16 11:37:21,1970-01-17 07:02:59,1
+18,Documents sending to lawyer,1970-01-09 07:43:25,1970-01-10 03:19:14,1
+19,Documents sending to labor consultant,1970-01-09 07:43:25,1970-01-10 04:17:55,1
+20,Tax registration,1970-01-10 04:17:55,1970-01-11 00:22:44,1
+21,Business idea consolidation,1970-01-09 11:06:10,1970-01-15 03:35:33,1
+22,Business planning,1970-01-15 03:35:33,1970-02-10 18:34:07,1
+23,Naming,1970-01-09 11:06:10,1970-01-10 07:43:50,1
+24,Core team selection,1970-01-09 11:06:10,1970-02-12 07:28:07,1
+25,Priority search,1970-01-10 07:43:50,1970-01-11 12:21:54,1
+26,User personas definition,1970-01-15 03:35:33,1970-01-16 07:21:05,1
+27,Product discovery & prototyping,1970-01-16 07:21:05,1970-02-26 01:17:07,1
+28,Technical feasibility analysis,1970-02-26 01:17:07,1970-02-28 23:46:40,1
+29,Brand identity creation,1970-01-11 12:21:54,1970-01-25 07:51:03,1
+30,Trademark registration,1970-01-25 07:51:03,1970-04-03 09:07:04,1
+31,Prototyping refinements,1970-02-28 23:46:40,1970-03-07 02:59:07,1
+32,Technical feasibility analysis,1970-03-07 02:59:07,1970-03-09 16:58:23,1
+33,Lean market validation,1970-03-09 16:58:23,1970-04-10 10:48:57,1
+34,Prototyping refinements,1970-04-10 10:48:57,1970-04-18 03:18:37,1
+35,Technical feasibility analysis,1970-04-18 03:18:37,1970-04-21 08:45:11,1
+36,Prototyping refinements,1970-04-21 08:45:11,1970-04-27 13:55:16,1
+37,Technical feasibility analysis,1970-04-27 13:55:16,1970-04-30 18:25:45,1
+38,Lean market validation,1970-04-30 18:25:45,1970-06-02 17:02:51,1
+39,Tech operations kick-off,1970-06-02 17:02:51,1970-06-03 16:02:58,1
+40,Backlog creation,1970-06-03 16:02:58,1970-06-06 15:31:43,1
+41,Architecture design,1970-06-03 16:02:58,1970-06-12 01:10:03,1
+42,Tech stack identification,1970-06-03 16:02:58,1970-06-08 19:56:52,1
+43,Investors roadshow,1970-06-02 17:02:51,1970-07-31 16:51:40,1
+44,Investment committee,1970-07-31 16:51:40,1970-08-01 13:58:58,1
+45,Co-founder engagement,1970-01-01 01:09:54,1970-01-01 22:25:24,9
+46,Co-founder termsheet - customization,1970-01-01 22:25:24,1970-01-03 00:41:08,9
+47,Co-founder termsheet - signing,1970-01-03 00:41:08,1970-01-03 21:37:55,9
+48,Documents collection,1970-01-03 21:37:55,1970-01-05 01:31:39,9
+49,Co-founder contract - customization,1970-01-03 21:37:55,1970-01-06 07:45:18,9
+50,Board minutes for attribution of powers,1970-01-03 21:37:55,1970-01-04 18:38:07,9
+51,Payment of company shares,1970-01-03 21:37:55,1970-01-04 19:20:40,9
+52,Co-founder contract - signing,1970-01-06 07:45:18,1970-01-07 09:35:39,9
+53,Documents collection,1970-01-05 01:31:39,1970-01-05 22:08:53,9
+54,Notary appointment,1970-01-03 21:37:55,1970-01-05 00:46:48,9
+55,Documents collection,1970-01-05 22:08:53,1970-01-06 22:54:45,9
+56,Documents collection,1970-01-06 22:54:45,1970-01-07 21:48:43,9
+57,Documents sending to notary,1970-01-07 21:48:43,1970-01-08 22:07:00,9
+58,Founding,1970-01-08 22:07:00,1970-01-11 21:46:11,9
+59,Operations kick-off,1970-01-11 21:46:11,1970-01-13 00:16:56,9
+60,Receipt of documents of incorporation,1970-01-11 21:46:11,1970-01-12 21:47:08,9
+61,Documents sending to business consultant,1970-01-12 21:47:08,1970-01-13 19:22:00,9
+62,Creation of social books,1970-01-13 19:22:00,1970-01-14 21:01:45,9
+63,Documents sending to lawyer,1970-01-12 21:47:08,1970-01-13 18:44:24,9
+64,Documents sending to labor consultant,1970-01-12 21:47:08,1970-01-13 17:55:45,9
+65,Bank account creation,1970-01-14 21:01:45,1970-01-20 05:15:28,9
+66,Funds transfer,1970-01-20 05:15:28,1970-01-21 05:00:58,9
+67,Registered office activation,1970-01-21 05:00:58,1970-01-22 01:03:37,9
+68,Tax registration,1970-01-13 17:55:45,1970-01-14 20:31:41,9
+69,Business idea consolidation,1970-01-13 00:16:56,1970-01-20 09:42:58,9
+70,Core team selection,1970-01-13 00:16:56,1970-02-17 17:43:07,9
+71,User personas definition,1970-01-20 09:42:58,1970-01-21 08:08:38,9
+72,Naming,1970-01-13 00:16:56,1970-01-14 01:39:25,9
+73,Product discovery & prototyping,1970-01-21 08:08:38,1970-03-01 13:04:09,9
+74,Business planning,1970-01-20 09:42:58,1970-02-15 09:50:48,9
+75,Priority search,1970-01-14 01:39:25,1970-01-15 05:24:20,9
+76,Technical feasibility analysis,1970-03-01 13:04:09,1970-03-04 09:21:56,9
+77,Brand identity creation,1970-01-15 05:24:20,1970-01-31 00:58:10,9
+78,Trademark registration,1970-01-31 00:58:10,1970-04-12 23:37:33,9
+79,Prototyping refinements,1970-03-04 09:21:56,1970-03-12 02:58:10,9
+80,Technical feasibility analysis,1970-03-12 02:58:10,1970-03-15 08:11:07,9
+81,Prototyping refinements,1970-03-15 08:11:07,1970-03-23 05:34:55,9
+82,Technical feasibility analysis,1970-03-23 05:34:55,1970-03-25 18:53:38,9
+83,Prototyping refinements,1970-03-25 18:53:38,1970-03-31 15:05:03,9
+84,Technical feasibility analysis,1970-03-31 15:05:03,1970-04-03 17:13:33,9
+85,Lean market validation,1970-04-03 17:13:33,1970-04-28 23:01:55,9
+86,Tech operations kick-off,1970-04-28 23:01:55,1970-04-30 01:56:29,9
+87,Architecture design,1970-04-30 01:56:29,1970-05-09 10:19:36,9
+88,Tech stack identification,1970-04-30 01:56:29,1970-05-05 00:57:18,9
+89,Backlog creation,1970-04-30 01:56:29,1970-05-03 15:14:46,9
+90,Investors roadshow,1970-04-28 23:01:55,1970-07-09 01:36:20,9
+91,Investment committee,1970-07-09 01:36:20,1970-07-10 02:48:08,9
+92,Co-founder engagement,1970-01-01 01:12:23,1970-01-02 02:37:56,12
+93,Co-founder termsheet - customization,1970-01-02 02:37:56,1970-01-03 05:55:07,12
+94,Co-founder termsheet - signing,1970-01-03 05:55:07,1970-01-04 05:25:34,12
+95,Notary appointment,1970-01-04 05:25:34,1970-01-05 08:29:04,12
+96,Co-founder contract - customization,1970-01-04 05:25:34,1970-01-07 05:16:33,12
+97,Co-founder contract - signing,1970-01-07 05:16:33,1970-01-08 00:44:21,12
+98,Board minutes for attribution of powers,1970-01-04 05:25:34,1970-01-05 07:53:33,12
+99,Payment of company shares,1970-01-04 05:25:34,1970-01-05 07:12:16,12
+100,Documents collection,1970-01-04 05:25:34,1970-01-05 01:21:46,12
+101,Documents sending to notary,1970-01-05 01:21:46,1970-01-06 00:51:38,12
+102,Founding,1970-01-06 00:51:38,1970-01-09 04:25:45,12
+103,Receipt of documents of incorporation,1970-01-09 04:25:45,1970-01-10 03:16:36,12
+104,Operations kick-off,1970-01-09 04:25:45,1970-01-10 05:03:16,12
+105,Documents sending to business consultant,1970-01-10 03:16:36,1970-01-11 03:59:43,12
+106,Documents sending to labor consultant,1970-01-10 03:16:36,1970-01-11 02:00:00,12
+107,Creation of social books,1970-01-11 03:59:43,1970-01-12 00:48:42,12
+108,Documents sending to lawyer,1970-01-10 03:16:36,1970-01-11 01:31:43,12
+109,Tax registration,1970-01-11 02:00:00,1970-01-12 02:09:52,12
+110,Bank account creation,1970-01-12 00:48:42,1970-01-16 04:52:02,12
+111,Funds transfer,1970-01-16 04:52:02,1970-01-17 09:36:50,12
+112,Registered office activation,1970-01-17 09:36:50,1970-01-18 07:37:09,12
+113,Core team selection,1970-01-10 05:03:16,1970-02-13 06:06:23,12
+114,Business idea consolidation,1970-01-10 05:03:16,1970-01-17 09:56:11,12
+115,User personas definition,1970-01-17 09:56:11,1970-01-18 14:11:53,12
+116,Product discovery & prototyping,1970-01-18 14:11:53,1970-02-28 15:24:27,12
+117,Business planning,1970-01-17 09:56:11,1970-02-22 06:55:19,12
+118,Technical feasibility analysis,1970-02-28 15:24:27,1970-03-03 03:54:53,12
+119,Naming,1970-01-10 05:03:16,1970-01-11 05:30:40,12
+120,Prototyping refinements,1970-03-03 03:54:53,1970-03-11 11:06:21,12
+121,Technical feasibility analysis,1970-03-11 11:06:21,1970-03-14 23:22:39,12
+122,Priority search,1970-01-11 05:30:40,1970-01-12 09:01:45,12
+123,Lean market validation,1970-03-14 23:22:39,1970-04-16 11:11:06,12
+124,Tech operations kick-off,1970-04-16 11:11:06,1970-04-17 10:39:56,12
+125,Backlog creation,1970-04-17 10:39:56,1970-04-20 01:59:33,12
+126,Tech stack identification,1970-04-17 10:39:56,1970-04-23 07:19:28,12
+127,Architecture design,1970-04-17 10:39:56,1970-04-27 12:32:18,12
+128,Brand identity creation,1970-01-12 09:01:45,1970-01-25 01:59:26,12
+129,Trademark registration,1970-01-25 01:59:26,1970-03-26 15:34:17,12
+130,Investors roadshow,1970-04-16 11:11:06,1970-06-05 00:16:52,12
+131,Investment committee,1970-06-05 00:16:52,1970-06-06 02:17:29,12
+132,Co-founder engagement,1970-01-01 01:14:11,1970-01-02 01:19:22,14
+133,Co-founder termsheet - customization,1970-01-02 01:19:22,1970-01-02 21:02:49,14
+134,Co-founder termsheet - signing,1970-01-02 21:02:49,1970-01-04 00:05:21,14
+135,Payment of company shares,1970-01-04 00:05:21,1970-01-05 03:24:01,14
+136,Notary appointment,1970-01-04 00:05:21,1970-01-05 04:50:38,14
+137,Co-founder contract - customization,1970-01-04 00:05:21,1970-01-06 17:59:21,14
+138,Board minutes for attribution of powers,1970-01-04 00:05:21,1970-01-05 00:16:25,14
+139,Documents collection,1970-01-04 00:05:21,1970-01-05 02:16:23,14
+140,Documents collection,1970-01-05 02:16:23,1970-01-06 04:06:10,14
+141,Co-founder contract - signing,1970-01-06 17:59:21,1970-01-07 18:48:55,14
+142,Documents collection,1970-01-06 04:06:10,1970-01-07 06:24:19,14
+143,Documents collection,1970-01-07 06:24:19,1970-01-08 05:10:33,14
+144,Documents sending to notary,1970-01-08 05:10:33,1970-01-09 09:35:44,14
+145,Founding,1970-01-09 09:35:44,1970-01-12 18:07:33,14
+146,Receipt of documents of incorporation,1970-01-12 18:07:33,1970-01-13 18:17:07,14
+147,Documents sending to lawyer,1970-01-13 18:17:07,1970-01-14 14:53:08,14
+148,Operations kick-off,1970-01-12 18:07:33,1970-01-13 16:32:55,14
+149,Documents sending to business consultant,1970-01-13 18:17:07,1970-01-14 16:52:20,14
+150,Documents sending to labor consultant,1970-01-13 18:17:07,1970-01-14 13:37:16,14
+151,Creation of social books,1970-01-14 16:52:20,1970-01-15 18:26:53,14
+152,Bank account creation,1970-01-15 18:26:53,1970-01-21 06:04:33,14
+153,Tax registration,1970-01-14 13:37:16,1970-01-15 14:01:04,14
+154,Funds transfer,1970-01-21 06:04:33,1970-01-22 04:24:57,14
+155,Registered office activation,1970-01-22 04:24:57,1970-01-23 05:31:19,14
+156,Business idea consolidation,1970-01-13 16:32:55,1970-01-19 22:52:42,14
+157,User personas definition,1970-01-19 22:52:42,1970-01-20 20:42:55,14
+158,Core team selection,1970-01-13 16:32:55,1970-02-09 05:39:34,14
+159,Product discovery & prototyping,1970-01-20 20:42:55,1970-03-03 09:41:41,14
+160,Technical feasibility analysis,1970-03-03 09:41:41,1970-03-05 23:21:43,14
+161,Naming,1970-01-13 16:32:55,1970-01-14 11:45:39,14
+162,Business planning,1970-01-19 22:52:42,1970-02-22 12:25:17,14
+163,Lean market validation,1970-03-05 23:21:43,1970-04-02 21:09:21,14
+164,Priority search,1970-01-14 11:45:39,1970-01-15 15:14:48,14
+165,Prototyping refinements,1970-04-02 21:09:21,1970-04-10 14:22:31,14
+166,Brand identity creation,1970-01-15 15:14:48,1970-01-28 03:07:36,14
+167,Technical feasibility analysis,1970-04-10 14:22:31,1970-04-13 22:35:16,14
+168,Trademark registration,1970-01-28 03:07:36,1970-03-22 21:01:47,14
+169,Prototyping refinements,1970-04-13 22:35:16,1970-04-20 17:48:57,14
+170,Technical feasibility analysis,1970-04-20 17:48:57,1970-04-23 18:09:07,14
+171,Lean market validation,1970-04-23 18:09:07,1970-05-25 11:29:39,14
+172,Tech operations kick-off,1970-05-25 11:29:39,1970-05-26 15:33:53,14
+173,Backlog creation,1970-05-26 15:33:53,1970-05-30 05:19:20,14
+174,Architecture design,1970-05-26 15:33:53,1970-06-03 20:43:35,14
+175,Tech stack identification,1970-05-26 15:33:53,1970-05-31 15:27:21,14
+176,Investors roadshow,1970-05-25 11:29:39,1970-07-24 08:08:39,14
+177,Investment committee,1970-07-24 08:08:39,1970-07-25 13:10:43,14
+178,Co-founder engagement,1970-01-01 01:14:57,1970-01-02 03:50:15,15
+179,Co-founder termsheet - customization,1970-01-02 03:50:15,1970-01-03 05:10:53,15
+180,Co-founder termsheet - signing,1970-01-03 05:10:53,1970-01-04 02:28:19,15
+181,Co-founder contract - customization,1970-01-04 02:28:19,1970-01-06 22:54:01,15
+182,Board minutes for attribution of powers,1970-01-04 02:28:19,1970-01-05 02:37:51,15
+183,Notary appointment,1970-01-04 02:28:19,1970-01-04 21:59:19,15
+184,Co-founder contract - signing,1970-01-06 22:54:01,1970-01-08 02:12:58,15
+185,Documents collection,1970-01-04 02:28:19,1970-01-05 00:21:57,15
+186,Payment of company shares,1970-01-04 02:28:19,1970-01-05 01:06:15,15
+187,Documents sending to notary,1970-01-05 00:21:57,1970-01-05 22:20:24,15
+188,Founding,1970-01-05 22:20:24,1970-01-09 08:48:07,15
+189,Receipt of documents of incorporation,1970-01-09 08:48:07,1970-01-10 08:31:35,15
+190,Documents sending to business consultant,1970-01-10 08:31:35,1970-01-11 07:54:34,15
+191,Documents sending to lawyer,1970-01-10 08:31:35,1970-01-11 06:33:20,15
+192,Operations kick-off,1970-01-09 08:48:07,1970-01-10 07:02:48,15
+193,Creation of social books,1970-01-11 07:54:34,1970-01-12 07:51:31,15
+194,Bank account creation,1970-01-12 07:51:31,1970-01-16 21:36:14,15
+195,Funds transfer,1970-01-16 21:36:14,1970-01-17 22:46:07,15
+196,Documents sending to labor consultant,1970-01-10 08:31:35,1970-01-11 06:02:55,15
+197,Registered office activation,1970-01-17 22:46:07,1970-01-18 18:09:52,15
+198,Tax registration,1970-01-11 06:02:55,1970-01-12 05:36:13,15
+199,Naming,1970-01-10 07:02:48,1970-01-11 07:39:38,15
+200,Business idea consolidation,1970-01-10 07:02:48,1970-01-18 01:16:29,15
+201,Core team selection,1970-01-10 07:02:48,1970-02-06 13:10:12,15
+202,Business planning,1970-01-18 01:16:29,1970-02-14 02:43:57,15
+203,Priority search,1970-01-11 07:39:38,1970-01-12 08:43:55,15
+204,User personas definition,1970-01-18 01:16:29,1970-01-19 01:45:39,15
+205,Product discovery & prototyping,1970-01-19 01:45:39,1970-03-03 13:03:41,15
+206,Technical feasibility analysis,1970-03-03 13:03:41,1970-03-06 21:36:38,15
+207,Lean market validation,1970-03-06 21:36:38,1970-04-01 17:56:18,15
+208,Brand identity creation,1970-01-12 08:43:55,1970-01-26 20:45:45,15
+209,Prototyping refinements,1970-04-01 17:56:18,1970-04-08 13:43:27,15
+210,Technical feasibility analysis,1970-04-08 13:43:27,1970-04-12 03:47:27,15
+211,Prototyping refinements,1970-04-12 03:47:27,1970-04-19 07:03:53,15
+212,Trademark registration,1970-01-26 20:45:45,1970-03-16 20:17:14,15
+213,Technical feasibility analysis,1970-04-19 07:03:53,1970-04-22 01:30:38,15
+214,Prototyping refinements,1970-04-22 01:30:38,1970-04-29 12:35:56,15
+215,Technical feasibility analysis,1970-04-29 12:35:56,1970-05-02 21:04:24,15
+216,Lean market validation,1970-05-02 21:04:24,1970-05-28 21:48:08,15
+217,Tech operations kick-off,1970-05-28 21:48:08,1970-05-29 23:00:51,15
+218,Tech stack identification,1970-05-29 23:00:51,1970-06-03 20:52:54,15
+219,Backlog creation,1970-05-29 23:00:51,1970-06-02 06:08:11,15
+220,Architecture design,1970-05-29 23:00:51,1970-06-07 23:14:58,15
+221,Investors roadshow,1970-05-28 21:48:08,1970-07-20 23:40:31,15
+222,Investment committee,1970-07-20 23:40:31,1970-07-21 22:46:44,15
+223,Co-founder engagement,1970-01-01 01:15:42,1970-01-02 00:07:50,16
+224,Co-founder termsheet - customization,1970-01-02 00:07:50,1970-01-03 03:48:50,16
+225,Co-founder termsheet - signing,1970-01-03 03:48:50,1970-01-04 08:24:23,16
+226,Board minutes for attribution of powers,1970-01-04 08:24:23,1970-01-05 08:36:48,16
+227,Payment of company shares,1970-01-04 08:24:23,1970-01-05 05:14:48,16
+228,Co-founder contract - customization,1970-01-04 08:24:23,1970-01-07 08:16:16,16
+229,Documents collection,1970-01-04 08:24:23,1970-01-05 05:47:19,16
+230,Co-founder contract - signing,1970-01-07 08:16:16,1970-01-08 10:34:04,16
+231,Documents collection,1970-01-05 05:47:19,1970-01-06 01:48:41,16
+232,Notary appointment,1970-01-04 08:24:23,1970-01-05 04:50:09,16
+233,Documents sending to notary,1970-01-06 01:48:41,1970-01-07 04:35:21,16
+234,Founding,1970-01-07 04:35:21,1970-01-09 14:23:09,16
+235,Receipt of documents of incorporation,1970-01-09 14:23:09,1970-01-10 10:44:21,16
+236,Documents sending to labor consultant,1970-01-10 10:44:21,1970-01-11 12:25:24,16
+237,Documents sending to business consultant,1970-01-10 10:44:21,1970-01-11 11:38:39,16
+238,Operations kick-off,1970-01-09 14:23:09,1970-01-10 16:30:04,16
+239,Creation of social books,1970-01-11 11:38:39,1970-01-12 15:36:35,16
+240,Bank account creation,1970-01-12 15:36:35,1970-01-18 12:22:43,16
+241,Funds transfer,1970-01-18 12:22:43,1970-01-19 08:22:10,16
+242,Tax registration,1970-01-11 12:25:24,1970-01-12 10:47:03,16
+243,Registered office activation,1970-01-19 08:22:10,1970-01-20 13:05:37,16
+244,Documents sending to lawyer,1970-01-10 10:44:21,1970-01-11 12:42:48,16
+245,Naming,1970-01-10 16:30:04,1970-01-11 19:31:49,16
+246,Core team selection,1970-01-10 16:30:04,1970-02-11 05:47:24,16
+247,Priority search,1970-01-11 19:31:49,1970-01-12 17:48:00,16
+248,Brand identity creation,1970-01-12 17:48:00,1970-01-26 04:36:27,16
+249,Trademark registration,1970-01-26 04:36:27,1970-03-29 12:37:34,16
+250,Business idea consolidation,1970-01-10 16:30:04,1970-01-16 07:07:25,16
+251,Business planning,1970-01-16 07:07:25,1970-02-20 13:25:28,16
+252,User personas definition,1970-01-16 07:07:25,1970-01-17 05:36:38,16
+253,Product discovery & prototyping,1970-01-17 05:36:38,1970-02-20 18:13:26,16
+254,Technical feasibility analysis,1970-02-20 18:13:26,1970-02-23 18:33:44,16
+255,Prototyping refinements,1970-02-23 18:33:44,1970-03-02 06:00:08,16
+256,Technical feasibility analysis,1970-03-02 06:00:08,1970-03-05 13:50:53,16
+257,Prototyping refinements,1970-03-05 13:50:53,1970-03-12 12:31:21,16
+258,Technical feasibility analysis,1970-03-12 12:31:21,1970-03-15 23:41:00,16
+259,Lean market validation,1970-03-15 23:41:00,1970-04-19 15:36:02,16
+260,Tech operations kick-off,1970-04-19 15:36:02,1970-04-20 15:02:25,16
+261,Tech stack identification,1970-04-20 15:02:25,1970-04-26 12:25:01,16
+262,Architecture design,1970-04-20 15:02:25,1970-05-01 04:26:58,16
+263,Backlog creation,1970-04-20 15:02:25,1970-04-24 02:14:09,16
+264,Investors roadshow,1970-04-19 15:36:02,1970-06-29 05:09:04,16
+265,Investment committee,1970-06-29 05:09:04,1970-06-30 08:32:45,16
+266,Co-founder engagement,1970-01-01 01:22:51,1970-01-01 23:43:14,24
+267,Co-founder termsheet - customization,1970-01-01 23:43:14,1970-01-03 00:14:22,24
+268,Co-founder termsheet - signing,1970-01-03 00:14:22,1970-01-03 22:26:39,24
+269,Board minutes for attribution of powers,1970-01-03 22:26:39,1970-01-04 23:57:34,24
+270,Documents collection,1970-01-03 22:26:39,1970-01-04 19:02:40,24
+271,Documents sending to notary,1970-01-04 19:02:40,1970-01-05 18:36:08,24
+272,Payment of company shares,1970-01-03 22:26:39,1970-01-05 01:11:32,24
+273,Notary appointment,1970-01-03 22:26:39,1970-01-04 18:38:27,24
+274,Co-founder contract - customization,1970-01-03 22:26:39,1970-01-06 08:45:36,24
+275,Co-founder contract - signing,1970-01-06 08:45:36,1970-01-07 04:56:30,24
+276,Founding,1970-01-05 18:36:08,1970-01-08 19:59:10,24
+277,Receipt of documents of incorporation,1970-01-08 19:59:10,1970-01-09 16:34:10,24
+278,Documents sending to lawyer,1970-01-09 16:34:10,1970-01-10 19:45:06,24
+279,Operations kick-off,1970-01-08 19:59:10,1970-01-09 17:52:48,24
+280,Documents sending to labor consultant,1970-01-09 16:34:10,1970-01-10 21:05:19,24
+281,Documents sending to business consultant,1970-01-09 16:34:10,1970-01-10 15:45:55,24
+282,Tax registration,1970-01-10 21:05:19,1970-01-11 21:35:24,24
+283,Creation of social books,1970-01-10 15:45:55,1970-01-11 12:04:38,24
+284,Bank account creation,1970-01-11 12:04:38,1970-01-15 19:22:40,24
+285,Funds transfer,1970-01-15 19:22:40,1970-01-16 17:13:09,24
+286,Registered office activation,1970-01-16 17:13:09,1970-01-17 18:40:31,24
+287,Naming,1970-01-09 17:52:48,1970-01-10 18:27:22,24
+288,Priority search,1970-01-10 18:27:22,1970-01-11 21:49:20,24
+289,Brand identity creation,1970-01-11 21:49:20,1970-01-28 01:23:05,24
+290,Trademark registration,1970-01-28 01:23:05,1970-03-21 14:47:11,24
+291,Core team selection,1970-01-09 17:52:48,1970-02-10 13:14:34,24
+292,Business idea consolidation,1970-01-09 17:52:48,1970-01-17 21:27:11,24
+293,User personas definition,1970-01-17 21:27:11,1970-01-19 01:32:33,24
+294,Business planning,1970-01-17 21:27:11,1970-02-13 13:45:32,24
+295,Product discovery & prototyping,1970-01-19 01:32:33,1970-03-06 04:22:02,24
+296,Technical feasibility analysis,1970-03-06 04:22:02,1970-03-08 16:49:06,24
+297,Prototyping refinements,1970-03-08 16:49:06,1970-03-16 22:16:38,24
+298,Technical feasibility analysis,1970-03-16 22:16:38,1970-03-20 03:20:51,24
+299,Lean market validation,1970-03-20 03:20:51,1970-04-20 03:34:34,24
+300,Tech operations kick-off,1970-04-20 03:34:34,1970-04-21 05:39:26,24
+301,Backlog creation,1970-04-21 05:39:26,1970-04-23 23:48:54,24
+302,Architecture design,1970-04-21 05:39:26,1970-05-02 08:00:16,24
+303,Tech stack identification,1970-04-21 05:39:26,1970-04-25 10:34:55,24
+304,Investors roadshow,1970-04-20 03:34:34,1970-06-19 04:58:14,24
+305,Investment committee,1970-06-19 04:58:14,1970-06-20 08:33:23,24
+306,Co-founder engagement,1970-01-01 01:23:31,1970-01-02 03:11:45,25
+307,Co-founder termsheet - customization,1970-01-02 03:11:45,1970-01-03 00:59:28,25
+308,Co-founder termsheet - signing,1970-01-03 00:59:28,1970-01-04 04:06:02,25
+309,Documents collection,1970-01-04 04:06:02,1970-01-05 01:14:19,25
+310,Board minutes for attribution of powers,1970-01-04 04:06:02,1970-01-05 02:08:01,25
+311,Payment of company shares,1970-01-04 04:06:02,1970-01-05 02:09:57,25
+312,Co-founder contract - customization,1970-01-04 04:06:02,1970-01-07 04:38:04,25
+313,Documents sending to notary,1970-01-05 01:14:19,1970-01-05 23:43:31,25
+314,Co-founder contract - signing,1970-01-07 04:38:04,1970-01-08 03:50:05,25
+315,Notary appointment,1970-01-04 04:06:02,1970-01-05 06:14:31,25
+316,Founding,1970-01-05 23:43:31,1970-01-09 11:26:26,25
+317,Operations kick-off,1970-01-09 11:26:26,1970-01-10 15:23:18,25
+318,Receipt of documents of incorporation,1970-01-09 11:26:26,1970-01-10 15:41:59,25
+319,Documents sending to business consultant,1970-01-10 15:41:59,1970-01-11 18:21:57,25
+320,Documents sending to labor consultant,1970-01-10 15:41:59,1970-01-11 13:06:43,25
+321,Creation of social books,1970-01-11 18:21:57,1970-01-12 20:46:41,25
+322,Tax registration,1970-01-11 13:06:43,1970-01-12 11:45:26,25
+323,Documents sending to lawyer,1970-01-10 15:41:59,1970-01-11 13:39:31,25
+324,Bank account creation,1970-01-12 20:46:41,1970-01-18 11:04:29,25
+325,Funds transfer,1970-01-18 11:04:29,1970-01-19 06:45:02,25
+326,Registered office activation,1970-01-19 06:45:02,1970-01-20 05:15:59,25
+327,Core team selection,1970-01-10 15:23:18,1970-02-07 21:47:19,25
+328,Naming,1970-01-10 15:23:18,1970-01-11 13:47:09,25
+329,Priority search,1970-01-11 13:47:09,1970-01-12 13:00:33,25
+330,Business idea consolidation,1970-01-10 15:23:18,1970-01-18 04:35:51,25
+331,Brand identity creation,1970-01-12 13:00:33,1970-01-28 06:53:00,25
+332,Trademark registration,1970-01-28 06:53:00,1970-03-20 18:04:10,25
+333,User personas definition,1970-01-18 04:35:51,1970-01-19 07:40:19,25
+334,Business planning,1970-01-18 04:35:51,1970-02-17 06:18:32,25
+335,Product discovery & prototyping,1970-01-19 07:40:19,1970-02-27 23:49:13,25
+336,Technical feasibility analysis,1970-02-27 23:49:13,1970-03-03 06:36:46,25
+337,Prototyping refinements,1970-03-03 06:36:46,1970-03-11 05:26:00,25
+338,Technical feasibility analysis,1970-03-11 05:26:00,1970-03-14 17:00:45,25
+339,Lean market validation,1970-03-14 17:00:45,1970-04-10 21:40:35,25
+340,Prototyping refinements,1970-04-10 21:40:35,1970-04-19 07:10:55,25
+341,Technical feasibility analysis,1970-04-19 07:10:55,1970-04-22 06:14:25,25
+342,Prototyping refinements,1970-04-22 06:14:25,1970-04-28 22:16:29,25
+343,Technical feasibility analysis,1970-04-28 22:16:29,1970-05-01 19:31:54,25
+344,Lean market validation,1970-05-01 19:31:54,1970-05-29 00:19:27,25
+345,Tech operations kick-off,1970-05-29 00:19:27,1970-05-29 21:07:07,25
+346,Backlog creation,1970-05-29 21:07:07,1970-06-01 15:07:58,25
+347,Tech stack identification,1970-05-29 21:07:07,1970-06-03 12:33:40,25
+348,Architecture design,1970-05-29 21:07:07,1970-06-10 20:00:34,25
+349,Investors roadshow,1970-05-29 00:19:27,1970-07-29 13:09:22,25
+350,Investment committee,1970-07-29 13:09:22,1970-07-30 13:22:57,25
+351,Co-founder engagement,1970-01-01 01:34:04,1970-01-01 23:03:00,35
+352,Co-founder termsheet - customization,1970-01-01 23:03:00,1970-01-02 22:26:32,35
+353,Co-founder termsheet - signing,1970-01-02 22:26:32,1970-01-03 22:31:28,35
+354,Notary appointment,1970-01-03 22:31:28,1970-01-04 19:49:37,35
+355,Co-founder contract - customization,1970-01-03 22:31:28,1970-01-06 18:32:35,35
+356,Board minutes for attribution of powers,1970-01-03 22:31:28,1970-01-04 19:50:23,35
+357,Co-founder contract - signing,1970-01-06 18:32:35,1970-01-07 19:40:20,35
+358,Documents collection,1970-01-03 22:31:28,1970-01-05 02:53:15,35
+359,Documents sending to notary,1970-01-05 02:53:15,1970-01-05 23:46:19,35
+360,Payment of company shares,1970-01-03 22:31:28,1970-01-04 19:25:13,35
+361,Founding,1970-01-05 23:46:19,1970-01-09 09:59:20,35
+362,Operations kick-off,1970-01-09 09:59:20,1970-01-10 10:42:45,35
+363,Receipt of documents of incorporation,1970-01-09 09:59:20,1970-01-10 06:32:07,35
+364,Documents sending to business consultant,1970-01-10 06:32:07,1970-01-11 05:28:38,35
+365,Documents sending to lawyer,1970-01-10 06:32:07,1970-01-11 08:19:59,35
+366,Documents sending to labor consultant,1970-01-10 06:32:07,1970-01-11 02:30:25,35
+367,Tax registration,1970-01-11 02:30:25,1970-01-11 23:48:05,35
+368,Creation of social books,1970-01-11 05:28:38,1970-01-12 05:06:43,35
+369,Bank account creation,1970-01-12 05:06:43,1970-01-17 03:40:48,35
+370,Funds transfer,1970-01-17 03:40:48,1970-01-18 06:26:19,35
+371,Registered office activation,1970-01-18 06:26:19,1970-01-19 06:14:13,35
+372,Naming,1970-01-10 10:42:45,1970-01-11 14:44:36,35
+373,Priority search,1970-01-11 14:44:36,1970-01-12 18:32:09,35
+374,Brand identity creation,1970-01-12 18:32:09,1970-01-25 10:53:22,35
+375,Core team selection,1970-01-10 10:42:45,1970-02-08 21:47:55,35
+376,Business idea consolidation,1970-01-10 10:42:45,1970-01-16 19:52:11,35
+377,User personas definition,1970-01-16 19:52:11,1970-01-17 22:18:39,35
+378,Business planning,1970-01-16 19:52:11,1970-02-15 01:39:56,35
+379,Product discovery & prototyping,1970-01-17 22:18:39,1970-03-06 17:52:51,35
+380,Trademark registration,1970-01-25 10:53:22,1970-03-27 16:43:12,35
+381,Technical feasibility analysis,1970-03-06 17:52:51,1970-03-10 05:21:37,35
+382,Prototyping refinements,1970-03-10 05:21:37,1970-03-18 14:15:40,35
+383,Technical feasibility analysis,1970-03-18 14:15:40,1970-03-21 13:44:27,35
+384,Lean market validation,1970-03-21 13:44:27,1970-04-16 03:39:55,35
+385,Prototyping refinements,1970-04-16 03:39:55,1970-04-22 08:01:23,35
+386,Technical feasibility analysis,1970-04-22 08:01:23,1970-04-24 20:57:08,35
+387,Lean market validation,1970-04-24 20:57:08,1970-05-30 15:38:56,35
+388,Tech operations kick-off,1970-05-30 15:38:56,1970-05-31 19:25:08,35
+389,Backlog creation,1970-05-31 19:25:08,1970-06-04 04:39:24,35
+390,Architecture design,1970-05-31 19:25:08,1970-06-12 15:18:16,35
+391,Tech stack identification,1970-05-31 19:25:08,1970-06-05 03:15:13,35
+392,Investors roadshow,1970-05-30 15:38:56,1970-08-09 00:51:21,35
+393,No Actions,1970-08-09 00:51:21,1970-08-10 00:02:14,35
+394,Co-founder engagement,1970-01-01 01:45:56,1970-01-02 05:21:53,45
+395,Co-founder termsheet - customization,1970-01-02 05:21:53,1970-01-03 04:04:35,45
+396,Co-founder termsheet - signing,1970-01-03 04:04:35,1970-01-04 03:31:32,45
+397,Payment of company shares,1970-01-04 03:31:32,1970-01-05 07:52:29,45
+398,Notary appointment,1970-01-04 03:31:32,1970-01-05 06:01:44,45
+399,Board minutes for attribution of powers,1970-01-04 03:31:32,1970-01-05 03:13:08,45
+400,Co-founder contract - customization,1970-01-04 03:31:32,1970-01-07 09:18:50,45
+401,Documents collection,1970-01-04 03:31:32,1970-01-05 06:18:20,45
+402,Documents sending to notary,1970-01-05 06:18:20,1970-01-06 07:28:13,45
+403,Co-founder contract - signing,1970-01-07 09:18:50,1970-01-08 11:27:59,45
+404,Founding,1970-01-06 07:28:13,1970-01-08 22:15:10,45
+405,Operations kick-off,1970-01-08 22:15:10,1970-01-10 02:05:49,45
+406,Receipt of documents of incorporation,1970-01-08 22:15:10,1970-01-09 21:46:15,45
+407,Documents sending to business consultant,1970-01-09 21:46:15,1970-01-10 23:55:37,45
+408,Documents sending to labor consultant,1970-01-09 21:46:15,1970-01-11 00:48:18,45
+409,Documents sending to lawyer,1970-01-09 21:46:15,1970-01-10 17:42:46,45
+410,Creation of social books,1970-01-10 23:55:37,1970-01-12 00:58:42,45
+411,Bank account creation,1970-01-12 00:58:42,1970-01-17 00:20:10,45
+412,Funds transfer,1970-01-17 00:20:10,1970-01-17 21:31:19,45
+413,Registered office activation,1970-01-17 21:31:19,1970-01-18 17:31:38,45
+414,Tax registration,1970-01-11 00:48:18,1970-01-11 21:49:59,45
+415,Naming,1970-01-10 02:05:49,1970-01-10 23:39:09,45
+416,Priority search,1970-01-10 23:39:09,1970-01-11 19:56:32,45
+417,Core team selection,1970-01-10 02:05:49,1970-02-05 11:52:06,45
+418,Brand identity creation,1970-01-11 19:56:32,1970-01-27 00:50:07,45
+419,Trademark registration,1970-01-27 00:50:07,1970-03-27 00:35:46,45
+420,Business idea consolidation,1970-01-10 02:05:49,1970-01-15 18:27:44,45
+421,Business planning,1970-01-15 18:27:44,1970-02-19 03:07:27,45
+422,User personas definition,1970-01-15 18:27:44,1970-01-16 21:33:55,45
+423,Product discovery & prototyping,1970-01-16 21:33:55,1970-02-23 09:02:40,45
+424,Technical feasibility analysis,1970-02-23 09:02:40,1970-02-26 04:47:25,45
+425,Prototyping refinements,1970-02-26 04:47:25,1970-03-04 23:26:46,45
+426,Technical feasibility analysis,1970-03-04 23:26:46,1970-03-08 13:04:24,45
+427,Lean market validation,1970-03-08 13:04:24,1970-04-07 04:29:47,45
+428,Tech operations kick-off,1970-04-07 04:29:47,1970-04-08 06:15:25,45
+429,Backlog creation,1970-04-08 06:15:25,1970-04-11 06:42:34,45
+430,Architecture design,1970-04-08 06:15:25,1970-04-19 00:36:04,45
+431,Tech stack identification,1970-04-08 06:15:25,1970-04-14 01:45:54,45
+432,Investors roadshow,1970-04-07 04:29:47,1970-06-12 08:45:55,45
+433,Investment committee,1970-06-12 08:45:55,1970-06-13 10:24:06,45
+434,Co-founder engagement,1970-01-01 01:49:50,1970-01-01 22:47:19,50
+435,Co-founder termsheet - customization,1970-01-01 22:47:19,1970-01-02 18:18:36,50
+436,Co-founder termsheet - signing,1970-01-02 18:18:36,1970-01-03 16:29:54,50
+437,Co-founder contract - customization,1970-01-03 16:29:54,1970-01-06 09:16:44,50
+438,Co-founder contract - signing,1970-01-06 09:16:44,1970-01-07 08:28:15,50
+439,Documents collection,1970-01-03 16:29:54,1970-01-04 15:04:53,50
+440,Notary appointment,1970-01-03 16:29:54,1970-01-04 16:49:15,50
+441,Board minutes for attribution of powers,1970-01-03 16:29:54,1970-01-04 14:21:57,50
+442,Documents sending to notary,1970-01-04 15:04:53,1970-01-05 10:50:21,50
+443,Payment of company shares,1970-01-03 16:29:54,1970-01-04 19:48:02,50
+444,Founding,1970-01-05 10:50:21,1970-01-07 23:34:21,50
+445,Receipt of documents of incorporation,1970-01-07 23:34:21,1970-01-09 01:10:45,50
+446,Documents sending to lawyer,1970-01-09 01:10:45,1970-01-09 21:12:21,50
+447,Operations kick-off,1970-01-07 23:34:21,1970-01-09 03:03:22,50
+448,Documents sending to business consultant,1970-01-09 01:10:45,1970-01-09 23:49:07,50
+449,Documents sending to labor consultant,1970-01-09 01:10:45,1970-01-10 01:30:04,50
+450,Tax registration,1970-01-10 01:30:04,1970-01-11 00:06:21,50
+451,Creation of social books,1970-01-09 23:49:07,1970-01-11 02:33:53,50
+452,Bank account creation,1970-01-11 02:33:53,1970-01-16 22:42:42,50
+453,Funds transfer,1970-01-16 22:42:42,1970-01-18 00:00:44,50
+454,Registered office activation,1970-01-18 00:00:44,1970-01-18 19:14:41,50
+455,Business idea consolidation,1970-01-09 03:03:22,1970-01-16 07:08:31,50
+456,Business planning,1970-01-16 07:08:31,1970-02-10 05:08:59,50
+457,User personas definition,1970-01-16 07:08:31,1970-01-17 06:24:07,50
+458,Naming,1970-01-09 03:03:22,1970-01-10 01:32:16,50
+459,Priority search,1970-01-10 01:32:16,1970-01-11 02:11:32,50
+460,Product discovery & prototyping,1970-01-17 06:24:07,1970-02-23 17:20:32,50
+461,Core team selection,1970-01-09 03:03:22,1970-02-12 17:50:38,50
+462,Brand identity creation,1970-01-11 02:11:32,1970-01-26 16:58:33,50
+463,Trademark registration,1970-01-26 16:58:33,1970-04-04 22:57:37,50
+464,Technical feasibility analysis,1970-02-23 17:20:32,1970-02-26 03:41:29,50
+465,Prototyping refinements,1970-02-26 03:41:29,1970-03-05 10:08:30,50
+466,Technical feasibility analysis,1970-03-05 10:08:30,1970-03-07 20:19:57,50
+467,Prototyping refinements,1970-03-07 20:19:57,1970-03-14 22:06:38,50
+468,Technical feasibility analysis,1970-03-14 22:06:38,1970-03-17 23:05:20,50
+469,Lean market validation,1970-03-17 23:05:20,1970-04-20 00:33:41,50
+470,Tech operations kick-off,1970-04-20 00:33:41,1970-04-20 21:13:03,50
+471,Architecture design,1970-04-20 21:13:03,1970-05-01 14:02:58,50
+472,Backlog creation,1970-04-20 21:13:03,1970-04-24 09:54:31,50
+473,Tech stack identification,1970-04-20 21:13:03,1970-04-26 13:38:37,50
+474,Investors roadshow,1970-04-20 00:33:41,1970-06-19 16:01:58,50
+475,Investment committee,1970-06-19 16:01:58,1970-06-20 17:56:00,50
+476,Co-founder engagement,1970-01-01 01:52:00,1970-01-01 22:22:46,52
+477,Co-founder termsheet - customization,1970-01-01 22:22:46,1970-01-02 17:43:02,52
+478,Co-founder termsheet - signing,1970-01-02 17:43:02,1970-01-03 16:26:54,52
+479,Co-founder contract - customization,1970-01-03 16:26:54,1970-01-06 02:39:10,52
+480,Payment of company shares,1970-01-03 16:26:54,1970-01-04 14:57:44,52
+481,Board minutes for attribution of powers,1970-01-03 16:26:54,1970-01-04 18:21:51,52
+482,Notary appointment,1970-01-03 16:26:54,1970-01-04 13:38:21,52
+483,Documents collection,1970-01-03 16:26:54,1970-01-04 19:56:51,52
+484,Co-founder contract - signing,1970-01-06 02:39:10,1970-01-07 04:54:26,52
+485,Documents collection,1970-01-04 19:56:51,1970-01-05 15:15:02,52
+486,Documents sending to notary,1970-01-05 15:15:02,1970-01-06 15:23:28,52
+487,Founding,1970-01-06 15:23:28,1970-01-09 06:33:27,52
+488,Receipt of documents of incorporation,1970-01-09 06:33:27,1970-01-10 04:35:14,52
+489,Documents sending to lawyer,1970-01-10 04:35:14,1970-01-11 02:13:25,52
+490,Documents sending to labor consultant,1970-01-10 04:35:14,1970-01-11 09:22:16,52
+491,Documents sending to business consultant,1970-01-10 04:35:14,1970-01-11 02:05:22,52
+492,Operations kick-off,1970-01-09 06:33:27,1970-01-10 09:27:24,52
+493,Tax registration,1970-01-11 09:22:16,1970-01-12 14:02:50,52
+494,Creation of social books,1970-01-11 02:05:22,1970-01-12 04:47:51,52
+495,Bank account creation,1970-01-12 04:47:51,1970-01-17 11:39:15,52
+496,Funds transfer,1970-01-17 11:39:15,1970-01-18 11:43:12,52
+497,Registered office activation,1970-01-18 11:43:12,1970-01-19 11:41:45,52
+498,Naming,1970-01-10 09:27:24,1970-01-11 06:48:13,52
+499,Business idea consolidation,1970-01-10 09:27:24,1970-01-18 11:25:23,52
+500,Priority search,1970-01-11 06:48:13,1970-01-12 08:50:35,52
+501,Business planning,1970-01-18 11:25:23,1970-02-17 02:55:52,52
+502,Brand identity creation,1970-01-12 08:50:35,1970-01-27 20:19:59,52
+503,Trademark registration,1970-01-27 20:19:59,1970-03-30 07:51:23,52
+504,Core team selection,1970-01-10 09:27:24,1970-02-05 07:38:36,52
+505,User personas definition,1970-01-18 11:25:23,1970-01-19 12:49:43,52
+506,Product discovery & prototyping,1970-01-19 12:49:43,1970-03-03 16:04:56,52
+507,Technical feasibility analysis,1970-03-03 16:04:56,1970-03-06 20:05:42,52
+508,Prototyping refinements,1970-03-06 20:05:42,1970-03-13 10:02:36,52
+509,Technical feasibility analysis,1970-03-13 10:02:36,1970-03-16 16:47:14,52
+510,Lean market validation,1970-03-16 16:47:14,1970-04-11 17:59:43,52
+511,Prototyping refinements,1970-04-11 17:59:43,1970-04-18 14:06:43,52
+512,Technical feasibility analysis,1970-04-18 14:06:43,1970-04-21 19:36:34,52
+513,Lean market validation,1970-04-21 19:36:34,1970-05-19 15:14:15,52
+514,Tech operations kick-off,1970-05-19 15:14:15,1970-05-20 20:11:55,52
+515,Backlog creation,1970-05-20 20:11:55,1970-05-23 15:09:03,52
+516,Tech stack identification,1970-05-20 20:11:55,1970-05-25 14:06:02,52
+517,Architecture design,1970-05-20 20:11:55,1970-05-31 01:49:39,52
+518,Investors roadshow,1970-05-19 15:14:15,1970-07-20 13:08:29,52
+519,Investment committee,1970-07-20 13:08:29,1970-07-21 18:52:44,52
+520,Co-founder engagement,1970-01-01 01:56:51,1970-01-01 21:25:36,58
+521,Co-founder termsheet - customization,1970-01-01 21:25:36,1970-01-02 17:12:06,58
+522,Co-founder termsheet - signing,1970-01-02 17:12:06,1970-01-03 13:30:46,58
+523,Payment of company shares,1970-01-03 13:30:46,1970-01-04 13:34:33,58
+524,Board minutes for attribution of powers,1970-01-03 13:30:46,1970-01-04 15:56:30,58
+525,Notary appointment,1970-01-03 13:30:46,1970-01-04 09:41:29,58
+526,Documents collection,1970-01-03 13:30:46,1970-01-04 13:05:05,58
+527,Documents sending to notary,1970-01-04 13:05:05,1970-01-05 12:12:09,58
+528,Co-founder contract - customization,1970-01-03 13:30:46,1970-01-06 01:23:21,58
+529,Co-founder contract - signing,1970-01-06 01:23:21,1970-01-06 21:54:56,58
+530,Founding,1970-01-05 12:12:09,1970-01-08 12:03:41,58
+531,Receipt of documents of incorporation,1970-01-08 12:03:41,1970-01-09 13:23:43,58
+532,Documents sending to business consultant,1970-01-09 13:23:43,1970-01-10 09:25:49,58
+533,Documents sending to labor consultant,1970-01-09 13:23:43,1970-01-10 10:07:41,58
+534,Creation of social books,1970-01-10 09:25:49,1970-01-11 06:03:38,58
+535,Tax registration,1970-01-10 10:07:41,1970-01-11 12:37:14,58
+536,Operations kick-off,1970-01-08 12:03:41,1970-01-09 11:26:22,58
+537,Bank account creation,1970-01-11 06:03:38,1970-01-16 17:36:45,58
+538,Documents sending to lawyer,1970-01-09 13:23:43,1970-01-10 16:40:42,58
+539,Funds transfer,1970-01-16 17:36:45,1970-01-17 18:55:45,58
+540,Registered office activation,1970-01-17 18:55:45,1970-01-18 14:25:11,58
+541,Business idea consolidation,1970-01-09 11:26:22,1970-01-16 02:34:50,58
+542,Core team selection,1970-01-09 11:26:22,1970-02-11 10:51:06,58
+543,User personas definition,1970-01-16 02:34:50,1970-01-16 22:55:48,58
+544,Business planning,1970-01-16 02:34:50,1970-02-14 17:11:19,58
+545,Product discovery & prototyping,1970-01-16 22:55:48,1970-02-22 14:37:49,58
+546,Naming,1970-01-09 11:26:22,1970-01-10 06:47:01,58
+547,Priority search,1970-01-10 06:47:01,1970-01-11 11:05:18,58
+548,Technical feasibility analysis,1970-02-22 14:37:49,1970-02-25 07:05:11,58
+549,Lean market validation,1970-02-25 07:05:11,1970-03-31 04:40:43,58
+550,Brand identity creation,1970-01-11 11:05:18,1970-01-24 16:22:25,58
+551,Prototyping refinements,1970-03-31 04:40:43,1970-04-07 16:31:17,58
+552,Trademark registration,1970-01-24 16:22:25,1970-04-04 07:12:06,58
+553,Technical feasibility analysis,1970-04-07 16:31:17,1970-04-11 05:41:46,58
+554,Prototyping refinements,1970-04-11 05:41:46,1970-04-17 12:13:04,58
+555,Technical feasibility analysis,1970-04-17 12:13:04,1970-04-20 17:53:32,58
+556,Lean market validation,1970-04-20 17:53:32,1970-05-19 16:43:24,58
+557,Tech operations kick-off,1970-05-19 16:43:24,1970-05-20 22:08:20,58
+558,Tech stack identification,1970-05-20 22:08:20,1970-05-26 04:06:32,58
+559,Architecture design,1970-05-20 22:08:20,1970-05-30 19:49:55,58
+560,Backlog creation,1970-05-20 22:08:20,1970-05-23 21:03:06,58
+561,Investors roadshow,1970-05-19 16:43:24,1970-07-22 10:55:13,58
+562,Investment committee,1970-07-22 10:55:13,1970-07-23 08:12:28,58
+563,Co-founder engagement,1970-01-01 02:02:11,1970-01-02 03:04:54,63
+564,Co-founder termsheet - customization,1970-01-02 03:04:54,1970-01-03 06:44:57,63
+565,Co-founder termsheet - signing,1970-01-03 06:44:57,1970-01-04 11:24:58,63
+566,Documents collection,1970-01-04 11:24:58,1970-01-05 16:12:10,63
+567,Notary appointment,1970-01-04 11:24:58,1970-01-05 10:57:06,63
+568,Board minutes for attribution of powers,1970-01-04 11:24:58,1970-01-05 14:59:05,63
+569,Documents collection,1970-01-05 16:12:10,1970-01-06 12:27:55,63
+570,Co-founder contract - customization,1970-01-04 11:24:58,1970-01-06 22:26:25,63
+571,Documents sending to notary,1970-01-06 12:27:55,1970-01-07 08:25:22,63
+572,Payment of company shares,1970-01-04 11:24:58,1970-01-05 14:50:05,63
+573,Co-founder contract - signing,1970-01-06 22:26:25,1970-01-08 03:07:19,63
+574,Founding,1970-01-07 08:25:22,1970-01-10 00:51:21,63
+575,Receipt of documents of incorporation,1970-01-10 00:51:21,1970-01-10 20:57:38,63
+576,Documents sending to business consultant,1970-01-10 20:57:38,1970-01-12 01:10:35,63
+577,Creation of social books,1970-01-12 01:10:35,1970-01-13 01:50:58,63
+578,Operations kick-off,1970-01-10 00:51:21,1970-01-10 20:16:22,63
+579,Bank account creation,1970-01-13 01:50:58,1970-01-17 16:51:31,63
+580,Funds transfer,1970-01-17 16:51:31,1970-01-18 16:09:55,63
+581,Documents sending to lawyer,1970-01-10 20:57:38,1970-01-12 01:41:25,63
+582,Registered office activation,1970-01-18 16:09:55,1970-01-19 19:42:28,63
+583,Documents sending to labor consultant,1970-01-10 20:57:38,1970-01-11 20:25:03,63
+584,Tax registration,1970-01-11 20:25:03,1970-01-12 22:29:59,63
+585,Naming,1970-01-10 20:16:22,1970-01-11 22:37:21,63
+586,Business idea consolidation,1970-01-10 20:16:22,1970-01-18 13:31:16,63
+587,Priority search,1970-01-11 22:37:21,1970-01-12 23:32:27,63
+588,Brand identity creation,1970-01-12 23:32:27,1970-01-26 12:20:12,63
+589,User personas definition,1970-01-18 13:31:16,1970-01-19 10:14:14,63
+590,Business planning,1970-01-18 13:31:16,1970-02-22 13:31:21,63
+591,Product discovery & prototyping,1970-01-19 10:14:14,1970-02-25 06:21:29,63
+592,Core team selection,1970-01-10 20:16:22,1970-02-13 04:50:52,63
+593,Technical feasibility analysis,1970-02-25 06:21:29,1970-02-28 18:03:07,63
+594,Trademark registration,1970-01-26 12:20:12,1970-03-17 13:17:47,63
+595,Prototyping refinements,1970-02-28 18:03:07,1970-03-08 08:24:37,63
+596,Technical feasibility analysis,1970-03-08 08:24:37,1970-03-11 06:48:56,63
+597,Prototyping refinements,1970-03-11 06:48:56,1970-03-17 04:02:12,63
+598,Technical feasibility analysis,1970-03-17 04:02:12,1970-03-19 15:41:24,63
+599,Lean market validation,1970-03-19 15:41:24,1970-04-14 05:16:58,63
+600,Tech operations kick-off,1970-04-14 05:16:58,1970-04-15 09:33:21,63
+601,Backlog creation,1970-04-15 09:33:21,1970-04-18 04:27:54,63
+602,Architecture design,1970-04-15 09:33:21,1970-04-25 22:40:44,63
+603,Tech stack identification,1970-04-15 09:33:21,1970-04-19 21:23:55,63
+604,Investors roadshow,1970-04-14 05:16:58,1970-06-21 23:42:28,63
+605,Investment committee,1970-06-21 23:42:28,1970-06-23 03:25:09,63
+606,Co-founder engagement,1970-01-01 02:04:38,1970-01-02 04:08:28,66
+607,Co-founder termsheet - customization,1970-01-02 04:08:28,1970-01-03 05:33:40,66
+608,Co-founder termsheet - signing,1970-01-03 05:33:40,1970-01-04 07:37:43,66
+609,Board minutes for attribution of powers,1970-01-04 07:37:43,1970-01-05 11:26:28,66
+610,Payment of company shares,1970-01-04 07:37:43,1970-01-05 03:41:10,66
+611,Documents collection,1970-01-04 07:37:43,1970-01-05 07:26:50,66
+612,Notary appointment,1970-01-04 07:37:43,1970-01-05 09:30:54,66
+613,Documents sending to notary,1970-01-05 07:26:50,1970-01-06 07:34:25,66
+614,Co-founder contract - customization,1970-01-04 07:37:43,1970-01-07 09:06:08,66
+615,Co-founder contract - signing,1970-01-07 09:06:08,1970-01-08 07:14:41,66
+616,Founding,1970-01-06 07:34:25,1970-01-09 02:23:39,66
+617,Operations kick-off,1970-01-09 02:23:39,1970-01-10 00:05:07,66
+618,Receipt of documents of incorporation,1970-01-09 02:23:39,1970-01-10 06:42:01,66
+619,Documents sending to business consultant,1970-01-10 06:42:01,1970-01-11 02:22:56,66
+620,Creation of social books,1970-01-11 02:22:56,1970-01-12 02:00:53,66
+621,Documents sending to labor consultant,1970-01-10 06:42:01,1970-01-11 10:26:08,66
+622,Bank account creation,1970-01-12 02:00:53,1970-01-16 12:13:46,66
+623,Tax registration,1970-01-11 10:26:08,1970-01-12 07:48:27,66
+624,Documents sending to lawyer,1970-01-10 06:42:01,1970-01-11 02:02:15,66
+625,Funds transfer,1970-01-16 12:13:46,1970-01-17 08:05:45,66
+626,Registered office activation,1970-01-17 08:05:45,1970-01-18 08:05:36,66
+627,Core team selection,1970-01-10 00:05:07,1970-02-03 01:44:31,66
+628,Business idea consolidation,1970-01-10 00:05:07,1970-01-17 15:46:06,66
+629,User personas definition,1970-01-17 15:46:06,1970-01-18 15:56:48,66
+630,Product discovery & prototyping,1970-01-18 15:56:48,1970-03-02 15:35:29,66
+631,Naming,1970-01-10 00:05:07,1970-01-11 03:10:12,66
+632,Technical feasibility analysis,1970-03-02 15:35:29,1970-03-06 00:03:26,66
+633,Business planning,1970-01-17 15:46:06,1970-02-21 12:37:36,66
+634,Prototyping refinements,1970-03-06 00:03:26,1970-03-12 13:36:56,66
+635,Priority search,1970-01-11 03:10:12,1970-01-12 02:58:41,66
+636,Brand identity creation,1970-01-12 02:58:41,1970-01-25 04:40:38,66
+637,Trademark registration,1970-01-25 04:40:38,1970-03-25 05:28:24,66
+638,Technical feasibility analysis,1970-03-12 13:36:56,1970-03-15 11:43:10,66
+639,Lean market validation,1970-03-15 11:43:10,1970-04-10 20:21:22,66
+640,Tech operations kick-off,1970-04-10 20:21:22,1970-04-11 21:40:19,66
+641,Backlog creation,1970-04-11 21:40:19,1970-04-15 09:39:07,66
+642,Architecture design,1970-04-11 21:40:19,1970-04-20 13:08:40,66
+643,Tech stack identification,1970-04-11 21:40:19,1970-04-16 07:09:46,66
+644,Investors roadshow,1970-04-10 20:21:22,1970-06-16 12:43:21,66
+645,Investment committee,1970-06-16 12:43:21,1970-06-17 18:01:52,66
+646,Co-founder engagement,1970-01-01 02:12:41,1970-01-02 00:39:45,71
+647,Co-founder termsheet - customization,1970-01-02 00:39:45,1970-01-02 21:30:58,71
+648,Co-founder termsheet - signing,1970-01-02 21:30:58,1970-01-04 01:02:26,71
+649,Documents collection,1970-01-04 01:02:26,1970-01-05 05:05:34,71
+650,Co-founder contract - customization,1970-01-04 01:02:26,1970-01-06 11:56:47,71
+651,Payment of company shares,1970-01-04 01:02:26,1970-01-05 03:31:28,71
+652,Co-founder contract - signing,1970-01-06 11:56:47,1970-01-07 09:35:57,71
+653,Board minutes for attribution of powers,1970-01-04 01:02:26,1970-01-05 00:29:43,71
+654,Documents sending to notary,1970-01-05 05:05:34,1970-01-06 04:54:34,71
+655,Notary appointment,1970-01-04 01:02:26,1970-01-04 21:44:25,71
+656,Founding,1970-01-06 04:54:34,1970-01-08 23:47:57,71
+657,Operations kick-off,1970-01-08 23:47:57,1970-01-10 03:02:48,71
+658,Receipt of documents of incorporation,1970-01-08 23:47:57,1970-01-09 19:46:40,71
+659,Documents sending to business consultant,1970-01-09 19:46:40,1970-01-10 22:20:57,71
+660,Creation of social books,1970-01-10 22:20:57,1970-01-11 23:34:18,71
+661,Documents sending to labor consultant,1970-01-09 19:46:40,1970-01-10 18:07:29,71
+662,Tax registration,1970-01-10 18:07:29,1970-01-11 13:47:52,71
+663,Bank account creation,1970-01-11 23:34:18,1970-01-17 17:10:21,71
+664,Funds transfer,1970-01-17 17:10:21,1970-01-18 15:48:34,71
+665,Documents sending to lawyer,1970-01-09 19:46:40,1970-01-10 18:49:17,71
+666,Registered office activation,1970-01-18 15:48:34,1970-01-19 18:21:30,71
+667,Business idea consolidation,1970-01-10 03:02:48,1970-01-17 17:07:47,71
+668,Naming,1970-01-10 03:02:48,1970-01-11 04:08:39,71
+669,Core team selection,1970-01-10 03:02:48,1970-02-05 01:06:17,71
+670,Business planning,1970-01-17 17:07:47,1970-02-15 17:27:54,71
+671,Priority search,1970-01-11 04:08:39,1970-01-12 06:01:33,71
+672,Brand identity creation,1970-01-12 06:01:33,1970-01-28 14:49:15,71
+673,Trademark registration,1970-01-28 14:49:15,1970-03-26 12:31:26,71
+674,User personas definition,1970-01-17 17:07:47,1970-01-18 19:16:21,71
+675,Product discovery & prototyping,1970-01-18 19:16:21,1970-03-05 13:15:56,71
+676,Technical feasibility analysis,1970-03-05 13:15:56,1970-03-07 23:45:16,71
+677,Prototyping refinements,1970-03-07 23:45:16,1970-03-15 20:06:15,71
+678,Technical feasibility analysis,1970-03-15 20:06:15,1970-03-19 07:49:09,71
+679,Prototyping refinements,1970-03-19 07:49:09,1970-03-24 23:59:20,71
+680,Technical feasibility analysis,1970-03-24 23:59:20,1970-03-28 02:24:28,71
+681,Lean market validation,1970-03-28 02:24:28,1970-05-01 01:12:11,71
+682,Tech operations kick-off,1970-05-01 01:12:11,1970-05-02 03:31:13,71
+683,Backlog creation,1970-05-02 03:31:13,1970-05-04 23:04:36,71
+684,Architecture design,1970-05-02 03:31:13,1970-05-10 14:46:03,71
+685,Tech stack identification,1970-05-02 03:31:13,1970-05-07 04:23:01,71
+686,Investors roadshow,1970-05-01 01:12:11,1970-06-22 08:34:24,71
+687,No Actions,1970-06-22 08:34:24,1970-06-23 05:35:57,71
+688,Co-founder engagement,1970-01-01 02:18:48,1970-01-02 03:31:31,79
+689,Co-founder termsheet - customization,1970-01-02 03:31:31,1970-01-03 03:29:15,79
+690,Co-founder termsheet - signing,1970-01-03 03:29:15,1970-01-04 00:54:06,79
+691,Payment of company shares,1970-01-04 00:54:06,1970-01-05 01:16:31,79
+692,Documents collection,1970-01-04 00:54:06,1970-01-05 03:54:53,79
+693,Documents sending to notary,1970-01-05 03:54:53,1970-01-06 06:34:10,79
+694,Board minutes for attribution of powers,1970-01-04 00:54:06,1970-01-04 21:33:51,79
+695,Co-founder contract - customization,1970-01-04 00:54:06,1970-01-06 14:08:09,79
+696,Co-founder contract - signing,1970-01-06 14:08:09,1970-01-07 09:48:09,79
+697,Notary appointment,1970-01-04 00:54:06,1970-01-04 23:55:54,79
+698,Founding,1970-01-06 06:34:10,1970-01-09 08:59:49,79
+699,Operations kick-off,1970-01-09 08:59:49,1970-01-10 04:59:42,79
+700,Receipt of documents of incorporation,1970-01-09 08:59:49,1970-01-10 06:13:11,79
+701,Documents sending to labor consultant,1970-01-10 06:13:11,1970-01-11 04:44:58,79
+702,Tax registration,1970-01-11 04:44:58,1970-01-12 02:11:46,79
+703,Documents sending to business consultant,1970-01-10 06:13:11,1970-01-11 10:06:05,79
+704,Documents sending to lawyer,1970-01-10 06:13:11,1970-01-11 02:55:40,79
+705,Creation of social books,1970-01-11 10:06:05,1970-01-12 11:02:13,79
+706,Bank account creation,1970-01-12 11:02:13,1970-01-16 11:44:33,79
+707,Funds transfer,1970-01-16 11:44:33,1970-01-17 13:44:01,79
+708,Registered office activation,1970-01-17 13:44:01,1970-01-18 17:43:53,79
+709,Naming,1970-01-10 04:59:42,1970-01-11 00:14:17,79
+710,Priority search,1970-01-11 00:14:17,1970-01-11 20:41:46,79
+711,Brand identity creation,1970-01-11 20:41:46,1970-01-27 12:26:52,79
+712,Trademark registration,1970-01-27 12:26:52,1970-03-27 05:39:27,79
+713,Core team selection,1970-01-10 04:59:42,1970-02-14 07:44:41,79
+714,Business idea consolidation,1970-01-10 04:59:42,1970-01-17 10:25:02,79
+715,User personas definition,1970-01-17 10:25:02,1970-01-18 14:58:39,79
+716,Product discovery & prototyping,1970-01-18 14:58:39,1970-02-21 16:52:47,79
+717,Technical feasibility analysis,1970-02-21 16:52:47,1970-02-25 00:19:41,79
+718,Business planning,1970-01-17 10:25:02,1970-02-14 22:54:32,79
+719,Prototyping refinements,1970-02-25 00:19:41,1970-03-02 15:28:37,79
+720,Technical feasibility analysis,1970-03-02 15:28:37,1970-03-06 03:45:19,79
+721,Lean market validation,1970-03-06 03:45:19,1970-04-05 01:22:36,79
+722,Tech operations kick-off,1970-04-05 01:22:36,1970-04-06 00:33:29,79
+723,Architecture design,1970-04-06 00:33:29,1970-04-16 12:32:35,79
+724,Backlog creation,1970-04-06 00:33:29,1970-04-08 16:03:47,79
+725,Tech stack identification,1970-04-06 00:33:29,1970-04-11 13:34:36,79
+726,Investors roadshow,1970-04-05 01:22:36,1970-05-30 01:11:51,79
+727,No Actions,1970-05-30 01:11:51,1970-05-30 22:18:19,79
+728,Co-founder engagement,1970-01-01 02:19:28,1970-01-02 06:51:43,80
+729,Co-founder termsheet - customization,1970-01-02 06:51:43,1970-01-03 06:01:25,80
+730,Co-founder termsheet - signing,1970-01-03 06:01:25,1970-01-04 08:58:24,80
+731,Board minutes for attribution of powers,1970-01-04 08:58:24,1970-01-05 06:23:52,80
+732,Co-founder contract - customization,1970-01-04 08:58:24,1970-01-07 13:23:05,80
+733,Notary appointment,1970-01-04 08:58:24,1970-01-05 13:39:48,80
+734,Co-founder contract - signing,1970-01-07 13:23:05,1970-01-08 16:50:42,80
+735,Payment of company shares,1970-01-04 08:58:24,1970-01-05 07:17:55,80
+736,Documents collection,1970-01-04 08:58:24,1970-01-05 12:35:27,80
+737,Documents collection,1970-01-05 12:35:27,1970-01-06 14:50:13,80
+738,Documents sending to notary,1970-01-06 14:50:13,1970-01-07 15:28:39,80
+739,Founding,1970-01-07 15:28:39,1970-01-10 12:38:41,80
+740,Operations kick-off,1970-01-10 12:38:41,1970-01-11 16:29:37,80
+741,Receipt of documents of incorporation,1970-01-10 12:38:41,1970-01-11 12:19:18,80
+742,Documents sending to lawyer,1970-01-11 12:19:18,1970-01-12 15:01:42,80
+743,Documents sending to labor consultant,1970-01-11 12:19:18,1970-01-12 09:17:04,80
+744,Tax registration,1970-01-12 09:17:04,1970-01-13 08:57:32,80
+745,Documents sending to business consultant,1970-01-11 12:19:18,1970-01-12 14:23:41,80
+746,Creation of social books,1970-01-12 14:23:41,1970-01-13 14:59:19,80
+747,Bank account creation,1970-01-13 14:59:19,1970-01-19 09:26:58,80
+748,Funds transfer,1970-01-19 09:26:58,1970-01-20 13:24:16,80
+749,Registered office activation,1970-01-20 13:24:16,1970-01-21 09:23:23,80
+750,Naming,1970-01-11 16:29:37,1970-01-12 20:35:24,80
+751,Business idea consolidation,1970-01-11 16:29:37,1970-01-18 15:54:19,80
+752,Core team selection,1970-01-11 16:29:37,1970-02-12 07:34:48,80
+753,User personas definition,1970-01-18 15:54:19,1970-01-19 11:37:55,80
+754,Business planning,1970-01-18 15:54:19,1970-02-13 05:44:55,80
+755,Priority search,1970-01-12 20:35:24,1970-01-13 20:44:23,80
+756,Brand identity creation,1970-01-13 20:44:23,1970-01-27 08:18:12,80
+757,Trademark registration,1970-01-27 08:18:12,1970-04-03 23:39:51,80
+758,Product discovery & prototyping,1970-01-19 11:37:55,1970-02-26 04:59:33,80
+759,Technical feasibility analysis,1970-02-26 04:59:33,1970-02-28 21:51:42,80
+760,Prototyping refinements,1970-02-28 21:51:42,1970-03-07 15:28:09,80
+761,Technical feasibility analysis,1970-03-07 15:28:09,1970-03-10 10:35:51,80
+762,Lean market validation,1970-03-10 10:35:51,1970-04-08 22:20:15,80
+763,Tech operations kick-off,1970-04-08 22:20:15,1970-04-09 20:28:00,80
+764,Architecture design,1970-04-09 20:28:00,1970-04-19 06:36:22,80
+765,Tech stack identification,1970-04-09 20:28:00,1970-04-15 10:25:05,80
+766,Backlog creation,1970-04-09 20:28:00,1970-04-13 02:59:15,80
+767,Investors roadshow,1970-04-08 22:20:15,1970-05-28 01:06:01,80
+768,No Actions,1970-05-28 01:06:01,1970-05-29 03:01:53,80
+769,Co-founder engagement,1970-01-01 02:21:46,1970-01-02 02:07:00,83
+770,Co-founder termsheet - customization,1970-01-02 02:07:00,1970-01-03 01:25:02,83
+771,Co-founder termsheet - signing,1970-01-03 01:25:02,1970-01-04 01:17:55,83
+772,Board minutes for attribution of powers,1970-01-04 01:17:55,1970-01-04 20:31:47,83
+773,Payment of company shares,1970-01-04 01:17:55,1970-01-05 02:23:44,83
+774,Co-founder contract - customization,1970-01-04 01:17:55,1970-01-06 21:43:40,83
+775,Documents collection,1970-01-04 01:17:55,1970-01-05 02:12:32,83
+776,Co-founder contract - signing,1970-01-06 21:43:40,1970-01-07 19:42:34,83
+777,Documents collection,1970-01-05 02:12:32,1970-01-06 01:17:46,83
+778,Documents sending to notary,1970-01-06 01:17:46,1970-01-06 22:15:19,83
+779,Notary appointment,1970-01-04 01:17:55,1970-01-05 03:56:11,83
+780,Founding,1970-01-06 22:15:19,1970-01-10 10:01:38,83
+781,Operations kick-off,1970-01-10 10:01:38,1970-01-11 06:16:22,83
+782,Receipt of documents of incorporation,1970-01-10 10:01:38,1970-01-11 09:16:13,83
+783,Documents sending to lawyer,1970-01-11 09:16:13,1970-01-12 14:02:16,83
+784,Documents sending to business consultant,1970-01-11 09:16:13,1970-01-12 07:55:21,83
+785,Creation of social books,1970-01-12 07:55:21,1970-01-13 10:12:19,83
+786,Documents sending to labor consultant,1970-01-11 09:16:13,1970-01-12 04:49:27,83
+787,Tax registration,1970-01-12 04:49:27,1970-01-13 04:54:25,83
+788,Bank account creation,1970-01-13 10:12:19,1970-01-18 11:45:53,83
+789,Funds transfer,1970-01-18 11:45:53,1970-01-19 12:35:32,83
+790,Registered office activation,1970-01-19 12:35:32,1970-01-20 13:09:40,83
+791,Naming,1970-01-11 06:16:22,1970-01-12 03:56:49,83
+792,Core team selection,1970-01-11 06:16:22,1970-02-09 16:52:24,83
+793,Business idea consolidation,1970-01-11 06:16:22,1970-01-18 22:21:59,83
+794,User personas definition,1970-01-18 22:21:59,1970-01-19 22:25:15,83
+795,Product discovery & prototyping,1970-01-19 22:25:15,1970-03-04 19:19:25,83
+796,Priority search,1970-01-12 03:56:49,1970-01-13 07:31:19,83
+797,Business planning,1970-01-18 22:21:59,1970-02-15 11:35:16,83
+798,Technical feasibility analysis,1970-03-04 19:19:25,1970-03-07 05:02:16,83
+799,Prototyping refinements,1970-03-07 05:02:16,1970-03-13 07:05:57,83
+800,Technical feasibility analysis,1970-03-13 07:05:57,1970-03-16 08:23:36,83
+801,Prototyping refinements,1970-03-16 08:23:36,1970-03-23 16:23:42,83
+802,Brand identity creation,1970-01-13 07:31:19,1970-01-26 01:24:54,83
+803,Technical feasibility analysis,1970-03-23 16:23:42,1970-03-26 11:25:08,83
+804,Trademark registration,1970-01-26 01:24:54,1970-03-31 19:10:16,83
+805,Prototyping refinements,1970-03-26 11:25:08,1970-04-01 18:49:01,83
+806,Technical feasibility analysis,1970-04-01 18:49:01,1970-04-04 23:15:55,83
+807,Lean market validation,1970-04-04 23:15:55,1970-05-11 00:03:00,83
+808,Tech operations kick-off,1970-05-11 00:03:00,1970-05-12 05:37:35,83
+809,Tech stack identification,1970-05-12 05:37:35,1970-05-16 15:07:41,83
+810,Architecture design,1970-05-12 05:37:35,1970-05-23 08:37:17,83
+811,Backlog creation,1970-05-12 05:37:35,1970-05-15 07:28:47,83
+812,Investors roadshow,1970-05-11 00:03:00,1970-07-05 15:47:50,83
+813,Business planning review,1970-07-05 15:47:50,1970-07-13 18:54:19,83
+814,Investors roadshow,1970-07-13 18:54:19,1970-09-13 05:42:08,83
+815,Investment committee,1970-09-13 05:42:08,1970-09-14 09:19:35,83
+816,Co-founder engagement,1970-01-01 02:25:03,1970-01-02 07:02:27,86
+817,Co-founder termsheet - customization,1970-01-02 07:02:27,1970-01-03 04:35:07,86
+818,Co-founder termsheet - signing,1970-01-03 04:35:07,1970-01-04 08:27:34,86
+819,Notary appointment,1970-01-04 08:27:34,1970-01-05 08:42:54,86
+820,Payment of company shares,1970-01-04 08:27:34,1970-01-05 08:05:44,86
+821,Board minutes for attribution of powers,1970-01-04 08:27:34,1970-01-05 07:25:57,86
+822,Co-founder contract - customization,1970-01-04 08:27:34,1970-01-07 04:54:27,86
+823,Co-founder contract - signing,1970-01-07 04:54:27,1970-01-08 05:08:14,86
+824,Documents collection,1970-01-04 08:27:34,1970-01-05 03:57:40,86
+825,Documents collection,1970-01-05 03:57:40,1970-01-06 02:24:18,86
+826,Documents sending to notary,1970-01-06 02:24:18,1970-01-07 07:10:08,86
+827,Founding,1970-01-07 07:10:08,1970-01-10 20:06:00,86
+828,Operations kick-off,1970-01-10 20:06:00,1970-01-11 18:34:19,86
+829,Receipt of documents of incorporation,1970-01-10 20:06:00,1970-01-11 17:57:07,86
+830,Documents sending to labor consultant,1970-01-11 17:57:07,1970-01-12 14:23:42,86
+831,Tax registration,1970-01-12 14:23:42,1970-01-13 09:45:30,86
+832,Documents sending to business consultant,1970-01-11 17:57:07,1970-01-12 13:21:47,86
+833,Creation of social books,1970-01-12 13:21:47,1970-01-13 11:21:05,86
+834,Bank account creation,1970-01-13 11:21:05,1970-01-17 17:24:33,86
+835,Documents sending to lawyer,1970-01-11 17:57:07,1970-01-12 14:18:55,86
+836,Funds transfer,1970-01-17 17:24:33,1970-01-18 13:00:05,86
+837,Registered office activation,1970-01-18 13:00:05,1970-01-19 17:42:43,86
+838,Core team selection,1970-01-11 18:34:19,1970-02-07 08:26:30,86
+839,Naming,1970-01-11 18:34:19,1970-01-12 20:12:38,86
+840,Business idea consolidation,1970-01-11 18:34:19,1970-01-20 01:32:33,86
+841,User personas definition,1970-01-20 01:32:33,1970-01-21 00:16:46,86
+842,Business planning,1970-01-20 01:32:33,1970-02-16 15:07:32,86
+843,Product discovery & prototyping,1970-01-21 00:16:46,1970-02-27 08:17:42,86
+844,Technical feasibility analysis,1970-02-27 08:17:42,1970-03-02 05:48:41,86
+845,Priority search,1970-01-12 20:12:38,1970-01-13 19:49:57,86
+846,Prototyping refinements,1970-03-02 05:48:41,1970-03-08 01:06:11,86
+847,Technical feasibility analysis,1970-03-08 01:06:11,1970-03-10 21:36:53,86
+848,Brand identity creation,1970-01-13 19:49:57,1970-01-25 06:08:58,86
+849,Trademark registration,1970-01-25 06:08:58,1970-04-02 21:12:55,86
+850,Prototyping refinements,1970-03-10 21:36:53,1970-03-17 01:28:18,86
+851,Technical feasibility analysis,1970-03-17 01:28:18,1970-03-20 04:39:27,86
+852,Lean market validation,1970-03-20 04:39:27,1970-04-13 23:26:48,86
+853,Tech operations kick-off,1970-04-13 23:26:48,1970-04-15 00:06:36,86
+854,Backlog creation,1970-04-15 00:06:36,1970-04-18 13:17:51,86
+855,Tech stack identification,1970-04-15 00:06:36,1970-04-19 05:22:52,86
+856,Architecture design,1970-04-15 00:06:36,1970-04-25 16:25:02,86
+857,Investors roadshow,1970-04-13 23:26:48,1970-06-08 07:55:39,86
+858,Investment committee,1970-06-08 07:55:39,1970-06-09 05:01:02,86
+859,Co-founder engagement,1970-01-01 02:25:46,1970-01-02 03:17:40,87
+860,Co-founder termsheet - customization,1970-01-02 03:17:40,1970-01-03 04:07:12,87
+861,Co-founder termsheet - signing,1970-01-03 04:07:12,1970-01-04 04:21:37,87
+862,Co-founder contract - customization,1970-01-04 04:21:37,1970-01-06 21:00:04,87
+863,Payment of company shares,1970-01-04 04:21:37,1970-01-05 08:36:02,87
+864,Documents collection,1970-01-04 04:21:37,1970-01-05 08:48:28,87
+865,Documents sending to notary,1970-01-05 08:48:28,1970-01-06 08:31:59,87
+866,Co-founder contract - signing,1970-01-06 21:00:04,1970-01-07 17:17:36,87
+867,Notary appointment,1970-01-04 04:21:37,1970-01-05 05:35:43,87
+868,Board minutes for attribution of powers,1970-01-04 04:21:37,1970-01-05 05:14:13,87
+869,Founding,1970-01-06 08:31:59,1970-01-09 02:54:42,87
+870,Operations kick-off,1970-01-09 02:54:42,1970-01-09 23:36:04,87
+871,Receipt of documents of incorporation,1970-01-09 02:54:42,1970-01-10 04:58:08,87
+872,Documents sending to labor consultant,1970-01-10 04:58:08,1970-01-11 07:35:38,87
+873,Documents sending to business consultant,1970-01-10 04:58:08,1970-01-11 00:58:37,87
+874,Creation of social books,1970-01-11 00:58:37,1970-01-12 04:32:43,87
+875,Tax registration,1970-01-11 07:35:38,1970-01-12 04:06:10,87
+876,Bank account creation,1970-01-12 04:32:43,1970-01-17 13:11:53,87
+877,Documents sending to lawyer,1970-01-10 04:58:08,1970-01-11 05:15:31,87
+878,Funds transfer,1970-01-17 13:11:53,1970-01-18 12:52:58,87
+879,Registered office activation,1970-01-18 12:52:58,1970-01-19 14:43:15,87
+880,Naming,1970-01-09 23:36:04,1970-01-11 02:32:36,87
+881,Core team selection,1970-01-09 23:36:04,1970-02-03 02:55:52,87
+882,Priority search,1970-01-11 02:32:36,1970-01-12 06:33:35,87
+883,Brand identity creation,1970-01-12 06:33:35,1970-01-25 20:23:19,87
+884,Trademark registration,1970-01-25 20:23:19,1970-03-19 13:05:18,87
+885,Business idea consolidation,1970-01-09 23:36:04,1970-01-16 19:52:39,87
+886,User personas definition,1970-01-16 19:52:39,1970-01-17 20:37:52,87
+887,Product discovery & prototyping,1970-01-17 20:37:52,1970-03-06 14:31:41,87
+888,Technical feasibility analysis,1970-03-06 14:31:41,1970-03-09 17:03:36,87
+889,Business planning,1970-01-16 19:52:39,1970-02-10 18:36:52,87
+890,Prototyping refinements,1970-03-09 17:03:36,1970-03-17 01:33:15,87
+891,Technical feasibility analysis,1970-03-17 01:33:15,1970-03-19 14:11:53,87
+892,Lean market validation,1970-03-19 14:11:53,1970-04-21 10:52:35,87
+893,Tech operations kick-off,1970-04-21 10:52:35,1970-04-22 11:33:27,87
+894,Architecture design,1970-04-22 11:33:27,1970-05-02 08:56:09,87
+895,Tech stack identification,1970-04-22 11:33:27,1970-04-27 09:16:25,87
+896,Backlog creation,1970-04-22 11:33:27,1970-04-25 14:18:15,87
+897,Investors roadshow,1970-04-21 10:52:35,1970-07-02 08:33:59,87
+898,Investment committee,1970-07-02 08:33:59,1970-07-03 12:01:10,87
+899,Co-founder engagement,1970-01-01 02:32:47,1970-01-02 06:16:09,95
+900,Co-founder termsheet - customization,1970-01-02 06:16:09,1970-01-03 02:34:52,95
+901,Co-founder termsheet - signing,1970-01-03 02:34:52,1970-01-04 03:44:01,95
+902,Documents collection,1970-01-04 03:44:01,1970-01-04 23:53:34,95
+903,Payment of company shares,1970-01-04 03:44:01,1970-01-05 02:27:55,95
+904,Documents sending to notary,1970-01-04 23:53:34,1970-01-06 00:48:24,95
+905,Notary appointment,1970-01-04 03:44:01,1970-01-05 08:04:25,95
+906,Co-founder contract - customization,1970-01-04 03:44:01,1970-01-06 18:36:29,95
+907,Board minutes for attribution of powers,1970-01-04 03:44:01,1970-01-05 02:52:14,95
+908,Co-founder contract - signing,1970-01-06 18:36:29,1970-01-07 23:23:13,95
+909,Founding,1970-01-06 00:48:24,1970-01-08 13:35:52,95
+910,Operations kick-off,1970-01-08 13:35:52,1970-01-09 14:36:19,95
+911,Receipt of documents of incorporation,1970-01-08 13:35:52,1970-01-09 12:11:18,95
+912,Documents sending to business consultant,1970-01-09 12:11:18,1970-01-10 12:00:45,95
+913,Documents sending to labor consultant,1970-01-09 12:11:18,1970-01-10 14:12:57,95
+914,Tax registration,1970-01-10 14:12:57,1970-01-11 16:46:35,95
+915,Creation of social books,1970-01-10 12:00:45,1970-01-11 13:04:20,95
+916,Bank account creation,1970-01-11 13:04:20,1970-01-16 23:44:47,95
+917,Funds transfer,1970-01-16 23:44:47,1970-01-18 04:01:23,95
+918,Documents sending to lawyer,1970-01-09 12:11:18,1970-01-10 15:23:07,95
+919,Registered office activation,1970-01-18 04:01:23,1970-01-18 23:57:52,95
+920,Naming,1970-01-09 14:36:19,1970-01-10 16:23:47,95
+921,Core team selection,1970-01-09 14:36:19,1970-02-09 00:44:07,95
+922,Business idea consolidation,1970-01-09 14:36:19,1970-01-16 15:51:53,95
+923,Business planning,1970-01-16 15:51:53,1970-02-20 05:37:34,95
+924,Priority search,1970-01-10 16:23:47,1970-01-11 13:10:33,95
+925,User personas definition,1970-01-16 15:51:53,1970-01-17 17:56:37,95
+926,Product discovery & prototyping,1970-01-17 17:56:37,1970-03-03 13:26:08,95
+927,Brand identity creation,1970-01-11 13:10:33,1970-01-28 08:15:21,95
+928,Technical feasibility analysis,1970-03-03 13:26:08,1970-03-06 06:47:20,95
+929,Lean market validation,1970-03-06 06:47:20,1970-04-05 00:46:40,95
+930,Prototyping refinements,1970-04-05 00:46:40,1970-04-11 14:07:06,95
+931,Technical feasibility analysis,1970-04-11 14:07:06,1970-04-14 15:34:35,95
+932,Trademark registration,1970-01-28 08:15:21,1970-03-28 02:58:57,95
+933,Prototyping refinements,1970-04-14 15:34:35,1970-04-22 21:25:28,95
+934,Technical feasibility analysis,1970-04-22 21:25:28,1970-04-26 00:34:55,95
+935,Lean market validation,1970-04-26 00:34:55,1970-05-25 20:29:21,95
+936,Tech operations kick-off,1970-05-25 20:29:21,1970-05-26 16:56:39,95
+937,Tech stack identification,1970-05-26 16:56:39,1970-06-01 04:53:36,95
+938,Architecture design,1970-05-26 16:56:39,1970-06-05 18:41:56,95
+939,Backlog creation,1970-05-26 16:56:39,1970-05-29 18:09:18,95
+940,Investors roadshow,1970-05-25 20:29:21,1970-07-22 12:10:22,95
+941,Business planning review,1970-07-22 12:10:22,1970-07-28 16:56:39,95
+942,Investors roadshow,1970-07-28 16:56:39,1970-10-04 02:45:13,95
+943,Investment committee,1970-10-04 02:45:13,1970-10-04 23:31:33,95
+944,Co-founder engagement,1970-01-01 02:33:32,1970-01-02 04:43:11,96
+945,Co-founder termsheet - customization,1970-01-02 04:43:11,1970-01-03 07:50:48,96
+946,Co-founder termsheet - signing,1970-01-03 07:50:48,1970-01-04 05:03:36,96
+947,Payment of company shares,1970-01-04 05:03:36,1970-01-05 01:26:49,96
+948,Documents collection,1970-01-04 05:03:36,1970-01-05 00:32:03,96
+949,Board minutes for attribution of powers,1970-01-04 05:03:36,1970-01-05 06:37:21,96
+950,Co-founder contract - customization,1970-01-04 05:03:36,1970-01-06 17:19:49,96
+951,Co-founder contract - signing,1970-01-06 17:19:49,1970-01-07 13:30:41,96
+952,Notary appointment,1970-01-04 05:03:36,1970-01-05 00:47:20,96
+953,Documents collection,1970-01-05 00:32:03,1970-01-05 20:52:58,96
+954,Documents collection,1970-01-05 20:52:58,1970-01-06 23:07:58,96
+955,Documents sending to notary,1970-01-06 23:07:58,1970-01-08 00:34:20,96
+956,Founding,1970-01-08 00:34:20,1970-01-11 11:53:15,96
+957,Operations kick-off,1970-01-11 11:53:15,1970-01-12 15:07:03,96
+958,Receipt of documents of incorporation,1970-01-11 11:53:15,1970-01-12 14:23:13,96
+959,Documents sending to lawyer,1970-01-12 14:23:13,1970-01-13 12:23:45,96
+960,Documents sending to business consultant,1970-01-12 14:23:13,1970-01-13 15:02:22,96
+961,Documents sending to labor consultant,1970-01-12 14:23:13,1970-01-13 16:06:32,96
+962,Tax registration,1970-01-13 16:06:32,1970-01-14 13:54:38,96
+963,Creation of social books,1970-01-13 15:02:22,1970-01-14 16:28:36,96
+964,Bank account creation,1970-01-14 16:28:36,1970-01-19 14:10:46,96
+965,Funds transfer,1970-01-19 14:10:46,1970-01-20 15:40:01,96
+966,Registered office activation,1970-01-20 15:40:01,1970-01-21 19:00:47,96
+967,Core team selection,1970-01-12 15:07:03,1970-02-05 22:45:20,96
+968,Naming,1970-01-12 15:07:03,1970-01-13 12:15:40,96
+969,Business idea consolidation,1970-01-12 15:07:03,1970-01-19 17:02:49,96
+970,Business planning,1970-01-19 17:02:49,1970-02-21 04:04:31,96
+971,User personas definition,1970-01-19 17:02:49,1970-01-20 19:36:17,96
+972,Product discovery & prototyping,1970-01-20 19:36:17,1970-02-25 23:39:01,96
+973,Priority search,1970-01-13 12:15:40,1970-01-14 07:41:36,96
+974,Technical feasibility analysis,1970-02-25 23:39:01,1970-03-01 09:45:17,96
+975,Lean market validation,1970-03-01 09:45:17,1970-04-03 04:33:07,96
+976,Brand identity creation,1970-01-14 07:41:36,1970-01-26 14:34:06,96
+977,Trademark registration,1970-01-26 14:34:06,1970-04-02 14:02:29,96
+978,Prototyping refinements,1970-04-03 04:33:07,1970-04-09 12:09:53,96
+979,Technical feasibility analysis,1970-04-09 12:09:53,1970-04-12 16:10:09,96
+980,Prototyping refinements,1970-04-12 16:10:09,1970-04-21 00:01:44,96
+981,Technical feasibility analysis,1970-04-21 00:01:44,1970-04-24 04:11:34,96
+982,Lean market validation,1970-04-24 04:11:34,1970-05-20 21:58:11,96
+983,Tech operations kick-off,1970-05-20 21:58:11,1970-05-22 02:31:16,96
+984,Backlog creation,1970-05-22 02:31:16,1970-05-24 15:59:44,96
+985,Tech stack identification,1970-05-22 02:31:16,1970-05-26 05:55:10,96
+986,Architecture design,1970-05-22 02:31:16,1970-06-02 04:13:46,96
+987,Investors roadshow,1970-05-20 21:58:11,1970-07-30 17:59:20,96
+988,Business planning review,1970-07-30 17:59:20,1970-08-05 18:52:10,96
+989,Investors roadshow,1970-08-05 18:52:10,1970-09-25 23:42:27,96
+990,Investment committee,1970-09-25 23:42:27,1970-09-26 20:16:19,96
+991,Co-founder engagement,1970-01-01 02:35:41,1970-01-02 00:55:53,99
+992,Co-founder termsheet - customization,1970-01-02 00:55:53,1970-01-03 05:23:41,99
+993,Co-founder termsheet - signing,1970-01-03 05:23:41,1970-01-04 03:25:47,99
+994,Notary appointment,1970-01-04 03:25:47,1970-01-04 23:42:33,99
+995,Payment of company shares,1970-01-04 03:25:47,1970-01-05 00:49:04,99
+996,Board minutes for attribution of powers,1970-01-04 03:25:47,1970-01-05 02:55:17,99
+997,Documents collection,1970-01-04 03:25:47,1970-01-04 23:39:45,99
+998,Co-founder contract - customization,1970-01-04 03:25:47,1970-01-06 21:25:28,99
+999,Co-founder contract - signing,1970-01-06 21:25:28,1970-01-07 22:56:59,99
+1000,Documents sending to notary,1970-01-04 23:39:45,1970-01-05 23:16:25,99
+1001,Founding,1970-01-05 23:16:25,1970-01-09 04:11:21,99
+1002,Operations kick-off,1970-01-09 04:11:21,1970-01-10 00:32:19,99
+1003,Receipt of documents of incorporation,1970-01-09 04:11:21,1970-01-10 07:31:01,99
+1004,Documents sending to business consultant,1970-01-10 07:31:01,1970-01-11 06:16:10,99
+1005,Documents sending to labor consultant,1970-01-10 07:31:01,1970-01-11 07:58:33,99
+1006,Creation of social books,1970-01-11 06:16:10,1970-01-12 05:22:28,99
+1007,Documents sending to lawyer,1970-01-10 07:31:01,1970-01-11 04:37:27,99
+1008,Tax registration,1970-01-11 07:58:33,1970-01-12 04:58:44,99
+1009,Bank account creation,1970-01-12 05:22:28,1970-01-16 21:38:49,99
+1010,Funds transfer,1970-01-16 21:38:49,1970-01-17 17:36:39,99
+1011,Registered office activation,1970-01-17 17:36:39,1970-01-18 13:20:37,99
+1012,Business idea consolidation,1970-01-10 00:32:19,1970-01-17 07:51:18,99
+1013,Core team selection,1970-01-10 00:32:19,1970-02-09 03:14:02,99
+1014,User personas definition,1970-01-17 07:51:18,1970-01-18 07:43:00,99
+1015,Business planning,1970-01-17 07:51:18,1970-02-21 06:07:46,99
+1016,Product discovery & prototyping,1970-01-18 07:43:00,1970-03-01 20:00:52,99
+1017,Naming,1970-01-10 00:32:19,1970-01-11 01:19:45,99
+1018,Priority search,1970-01-11 01:19:45,1970-01-11 23:10:49,99
+1019,Brand identity creation,1970-01-11 23:10:49,1970-01-27 23:27:24,99
+1020,Trademark registration,1970-01-27 23:27:24,1970-04-03 14:52:13,99
+1021,Technical feasibility analysis,1970-03-01 20:00:52,1970-03-04 17:17:41,99
+1022,Prototyping refinements,1970-03-04 17:17:41,1970-03-12 21:42:59,99
+1023,Technical feasibility analysis,1970-03-12 21:42:59,1970-03-15 15:49:25,99
+1024,Prototyping refinements,1970-03-15 15:49:25,1970-03-22 01:51:02,99
+1025,Technical feasibility analysis,1970-03-22 01:51:02,1970-03-24 14:32:26,99
+1026,Lean market validation,1970-03-24 14:32:26,1970-04-18 10:23:25,99
+1027,Prototyping refinements,1970-04-18 10:23:25,1970-04-24 22:14:10,99
+1028,Technical feasibility analysis,1970-04-24 22:14:10,1970-04-28 09:35:34,99
+1029,Lean market validation,1970-04-28 09:35:34,1970-05-28 11:40:06,99
+1030,Tech operations kick-off,1970-05-28 11:40:06,1970-05-29 13:51:52,99
+1031,Backlog creation,1970-05-29 13:51:52,1970-06-01 18:32:30,99
+1032,Tech stack identification,1970-05-29 13:51:52,1970-06-03 03:37:00,99
+1033,Architecture design,1970-05-29 13:51:52,1970-06-08 13:10:19,99
+1034,Investors roadshow,1970-05-28 11:40:06,1970-08-06 19:03:27,99
+1035,Investment committee,1970-08-06 19:03:27,1970-08-07 16:25:47,99
+1036,Co-founder engagement,1970-01-01 02:40:53,1970-01-02 02:49:33,104
+1037,Co-founder termsheet - customization,1970-01-02 02:49:33,1970-01-03 03:34:56,104
+1038,Co-founder termsheet - signing,1970-01-03 03:34:56,1970-01-03 23:52:35,104
+1039,Notary appointment,1970-01-03 23:52:35,1970-01-04 22:56:39,104
+1040,Board minutes for attribution of powers,1970-01-03 23:52:35,1970-01-04 19:56:43,104
+1041,Documents collection,1970-01-03 23:52:35,1970-01-05 01:37:03,104
+1042,Co-founder contract - customization,1970-01-03 23:52:35,1970-01-07 00:51:35,104
+1043,Payment of company shares,1970-01-03 23:52:35,1970-01-04 22:38:12,104
+1044,Co-founder contract - signing,1970-01-07 00:51:35,1970-01-08 04:02:46,104
+1045,Documents sending to notary,1970-01-05 01:37:03,1970-01-06 02:39:02,104
+1046,Founding,1970-01-06 02:39:02,1970-01-08 12:57:17,104
+1047,Receipt of documents of incorporation,1970-01-08 12:57:17,1970-01-09 17:40:27,104
+1048,Documents sending to labor consultant,1970-01-09 17:40:27,1970-01-10 19:10:25,104
+1049,Tax registration,1970-01-10 19:10:25,1970-01-11 15:06:57,104
+1050,Operations kick-off,1970-01-08 12:57:17,1970-01-09 08:26:07,104
+1051,Documents sending to business consultant,1970-01-09 17:40:27,1970-01-10 17:41:30,104
+1052,Creation of social books,1970-01-10 17:41:30,1970-01-11 15:20:01,104
+1053,Documents sending to lawyer,1970-01-09 17:40:27,1970-01-10 13:51:41,104
+1054,Bank account creation,1970-01-11 15:20:01,1970-01-15 17:04:44,104
+1055,Funds transfer,1970-01-15 17:04:44,1970-01-16 16:31:07,104
+1056,Registered office activation,1970-01-16 16:31:07,1970-01-17 15:53:52,104
+1057,Core team selection,1970-01-09 08:26:07,1970-02-08 11:47:15,104
+1058,Business idea consolidation,1970-01-09 08:26:07,1970-01-15 00:51:25,104
+1059,Business planning,1970-01-15 00:51:25,1970-02-13 03:46:55,104
+1060,User personas definition,1970-01-15 00:51:25,1970-01-15 20:42:33,104
+1061,Naming,1970-01-09 08:26:07,1970-01-10 12:43:35,104
+1062,Priority search,1970-01-10 12:43:35,1970-01-11 11:29:45,104
+1063,Brand identity creation,1970-01-11 11:29:45,1970-01-26 23:06:28,104
+1064,Product discovery & prototyping,1970-01-15 20:42:33,1970-02-22 20:48:44,104
+1065,Trademark registration,1970-01-26 23:06:28,1970-04-07 18:59:52,104
+1066,Technical feasibility analysis,1970-02-22 20:48:44,1970-02-25 23:08:43,104
+1067,Prototyping refinements,1970-02-25 23:08:43,1970-03-04 04:06:39,104
+1068,Technical feasibility analysis,1970-03-04 04:06:39,1970-03-07 07:47:13,104
+1069,Lean market validation,1970-03-07 07:47:13,1970-04-04 22:35:55,104
+1070,Tech operations kick-off,1970-04-04 22:35:55,1970-04-05 23:06:05,104
+1071,Architecture design,1970-04-05 23:06:05,1970-04-16 21:10:24,104
+1072,Tech stack identification,1970-04-05 23:06:05,1970-04-10 01:52:24,104
+1073,Backlog creation,1970-04-05 23:06:05,1970-04-08 22:08:23,104
+1074,Investors roadshow,1970-04-07 18:59:52,1970-05-26 22:38:28,104
+1075,Business planning review,1970-05-26 22:38:28,1970-06-04 06:22:41,104
+1076,Investors roadshow,1970-06-04 06:22:41,1970-07-22 20:09:08,104
+1077,No Actions,1970-07-22 20:09:08,1970-07-24 01:39:16,104
+1078,Co-founder engagement,1970-01-01 02:41:35,1970-01-02 03:05:23,105
+1079,Co-founder termsheet - customization,1970-01-02 03:05:23,1970-01-03 01:47:09,105
+1080,Co-founder termsheet - signing,1970-01-03 01:47:09,1970-01-04 02:40:04,105
+1081,Board minutes for attribution of powers,1970-01-04 02:40:04,1970-01-05 01:53:01,105
+1082,Documents collection,1970-01-04 02:40:04,1970-01-05 01:09:46,105
+1083,Documents sending to notary,1970-01-05 01:09:46,1970-01-06 01:13:44,105
+1084,Co-founder contract - customization,1970-01-04 02:40:04,1970-01-07 16:08:10,105
+1085,Notary appointment,1970-01-04 02:40:04,1970-01-05 06:51:03,105
+1086,Co-founder contract - signing,1970-01-07 16:08:10,1970-01-08 18:23:04,105
+1087,Payment of company shares,1970-01-04 02:40:04,1970-01-04 22:42:19,105
+1088,Founding,1970-01-06 01:13:44,1970-01-08 23:49:59,105
+1089,Operations kick-off,1970-01-08 23:49:59,1970-01-09 20:55:49,105
+1090,Receipt of documents of incorporation,1970-01-08 23:49:59,1970-01-09 21:03:46,105
+1091,Documents sending to labor consultant,1970-01-09 21:03:46,1970-01-11 01:12:40,105
+1092,Documents sending to lawyer,1970-01-09 21:03:46,1970-01-10 17:57:48,105
+1093,Tax registration,1970-01-11 01:12:40,1970-01-11 20:37:17,105
+1094,Documents sending to business consultant,1970-01-09 21:03:46,1970-01-11 00:25:21,105
+1095,Creation of social books,1970-01-11 00:25:21,1970-01-12 03:37:23,105
+1096,Bank account creation,1970-01-12 03:37:23,1970-01-17 04:26:36,105
+1097,Funds transfer,1970-01-17 04:26:36,1970-01-18 02:09:58,105
+1098,Registered office activation,1970-01-18 02:09:58,1970-01-18 23:52:48,105
+1099,Business idea consolidation,1970-01-09 20:55:49,1970-01-16 02:19:51,105
+1100,User personas definition,1970-01-16 02:19:51,1970-01-16 22:41:10,105
+1101,Product discovery & prototyping,1970-01-16 22:41:10,1970-02-27 16:27:04,105
+1102,Naming,1970-01-09 20:55:49,1970-01-11 00:42:42,105
+1103,Technical feasibility analysis,1970-02-27 16:27:04,1970-03-02 18:49:54,105
+1104,Priority search,1970-01-11 00:42:42,1970-01-12 00:27:13,105
+1105,Business planning,1970-01-16 02:19:51,1970-02-11 01:12:49,105
+1106,Brand identity creation,1970-01-12 00:27:13,1970-01-24 12:59:54,105
+1107,Prototyping refinements,1970-03-02 18:49:54,1970-03-10 14:45:29,105
+1108,Technical feasibility analysis,1970-03-10 14:45:29,1970-03-13 08:50:54,105
+1109,Trademark registration,1970-01-24 12:59:54,1970-03-31 21:34:40,105
+1110,Core team selection,1970-01-09 20:55:49,1970-02-06 16:13:27,105
+1111,Prototyping refinements,1970-03-13 08:50:54,1970-03-20 00:56:08,105
+1112,Technical feasibility analysis,1970-03-20 00:56:08,1970-03-22 15:37:44,105
+1113,Lean market validation,1970-03-22 15:37:44,1970-04-19 23:37:21,105
+1114,Tech operations kick-off,1970-04-19 23:37:21,1970-04-21 03:04:35,105
+1115,Backlog creation,1970-04-21 03:04:35,1970-04-24 07:10:17,105
+1116,Architecture design,1970-04-21 03:04:35,1970-04-30 07:59:56,105
+1117,Tech stack identification,1970-04-21 03:04:35,1970-04-25 23:39:09,105
+1118,Investors roadshow,1970-04-19 23:37:21,1970-06-12 08:41:11,105
+1119,Investment committee,1970-06-12 08:41:11,1970-06-13 08:18:52,105
+1120,Co-founder engagement,1970-01-01 02:44:54,1970-01-02 06:47:08,109
+1121,Co-founder termsheet - customization,1970-01-02 06:47:08,1970-01-03 06:47:02,109
+1122,Co-founder termsheet - signing,1970-01-03 06:47:02,1970-01-04 08:16:16,109
+1123,Co-founder contract - customization,1970-01-04 08:16:16,1970-01-06 17:53:35,109
+1124,Board minutes for attribution of powers,1970-01-04 08:16:16,1970-01-05 09:24:04,109
+1125,Documents collection,1970-01-04 08:16:16,1970-01-05 08:26:40,109
+1126,Documents sending to notary,1970-01-05 08:26:40,1970-01-06 10:18:02,109
+1127,Notary appointment,1970-01-04 08:16:16,1970-01-05 03:45:42,109
+1128,Co-founder contract - signing,1970-01-06 17:53:35,1970-01-07 16:25:59,109
+1129,Payment of company shares,1970-01-04 08:16:16,1970-01-05 06:02:05,109
+1130,Founding,1970-01-06 10:18:02,1970-01-09 22:31:28,109
+1131,Receipt of documents of incorporation,1970-01-09 22:31:28,1970-01-10 19:41:45,109
+1132,Operations kick-off,1970-01-09 22:31:28,1970-01-10 20:00:19,109
+1133,Documents sending to lawyer,1970-01-10 19:41:45,1970-01-11 22:32:02,109
+1134,Documents sending to labor consultant,1970-01-10 19:41:45,1970-01-11 15:52:17,109
+1135,Tax registration,1970-01-11 15:52:17,1970-01-12 11:59:42,109
+1136,Documents sending to business consultant,1970-01-10 19:41:45,1970-01-11 17:08:37,109
+1137,Creation of social books,1970-01-11 17:08:37,1970-01-12 17:29:23,109
+1138,Bank account creation,1970-01-12 17:29:23,1970-01-17 12:41:46,109
+1139,Funds transfer,1970-01-17 12:41:46,1970-01-18 12:09:52,109
+1140,Registered office activation,1970-01-18 12:09:52,1970-01-19 16:20:36,109
+1141,Business idea consolidation,1970-01-10 20:00:19,1970-01-19 04:27:49,109
+1142,User personas definition,1970-01-19 04:27:49,1970-01-20 07:49:14,109
+1143,Naming,1970-01-10 20:00:19,1970-01-11 22:16:50,109
+1144,Business planning,1970-01-19 04:27:49,1970-02-16 20:07:17,109
+1145,Priority search,1970-01-11 22:16:50,1970-01-13 00:06:03,109
+1146,Product discovery & prototyping,1970-01-20 07:49:14,1970-03-08 13:32:12,109
+1147,Core team selection,1970-01-10 20:00:19,1970-02-08 22:24:47,109
+1148,Technical feasibility analysis,1970-03-08 13:32:12,1970-03-11 21:49:45,109
+1149,Lean market validation,1970-03-11 21:49:45,1970-04-11 09:00:11,109
+1150,Brand identity creation,1970-01-13 00:06:03,1970-01-29 12:05:01,109
+1151,Trademark registration,1970-01-29 12:05:01,1970-03-29 13:58:46,109
+1152,Prototyping refinements,1970-04-11 09:00:11,1970-04-17 16:01:52,109
+1153,Technical feasibility analysis,1970-04-17 16:01:52,1970-04-20 10:11:27,109
+1154,Lean market validation,1970-04-20 10:11:27,1970-05-15 18:50:35,109
+1155,Tech operations kick-off,1970-05-15 18:50:35,1970-05-16 19:06:17,109
+1156,Backlog creation,1970-05-16 19:06:17,1970-05-19 19:44:16,109
+1157,Tech stack identification,1970-05-16 19:06:17,1970-05-22 13:54:27,109
+1158,Architecture design,1970-05-16 19:06:17,1970-05-25 04:32:22,109
+1159,Investors roadshow,1970-05-15 18:50:35,1970-07-04 02:46:40,109
+1160,No Actions,1970-07-04 02:46:40,1970-07-05 05:06:47,109
+1161,Co-founder engagement,1970-01-01 02:50:41,1970-01-02 01:43:24,113
+1162,Co-founder termsheet - customization,1970-01-02 01:43:24,1970-01-03 02:30:48,113
+1163,Co-founder termsheet - signing,1970-01-03 02:30:48,1970-01-04 02:14:23,113
+1164,Documents collection,1970-01-04 02:14:23,1970-01-05 00:46:38,113
+1165,Payment of company shares,1970-01-04 02:14:23,1970-01-05 06:21:33,113
+1166,Notary appointment,1970-01-04 02:14:23,1970-01-04 21:46:33,113
+1167,Co-founder contract - customization,1970-01-04 02:14:23,1970-01-07 15:16:39,113
+1168,Co-founder contract - signing,1970-01-07 15:16:39,1970-01-08 13:34:03,113
+1169,Board minutes for attribution of powers,1970-01-04 02:14:23,1970-01-05 00:12:01,113
+1170,Documents collection,1970-01-05 00:46:38,1970-01-06 00:07:07,113
+1171,Documents sending to notary,1970-01-06 00:07:07,1970-01-06 23:18:33,113
+1172,Founding,1970-01-06 23:18:33,1970-01-09 15:57:56,113
+1173,Receipt of documents of incorporation,1970-01-09 15:57:56,1970-01-10 12:07:44,113
+1174,Documents sending to business consultant,1970-01-10 12:07:44,1970-01-11 10:31:12,113
+1175,Documents sending to lawyer,1970-01-10 12:07:44,1970-01-11 11:31:25,113
+1176,Operations kick-off,1970-01-09 15:57:56,1970-01-10 15:09:10,113
+1177,Documents sending to labor consultant,1970-01-10 12:07:44,1970-01-11 12:46:28,113
+1178,Creation of social books,1970-01-11 10:31:12,1970-01-12 10:12:41,113
+1179,Tax registration,1970-01-11 12:46:28,1970-01-12 10:29:10,113
+1180,Bank account creation,1970-01-12 10:12:41,1970-01-18 05:02:45,113
+1181,Funds transfer,1970-01-18 05:02:45,1970-01-19 02:09:39,113
+1182,Registered office activation,1970-01-19 02:09:39,1970-01-20 01:19:02,113
+1183,Business idea consolidation,1970-01-10 15:09:10,1970-01-18 15:43:44,113
+1184,Core team selection,1970-01-10 15:09:10,1970-02-08 10:06:39,113
+1185,User personas definition,1970-01-18 15:43:44,1970-01-19 18:59:47,113
+1186,Business planning,1970-01-18 15:43:44,1970-02-12 11:41:44,113
+1187,Product discovery & prototyping,1970-01-19 18:59:47,1970-03-02 20:05:39,113
+1188,Naming,1970-01-10 15:09:10,1970-01-11 17:49:29,113
+1189,Technical feasibility analysis,1970-03-02 20:05:39,1970-03-06 09:56:47,113
+1190,Prototyping refinements,1970-03-06 09:56:47,1970-03-12 15:12:48,113
+1191,Priority search,1970-01-11 17:49:29,1970-01-12 20:00:00,113
+1192,Technical feasibility analysis,1970-03-12 15:12:48,1970-03-15 03:21:07,113
+1193,Prototyping refinements,1970-03-15 03:21:07,1970-03-23 06:03:00,113
+1194,Technical feasibility analysis,1970-03-23 06:03:00,1970-03-25 23:27:18,113
+1195,Brand identity creation,1970-01-12 20:00:00,1970-01-24 21:24:17,113
+1196,Prototyping refinements,1970-03-25 23:27:18,1970-04-02 14:18:24,113
+1197,Trademark registration,1970-01-24 21:24:17,1970-03-24 15:39:20,113
+1198,Technical feasibility analysis,1970-04-02 14:18:24,1970-04-05 01:46:03,113
+1199,Lean market validation,1970-04-05 01:46:03,1970-05-06 17:31:56,113
+1200,Tech operations kick-off,1970-05-06 17:31:56,1970-05-07 21:48:07,113
+1201,Backlog creation,1970-05-07 21:48:07,1970-05-10 21:47:21,113
+1202,Architecture design,1970-05-07 21:48:07,1970-05-18 06:12:25,113
+1203,Tech stack identification,1970-05-07 21:48:07,1970-05-12 00:21:27,113
+1204,Investors roadshow,1970-05-06 17:31:56,1970-07-08 06:49:43,113
+1205,Investment committee,1970-07-08 06:49:43,1970-07-09 10:30:03,113
+1206,Co-founder engagement,1970-01-01 02:52:32,1970-01-01 22:50:19,115
+1207,Co-founder termsheet - customization,1970-01-01 22:50:19,1970-01-02 19:17:29,115
+1208,Co-founder termsheet - signing,1970-01-02 19:17:29,1970-01-03 22:33:04,115
+1209,Notary appointment,1970-01-03 22:33:04,1970-01-05 02:50:20,115
+1210,Board minutes for attribution of powers,1970-01-03 22:33:04,1970-01-04 21:04:02,115
+1211,Co-founder contract - customization,1970-01-03 22:33:04,1970-01-07 12:46:39,115
+1212,Payment of company shares,1970-01-03 22:33:04,1970-01-05 02:23:35,115
+1213,Co-founder contract - signing,1970-01-07 12:46:39,1970-01-08 11:38:01,115
+1214,Documents collection,1970-01-03 22:33:04,1970-01-05 01:03:15,115
+1215,Documents sending to notary,1970-01-05 01:03:15,1970-01-06 00:10:20,115
+1216,Founding,1970-01-06 00:10:20,1970-01-09 08:48:56,115
+1217,Receipt of documents of incorporation,1970-01-09 08:48:56,1970-01-10 06:55:36,115
+1218,Documents sending to labor consultant,1970-01-10 06:55:36,1970-01-11 10:17:25,115
+1219,Tax registration,1970-01-11 10:17:25,1970-01-12 06:29:21,115
+1220,Documents sending to business consultant,1970-01-10 06:55:36,1970-01-11 05:24:42,115
+1221,Operations kick-off,1970-01-09 08:48:56,1970-01-10 12:44:07,115
+1222,Creation of social books,1970-01-11 05:24:42,1970-01-12 08:52:47,115
+1223,Bank account creation,1970-01-12 08:52:47,1970-01-16 11:34:07,115
+1224,Funds transfer,1970-01-16 11:34:07,1970-01-17 08:47:02,115
+1225,Documents sending to lawyer,1970-01-10 06:55:36,1970-01-11 06:26:40,115
+1226,Registered office activation,1970-01-17 08:47:02,1970-01-18 09:37:19,115
+1227,Core team selection,1970-01-10 12:44:07,1970-02-03 16:07:05,115
+1228,Business idea consolidation,1970-01-10 12:44:07,1970-01-18 16:15:08,115
+1229,User personas definition,1970-01-18 16:15:08,1970-01-19 19:18:33,115
+1230,Naming,1970-01-10 12:44:07,1970-01-11 17:21:51,115
+1231,Product discovery & prototyping,1970-01-19 19:18:33,1970-03-03 09:45:00,115
+1232,Technical feasibility analysis,1970-03-03 09:45:00,1970-03-05 21:22:45,115
+1233,Priority search,1970-01-11 17:21:51,1970-01-12 18:22:02,115
+1234,Brand identity creation,1970-01-12 18:22:02,1970-01-26 00:46:28,115
+1235,Business planning,1970-01-18 16:15:08,1970-02-23 00:46:06,115
+1236,Trademark registration,1970-01-26 00:46:28,1970-03-22 22:55:51,115
+1237,Prototyping refinements,1970-03-05 21:22:45,1970-03-13 19:34:13,115
+1238,Technical feasibility analysis,1970-03-13 19:34:13,1970-03-16 05:15:55,115
+1239,Lean market validation,1970-03-16 05:15:55,1970-04-10 23:57:51,115
+1240,Tech operations kick-off,1970-04-10 23:57:51,1970-04-11 23:04:03,115
+1241,Tech stack identification,1970-04-11 23:04:03,1970-04-17 16:54:36,115
+1242,Architecture design,1970-04-11 23:04:03,1970-04-22 14:14:52,115
+1243,Backlog creation,1970-04-11 23:04:03,1970-04-14 23:34:27,115
+1244,Investors roadshow,1970-04-10 23:57:51,1970-06-02 23:08:48,115
+1245,Investment committee,1970-06-02 23:08:48,1970-06-04 04:20:40,115
+1246,Co-founder engagement,1970-01-01 02:53:50,1970-01-01 23:44:09,117
+1247,Co-founder termsheet - customization,1970-01-01 23:44:09,1970-01-03 01:51:39,117
+1248,Co-founder termsheet - signing,1970-01-03 01:51:39,1970-01-04 01:42:37,117
+1249,Payment of company shares,1970-01-04 01:42:37,1970-01-05 03:40:05,117
+1250,Notary appointment,1970-01-04 01:42:37,1970-01-05 06:00:43,117
+1251,Co-founder contract - customization,1970-01-04 01:42:37,1970-01-06 23:30:36,117
+1252,Co-founder contract - signing,1970-01-06 23:30:36,1970-01-08 03:03:49,117
+1253,Documents collection,1970-01-04 01:42:37,1970-01-05 01:39:59,117
+1254,Board minutes for attribution of powers,1970-01-04 01:42:37,1970-01-05 02:24:04,117
+1255,Documents sending to notary,1970-01-05 01:39:59,1970-01-06 01:18:18,117
+1256,Founding,1970-01-06 01:18:18,1970-01-09 06:50:39,117
+1257,Receipt of documents of incorporation,1970-01-09 06:50:39,1970-01-10 08:51:27,117
+1258,Operations kick-off,1970-01-09 06:50:39,1970-01-10 07:45:39,117
+1259,Documents sending to lawyer,1970-01-10 08:51:27,1970-01-11 12:40:53,117
+1260,Documents sending to labor consultant,1970-01-10 08:51:27,1970-01-11 09:24:20,117
+1261,Documents sending to business consultant,1970-01-10 08:51:27,1970-01-11 09:53:29,117
+1262,Tax registration,1970-01-11 09:24:20,1970-01-12 12:06:09,117
+1263,Creation of social books,1970-01-11 09:53:29,1970-01-12 06:40:28,117
+1264,Bank account creation,1970-01-12 06:40:28,1970-01-16 19:57:58,117
+1265,Funds transfer,1970-01-16 19:57:58,1970-01-17 17:48:19,117
+1266,Registered office activation,1970-01-17 17:48:19,1970-01-18 17:19:56,117
+1267,Naming,1970-01-10 07:45:39,1970-01-11 05:46:51,117
+1268,Priority search,1970-01-11 05:46:51,1970-01-12 07:57:29,117
+1269,Brand identity creation,1970-01-12 07:57:29,1970-01-25 08:05:36,117
+1270,Trademark registration,1970-01-25 08:05:36,1970-04-02 16:50:08,117
+1271,Core team selection,1970-01-10 07:45:39,1970-02-13 08:21:38,117
+1272,Business idea consolidation,1970-01-10 07:45:39,1970-01-18 05:28:04,117
+1273,Business planning,1970-01-18 05:28:04,1970-02-12 03:37:06,117
+1274,User personas definition,1970-01-18 05:28:04,1970-01-19 06:41:51,117
+1275,Product discovery & prototyping,1970-01-19 06:41:51,1970-03-07 01:12:51,117
+1276,Technical feasibility analysis,1970-03-07 01:12:51,1970-03-09 13:53:10,117
+1277,Lean market validation,1970-03-09 13:53:10,1970-04-13 07:21:52,117
+1278,Prototyping refinements,1970-04-13 07:21:52,1970-04-18 23:32:45,117
+1279,Technical feasibility analysis,1970-04-18 23:32:45,1970-04-21 17:03:36,117
+1280,Lean market validation,1970-04-21 17:03:36,1970-05-20 15:23:33,117
+1281,Tech operations kick-off,1970-05-20 15:23:33,1970-05-21 19:41:40,117
+1282,Architecture design,1970-05-21 19:41:40,1970-06-02 20:41:23,117
+1283,Backlog creation,1970-05-21 19:41:40,1970-05-24 21:08:12,117
+1284,Tech stack identification,1970-05-21 19:41:40,1970-05-26 11:52:14,117
+1285,Investors roadshow,1970-05-20 15:23:33,1970-07-27 04:13:30,117
+1286,Investment committee,1970-07-27 04:13:30,1970-07-28 08:43:19,117
+1287,Co-founder engagement,1970-01-01 02:55:19,1970-01-02 01:29:04,119
+1288,Co-founder termsheet - customization,1970-01-02 01:29:04,1970-01-03 03:41:52,119
+1289,Co-founder termsheet - signing,1970-01-03 03:41:52,1970-01-04 04:34:08,119
+1290,Co-founder contract - customization,1970-01-04 04:34:08,1970-01-07 07:30:06,119
+1291,Notary appointment,1970-01-04 04:34:08,1970-01-05 07:27:46,119
+1292,Documents collection,1970-01-04 04:34:08,1970-01-05 04:14:02,119
+1293,Co-founder contract - signing,1970-01-07 07:30:06,1970-01-08 07:15:57,119
+1294,Documents sending to notary,1970-01-05 04:14:02,1970-01-06 07:03:49,119
+1295,Payment of company shares,1970-01-04 04:34:08,1970-01-05 06:42:38,119
+1296,Board minutes for attribution of powers,1970-01-04 04:34:08,1970-01-05 02:38:40,119
+1297,Founding,1970-01-06 07:03:49,1970-01-09 11:30:00,119
+1298,Receipt of documents of incorporation,1970-01-09 11:30:00,1970-01-10 13:41:55,119
+1299,Documents sending to lawyer,1970-01-10 13:41:55,1970-01-11 16:44:23,119
+1300,Documents sending to labor consultant,1970-01-10 13:41:55,1970-01-11 13:17:56,119
+1301,Operations kick-off,1970-01-09 11:30:00,1970-01-10 08:48:46,119
+1302,Tax registration,1970-01-11 13:17:56,1970-01-12 09:32:14,119
+1303,Documents sending to business consultant,1970-01-10 13:41:55,1970-01-11 18:26:43,119
+1304,Creation of social books,1970-01-11 18:26:43,1970-01-12 19:30:52,119
+1305,Bank account creation,1970-01-12 19:30:52,1970-01-18 19:28:01,119
+1306,Funds transfer,1970-01-18 19:28:01,1970-01-19 22:02:42,119
+1307,Registered office activation,1970-01-19 22:02:42,1970-01-21 01:36:33,119
+1308,Core team selection,1970-01-10 08:48:46,1970-02-07 13:12:40,119
+1309,Naming,1970-01-10 08:48:46,1970-01-11 07:25:30,119
+1310,Priority search,1970-01-11 07:25:30,1970-01-12 10:22:03,119
+1311,Business idea consolidation,1970-01-10 08:48:46,1970-01-16 15:34:23,119
+1312,Brand identity creation,1970-01-12 10:22:03,1970-01-28 06:35:23,119
+1313,Trademark registration,1970-01-28 06:35:23,1970-04-09 08:15:50,119
+1314,User personas definition,1970-01-16 15:34:23,1970-01-17 18:35:55,119
+1315,Product discovery & prototyping,1970-01-17 18:35:55,1970-02-19 23:14:53,119
+1316,Business planning,1970-01-16 15:34:23,1970-02-13 08:58:01,119
+1317,Technical feasibility analysis,1970-02-19 23:14:53,1970-02-22 11:15:37,119
+1318,Prototyping refinements,1970-02-22 11:15:37,1970-03-01 22:04:33,119
+1319,Technical feasibility analysis,1970-03-01 22:04:33,1970-03-04 22:09:46,119
+1320,Lean market validation,1970-03-04 22:09:46,1970-04-05 11:03:06,119
+1321,Tech operations kick-off,1970-04-05 11:03:06,1970-04-06 16:00:29,119
+1322,Tech stack identification,1970-04-06 16:00:29,1970-04-12 04:26:17,119
+1323,Architecture design,1970-04-06 16:00:29,1970-04-15 03:48:15,119
+1324,Backlog creation,1970-04-06 16:00:29,1970-04-09 22:19:08,119
+1325,Investors roadshow,1970-04-09 08:15:50,1970-06-05 23:17:28,119
+1326,Investment committee,1970-06-05 23:17:28,1970-06-07 00:08:57,119
+1327,Co-founder engagement,1970-01-01 02:55:59,1970-01-02 00:16:26,120
+1328,Co-founder termsheet - customization,1970-01-02 00:16:26,1970-01-03 02:58:46,120
+1329,Co-founder termsheet - signing,1970-01-03 02:58:46,1970-01-04 06:58:01,120
+1330,Co-founder contract - customization,1970-01-04 06:58:01,1970-01-07 13:18:56,120
+1331,Board minutes for attribution of powers,1970-01-04 06:58:01,1970-01-05 02:54:48,120
+1332,Co-founder contract - signing,1970-01-07 13:18:56,1970-01-08 17:44:02,120
+1333,Notary appointment,1970-01-04 06:58:01,1970-01-05 09:25:53,120
+1334,Payment of company shares,1970-01-04 06:58:01,1970-01-05 03:10:59,120
+1335,Documents collection,1970-01-04 06:58:01,1970-01-05 04:02:11,120
+1336,Documents collection,1970-01-05 04:02:11,1970-01-06 03:45:31,120
+1337,Documents collection,1970-01-06 03:45:31,1970-01-07 01:18:21,120
+1338,Documents collection,1970-01-07 01:18:21,1970-01-08 00:49:05,120
+1339,Documents sending to notary,1970-01-08 00:49:05,1970-01-08 22:33:09,120
+1340,Founding,1970-01-08 22:33:09,1970-01-11 13:52:17,120
+1341,Operations kick-off,1970-01-11 13:52:17,1970-01-12 10:21:42,120
+1342,Receipt of documents of incorporation,1970-01-11 13:52:17,1970-01-12 15:31:24,120
+1343,Documents sending to labor consultant,1970-01-12 15:31:24,1970-01-13 12:40:13,120
+1344,Tax registration,1970-01-13 12:40:13,1970-01-14 15:48:16,120
+1345,Documents sending to business consultant,1970-01-12 15:31:24,1970-01-13 12:01:01,120
+1346,Documents sending to lawyer,1970-01-12 15:31:24,1970-01-13 11:32:32,120
+1347,Creation of social books,1970-01-13 12:01:01,1970-01-14 09:43:30,120
+1348,Bank account creation,1970-01-14 09:43:30,1970-01-19 03:22:36,120
+1349,Funds transfer,1970-01-19 03:22:36,1970-01-19 23:25:54,120
+1350,Registered office activation,1970-01-19 23:25:54,1970-01-21 03:23:20,120
+1351,Core team selection,1970-01-12 10:21:42,1970-02-14 13:16:09,120
+1352,Naming,1970-01-12 10:21:42,1970-01-13 06:05:24,120
+1353,Priority search,1970-01-13 06:05:24,1970-01-14 06:47:45,120
+1354,Brand identity creation,1970-01-14 06:47:45,1970-01-29 19:59:27,120
+1355,Trademark registration,1970-01-29 19:59:27,1970-04-05 23:42:51,120
+1356,Business idea consolidation,1970-01-12 10:21:42,1970-01-19 15:22:48,120
+1357,User personas definition,1970-01-19 15:22:48,1970-01-20 10:53:20,120
+1358,Product discovery & prototyping,1970-01-20 10:53:20,1970-03-01 13:42:35,120
+1359,Business planning,1970-01-19 15:22:48,1970-02-18 07:26:31,120
+1360,Technical feasibility analysis,1970-03-01 13:42:35,1970-03-04 05:57:12,120
+1361,Prototyping refinements,1970-03-04 05:57:12,1970-03-09 23:29:33,120
+1362,Technical feasibility analysis,1970-03-09 23:29:33,1970-03-12 09:30:04,120
+1363,Prototyping refinements,1970-03-12 09:30:04,1970-03-20 04:44:38,120
+1364,Technical feasibility analysis,1970-03-20 04:44:38,1970-03-23 13:58:24,120
+1365,Lean market validation,1970-03-23 13:58:24,1970-04-16 15:59:32,120
+1366,Tech operations kick-off,1970-04-16 15:59:32,1970-04-17 17:01:36,120
+1367,Architecture design,1970-04-17 17:01:36,1970-04-28 04:39:46,120
+1368,Backlog creation,1970-04-17 17:01:36,1970-04-20 04:12:50,120
+1369,Tech stack identification,1970-04-17 17:01:36,1970-04-23 14:50:44,120
+1370,Investors roadshow,1970-04-16 15:59:32,1970-06-11 14:29:01,120
+1371,Business planning review,1970-06-11 14:29:01,1970-06-18 04:31:33,120
+1372,Investors roadshow,1970-06-18 04:31:33,1970-08-13 08:21:08,120
+1373,Investment committee,1970-08-13 08:21:08,1970-08-14 10:42:49,120
+1374,Co-founder engagement,1970-01-01 02:56:46,1970-01-02 03:23:29,121
+1375,Co-founder termsheet - customization,1970-01-02 03:23:29,1970-01-03 00:43:14,121
+1376,Co-founder termsheet - signing,1970-01-03 00:43:14,1970-01-03 23:21:33,121
+1377,Board minutes for attribution of powers,1970-01-03 23:21:33,1970-01-04 20:08:32,121
+1378,Payment of company shares,1970-01-03 23:21:33,1970-01-04 22:30:57,121
+1379,Notary appointment,1970-01-03 23:21:33,1970-01-05 03:21:23,121
+1380,Documents collection,1970-01-03 23:21:33,1970-01-04 22:09:47,121
+1381,Documents collection,1970-01-04 22:09:47,1970-01-05 19:51:24,121
+1382,Co-founder contract - customization,1970-01-03 23:21:33,1970-01-06 17:27:14,121
+1383,Co-founder contract - signing,1970-01-06 17:27:14,1970-01-07 22:11:42,121
+1384,Documents sending to notary,1970-01-05 19:51:24,1970-01-06 22:48:46,121
+1385,Founding,1970-01-06 22:48:46,1970-01-09 19:32:50,121
+1386,Receipt of documents of incorporation,1970-01-09 19:32:50,1970-01-10 22:30:49,121
+1387,Documents sending to labor consultant,1970-01-10 22:30:49,1970-01-12 02:27:35,121
+1388,Operations kick-off,1970-01-09 19:32:50,1970-01-10 18:11:47,121
+1389,Tax registration,1970-01-12 02:27:35,1970-01-13 04:54:06,121
+1390,Documents sending to lawyer,1970-01-10 22:30:49,1970-01-11 20:18:19,121
+1391,Documents sending to business consultant,1970-01-10 22:30:49,1970-01-12 03:18:01,121
+1392,Creation of social books,1970-01-12 03:18:01,1970-01-13 04:53:05,121
+1393,Bank account creation,1970-01-13 04:53:05,1970-01-18 16:47:21,121
+1394,Funds transfer,1970-01-18 16:47:21,1970-01-19 15:57:01,121
+1395,Registered office activation,1970-01-19 15:57:01,1970-01-20 12:52:32,121
+1396,Naming,1970-01-10 18:11:47,1970-01-11 19:07:52,121
+1397,Core team selection,1970-01-10 18:11:47,1970-02-13 12:52:01,121
+1398,Business idea consolidation,1970-01-10 18:11:47,1970-01-18 21:58:15,121
+1399,Priority search,1970-01-11 19:07:52,1970-01-12 17:05:32,121
+1400,Brand identity creation,1970-01-12 17:05:32,1970-01-26 06:50:40,121
+1401,User personas definition,1970-01-18 21:58:15,1970-01-19 23:39:18,121
+1402,Trademark registration,1970-01-26 06:50:40,1970-03-30 21:27:22,121
+1403,Product discovery & prototyping,1970-01-19 23:39:18,1970-03-03 11:54:42,121
+1404,Technical feasibility analysis,1970-03-03 11:54:42,1970-03-06 20:18:55,121
+1405,Prototyping refinements,1970-03-06 20:18:55,1970-03-14 08:57:26,121
+1406,Technical feasibility analysis,1970-03-14 08:57:26,1970-03-17 01:42:39,121
+1407,Business planning,1970-01-18 21:58:15,1970-02-17 02:48:31,121
+1408,Prototyping refinements,1970-03-17 01:42:39,1970-03-23 22:54:27,121
+1409,Technical feasibility analysis,1970-03-23 22:54:27,1970-03-27 06:38:54,121
+1410,Lean market validation,1970-03-27 06:38:54,1970-04-29 05:18:13,121
+1411,Tech operations kick-off,1970-04-29 05:18:13,1970-04-30 01:40:54,121
+1412,Architecture design,1970-04-30 01:40:54,1970-05-08 19:40:48,121
+1413,Backlog creation,1970-04-30 01:40:54,1970-05-03 10:28:42,121
+1414,Tech stack identification,1970-04-30 01:40:54,1970-05-04 15:44:13,121
+1415,Investors roadshow,1970-04-29 05:18:13,1970-06-25 05:18:16,121
+1416,Business planning review,1970-06-25 05:18:16,1970-07-01 01:34:21,121
+1417,Investors roadshow,1970-07-01 01:34:21,1970-09-01 14:28:07,121
+1418,Investment committee,1970-09-01 14:28:07,1970-09-02 14:08:58,121
+1419,Co-founder engagement,1970-01-01 03:02:47,1970-01-02 04:31:49,128
+1420,Co-founder termsheet - customization,1970-01-02 04:31:49,1970-01-03 00:59:18,128
+1421,Co-founder termsheet - signing,1970-01-03 00:59:18,1970-01-03 23:52:14,128
+1422,Co-founder contract - customization,1970-01-03 23:52:14,1970-01-06 17:43:03,128
+1423,Co-founder contract - signing,1970-01-06 17:43:03,1970-01-07 13:12:00,128
+1424,Payment of company shares,1970-01-03 23:52:14,1970-01-04 23:00:41,128
+1425,Board minutes for attribution of powers,1970-01-03 23:52:14,1970-01-04 20:32:47,128
+1426,Documents collection,1970-01-03 23:52:14,1970-01-04 19:44:45,128
+1427,Documents sending to notary,1970-01-04 19:44:45,1970-01-05 19:33:47,128
+1428,Notary appointment,1970-01-03 23:52:14,1970-01-05 01:31:12,128
+1429,Founding,1970-01-05 19:33:47,1970-01-09 07:46:15,128
+1430,Operations kick-off,1970-01-09 07:46:15,1970-01-10 06:57:39,128
+1431,Receipt of documents of incorporation,1970-01-09 07:46:15,1970-01-10 04:14:46,128
+1432,Documents sending to labor consultant,1970-01-10 04:14:46,1970-01-11 07:39:06,128
+1433,Tax registration,1970-01-11 07:39:06,1970-01-12 06:44:08,128
+1434,Documents sending to lawyer,1970-01-10 04:14:46,1970-01-11 02:36:28,128
+1435,Documents sending to business consultant,1970-01-10 04:14:46,1970-01-11 07:53:09,128
+1436,Creation of social books,1970-01-11 07:53:09,1970-01-12 12:14:22,128
+1437,Bank account creation,1970-01-12 12:14:22,1970-01-18 04:51:31,128
+1438,Funds transfer,1970-01-18 04:51:31,1970-01-19 00:47:38,128
+1439,Registered office activation,1970-01-19 00:47:38,1970-01-19 22:53:20,128
+1440,Business idea consolidation,1970-01-10 06:57:39,1970-01-18 13:28:36,128
+1441,Naming,1970-01-10 06:57:39,1970-01-11 06:31:30,128
+1442,Core team selection,1970-01-10 06:57:39,1970-02-12 23:14:27,128
+1443,Business planning,1970-01-18 13:28:36,1970-02-13 02:39:32,128
+1444,User personas definition,1970-01-18 13:28:36,1970-01-19 13:07:05,128
+1445,Priority search,1970-01-11 06:31:30,1970-01-12 08:48:21,128
+1446,Product discovery & prototyping,1970-01-19 13:07:05,1970-02-24 05:16:07,128
+1447,Technical feasibility analysis,1970-02-24 05:16:07,1970-02-26 22:09:50,128
+1448,Prototyping refinements,1970-02-26 22:09:50,1970-03-05 06:41:42,128
+1449,Technical feasibility analysis,1970-03-05 06:41:42,1970-03-08 04:18:26,128
+1450,Brand identity creation,1970-01-12 08:48:21,1970-01-25 06:49:48,128
+1451,Trademark registration,1970-01-25 06:49:48,1970-04-01 16:05:27,128
+1452,Lean market validation,1970-03-08 04:18:26,1970-04-08 18:20:05,128
+1453,Tech operations kick-off,1970-04-08 18:20:05,1970-04-09 20:16:38,128
+1454,Backlog creation,1970-04-09 20:16:38,1970-04-13 03:20:50,128
+1455,Tech stack identification,1970-04-09 20:16:38,1970-04-15 21:00:45,128
+1456,Architecture design,1970-04-09 20:16:38,1970-04-18 16:14:24,128
+1457,Investors roadshow,1970-04-08 18:20:05,1970-05-30 20:41:36,128
+1458,Investment committee,1970-05-30 20:41:36,1970-06-01 00:55:04,128
+1459,Co-founder engagement,1970-01-01 03:03:27,1970-01-02 03:10:48,129
+1460,Co-founder termsheet - customization,1970-01-02 03:10:48,1970-01-02 22:34:32,129
+1461,Co-founder termsheet - signing,1970-01-02 22:34:32,1970-01-03 21:29:09,129
+1462,Notary appointment,1970-01-03 21:29:09,1970-01-05 01:29:36,129
+1463,Co-founder contract - customization,1970-01-03 21:29:09,1970-01-07 08:46:03,129
+1464,Board minutes for attribution of powers,1970-01-03 21:29:09,1970-01-04 22:02:46,129
+1465,Payment of company shares,1970-01-03 21:29:09,1970-01-04 23:36:59,129
+1466,Documents collection,1970-01-03 21:29:09,1970-01-04 21:09:01,129
+1467,Documents sending to notary,1970-01-04 21:09:01,1970-01-05 17:17:37,129
+1468,Co-founder contract - signing,1970-01-07 08:46:03,1970-01-08 04:19:38,129
+1469,Founding,1970-01-05 17:17:37,1970-01-08 17:56:34,129
+1470,Operations kick-off,1970-01-08 17:56:34,1970-01-09 18:27:43,129
+1471,Receipt of documents of incorporation,1970-01-08 17:56:34,1970-01-09 19:06:48,129
+1472,Documents sending to labor consultant,1970-01-09 19:06:48,1970-01-10 22:15:50,129
+1473,Documents sending to lawyer,1970-01-09 19:06:48,1970-01-10 22:56:58,129
+1474,Documents sending to business consultant,1970-01-09 19:06:48,1970-01-10 17:28:35,129
+1475,Tax registration,1970-01-10 22:15:50,1970-01-11 23:46:49,129
+1476,Creation of social books,1970-01-10 17:28:35,1970-01-11 18:43:13,129
+1477,Bank account creation,1970-01-11 18:43:13,1970-01-16 16:11:59,129
+1478,Funds transfer,1970-01-16 16:11:59,1970-01-17 14:49:56,129
+1479,Registered office activation,1970-01-17 14:49:56,1970-01-18 13:41:51,129
+1480,Core team selection,1970-01-09 18:27:43,1970-02-13 07:37:07,129
+1481,Naming,1970-01-09 18:27:43,1970-01-10 15:07:26,129
+1482,Business idea consolidation,1970-01-09 18:27:43,1970-01-17 15:17:51,129
+1483,User personas definition,1970-01-17 15:17:51,1970-01-18 17:35:26,129
+1484,Product discovery & prototyping,1970-01-18 17:35:26,1970-02-28 13:45:20,129
+1485,Technical feasibility analysis,1970-02-28 13:45:20,1970-03-03 07:08:09,129
+1486,Priority search,1970-01-10 15:07:26,1970-01-11 17:49:15,129
+1487,Business planning,1970-01-17 15:17:51,1970-02-15 14:15:52,129
+1488,Prototyping refinements,1970-03-03 07:08:09,1970-03-11 04:19:27,129
+1489,Technical feasibility analysis,1970-03-11 04:19:27,1970-03-14 18:39:22,129
+1490,Lean market validation,1970-03-14 18:39:22,1970-04-11 06:26:20,129
+1491,Tech operations kick-off,1970-04-11 06:26:20,1970-04-12 10:33:49,129
+1492,Backlog creation,1970-04-12 10:33:49,1970-04-15 02:04:24,129
+1493,Architecture design,1970-04-12 10:33:49,1970-04-23 10:37:17,129
+1494,Tech stack identification,1970-04-12 10:33:49,1970-04-18 04:32:27,129
+1495,Brand identity creation,1970-01-11 17:49:15,1970-01-22 23:07:58,129
+1496,Trademark registration,1970-01-22 23:07:58,1970-03-25 09:19:32,129
+1497,Investors roadshow,1970-04-11 06:26:20,1970-06-14 16:12:34,129
+1498,Investment committee,1970-06-14 16:12:34,1970-06-15 20:16:14,129
+1499,Co-founder engagement,1970-01-01 03:04:07,1970-01-02 05:45:14,130
+1500,Co-founder termsheet - customization,1970-01-02 05:45:14,1970-01-03 09:18:11,130
+1501,Co-founder termsheet - signing,1970-01-03 09:18:11,1970-01-04 05:47:42,130
+1502,Co-founder contract - customization,1970-01-04 05:47:42,1970-01-06 22:05:12,130
+1503,Co-founder contract - signing,1970-01-06 22:05:12,1970-01-08 00:22:40,130
+1504,Documents collection,1970-01-04 05:47:42,1970-01-05 09:35:36,130
+1505,Board minutes for attribution of powers,1970-01-04 05:47:42,1970-01-05 04:30:22,130
+1506,Documents sending to notary,1970-01-05 09:35:36,1970-01-06 10:51:30,130
+1507,Payment of company shares,1970-01-04 05:47:42,1970-01-05 04:58:15,130
+1508,Notary appointment,1970-01-04 05:47:42,1970-01-05 07:48:25,130
+1509,Founding,1970-01-06 10:51:30,1970-01-09 23:56:38,130
+1510,Operations kick-off,1970-01-09 23:56:38,1970-01-10 19:58:00,130
+1511,Receipt of documents of incorporation,1970-01-09 23:56:38,1970-01-11 02:02:54,130
+1512,Documents sending to lawyer,1970-01-11 02:02:54,1970-01-12 01:13:16,130
+1513,Documents sending to labor consultant,1970-01-11 02:02:54,1970-01-12 04:09:17,130
+1514,Tax registration,1970-01-12 04:09:17,1970-01-13 00:00:17,130
+1515,Documents sending to business consultant,1970-01-11 02:02:54,1970-01-12 06:28:55,130
+1516,Creation of social books,1970-01-12 06:28:55,1970-01-13 04:21:30,130
+1517,Bank account creation,1970-01-13 04:21:30,1970-01-18 19:17:17,130
+1518,Funds transfer,1970-01-18 19:17:17,1970-01-19 23:13:07,130
+1519,Registered office activation,1970-01-19 23:13:07,1970-01-20 22:26:02,130
+1520,Core team selection,1970-01-10 19:58:00,1970-02-14 22:04:59,130
+1521,Business idea consolidation,1970-01-10 19:58:00,1970-01-18 06:32:26,130
+1522,Business planning,1970-01-18 06:32:26,1970-02-22 02:54:35,130
+1523,User personas definition,1970-01-18 06:32:26,1970-01-19 11:08:33,130
+1524,Product discovery & prototyping,1970-01-19 11:08:33,1970-02-21 03:51:20,130
+1525,Naming,1970-01-10 19:58:00,1970-01-11 19:56:25,130
+1526,Technical feasibility analysis,1970-02-21 03:51:20,1970-02-24 06:08:30,130
+1527,Priority search,1970-01-11 19:56:25,1970-01-12 17:04:35,130
+1528,Lean market validation,1970-02-24 06:08:30,1970-03-22 20:56:47,130
+1529,Brand identity creation,1970-01-12 17:04:35,1970-01-25 01:41:06,130
+1530,Prototyping refinements,1970-03-22 20:56:47,1970-03-31 06:04:13,130
+1531,Trademark registration,1970-01-25 01:41:06,1970-03-24 09:00:33,130
+1532,Technical feasibility analysis,1970-03-31 06:04:13,1970-04-03 17:49:04,130
+1533,Prototyping refinements,1970-04-03 17:49:04,1970-04-10 03:23:28,130
+1534,Technical feasibility analysis,1970-04-10 03:23:28,1970-04-12 17:09:03,130
+1535,Lean market validation,1970-04-12 17:09:03,1970-05-15 22:14:02,130
+1536,Tech operations kick-off,1970-05-15 22:14:02,1970-05-17 00:28:26,130
+1537,Tech stack identification,1970-05-17 00:28:26,1970-05-21 23:28:01,130
+1538,Backlog creation,1970-05-17 00:28:26,1970-05-19 13:04:02,130
+1539,Architecture design,1970-05-17 00:28:26,1970-05-25 12:10:09,130
+1540,Investors roadshow,1970-05-15 22:14:02,1970-07-24 09:18:52,130
+1541,Investment committee,1970-07-24 09:18:52,1970-07-25 12:21:28,130
+1542,Co-founder engagement,1970-01-01 03:07:33,1970-01-02 01:19:17,133
+1543,Co-founder termsheet - customization,1970-01-02 01:19:17,1970-01-02 22:51:15,133
+1544,Co-founder termsheet - signing,1970-01-02 22:51:15,1970-01-03 20:35:02,133
+1545,Notary appointment,1970-01-03 20:35:02,1970-01-04 18:52:41,133
+1546,Board minutes for attribution of powers,1970-01-03 20:35:02,1970-01-05 01:10:03,133
+1547,Documents collection,1970-01-03 20:35:02,1970-01-04 21:08:37,133
+1548,Payment of company shares,1970-01-03 20:35:02,1970-01-04 16:04:32,133
+1549,Documents sending to notary,1970-01-04 21:08:37,1970-01-05 18:18:04,133
+1550,Co-founder contract - customization,1970-01-03 20:35:02,1970-01-06 12:11:52,133
+1551,Co-founder contract - signing,1970-01-06 12:11:52,1970-01-07 09:06:17,133
+1552,Founding,1970-01-05 18:18:04,1970-01-08 10:35:54,133
+1553,Receipt of documents of incorporation,1970-01-08 10:35:54,1970-01-09 11:39:49,133
+1554,Documents sending to business consultant,1970-01-09 11:39:49,1970-01-10 13:01:24,133
+1555,Documents sending to lawyer,1970-01-09 11:39:49,1970-01-10 14:10:07,133
+1556,Operations kick-off,1970-01-08 10:35:54,1970-01-09 14:49:05,133
+1557,Creation of social books,1970-01-10 13:01:24,1970-01-11 16:04:55,133
+1558,Bank account creation,1970-01-11 16:04:55,1970-01-16 10:22:37,133
+1559,Funds transfer,1970-01-16 10:22:37,1970-01-17 09:46:13,133
+1560,Registered office activation,1970-01-17 09:46:13,1970-01-18 08:28:52,133
+1561,Documents sending to labor consultant,1970-01-09 11:39:49,1970-01-10 14:20:07,133
+1562,Tax registration,1970-01-10 14:20:07,1970-01-11 18:06:29,133
+1563,Business idea consolidation,1970-01-09 14:49:05,1970-01-16 01:12:07,133
+1564,Business planning,1970-01-16 01:12:07,1970-02-20 18:19:14,133
+1565,User personas definition,1970-01-16 01:12:07,1970-01-17 02:31:28,133
+1566,Naming,1970-01-09 14:49:05,1970-01-10 15:49:45,133
+1567,Priority search,1970-01-10 15:49:45,1970-01-11 14:35:50,133
+1568,Core team selection,1970-01-09 14:49:05,1970-02-05 03:45:26,133
+1569,Product discovery & prototyping,1970-01-17 02:31:28,1970-02-24 15:03:05,133
+1570,Brand identity creation,1970-01-11 14:35:50,1970-01-27 07:11:31,133
+1571,Technical feasibility analysis,1970-02-24 15:03:05,1970-02-27 16:31:08,133
+1572,Trademark registration,1970-01-27 07:11:31,1970-03-24 02:04:14,133
+1573,Prototyping refinements,1970-02-27 16:31:08,1970-03-08 01:17:56,133
+1574,Technical feasibility analysis,1970-03-08 01:17:56,1970-03-11 09:38:53,133
+1575,Lean market validation,1970-03-11 09:38:53,1970-04-08 08:52:27,133
+1576,Tech operations kick-off,1970-04-08 08:52:27,1970-04-09 09:19:17,133
+1577,Backlog creation,1970-04-09 09:19:17,1970-04-12 05:43:54,133
+1578,Architecture design,1970-04-09 09:19:17,1970-04-18 15:46:00,133
+1579,Tech stack identification,1970-04-09 09:19:17,1970-04-14 01:50:01,133
+1580,Investors roadshow,1970-04-08 08:52:27,1970-06-13 14:18:52,133
+1581,Investment committee,1970-06-13 14:18:52,1970-06-14 15:15:29,133
+1582,Co-founder engagement,1970-01-01 03:08:13,1970-01-02 00:25:24,134
+1583,Co-founder termsheet - customization,1970-01-02 00:25:24,1970-01-03 03:56:27,134
+1584,Co-founder termsheet - signing,1970-01-03 03:56:27,1970-01-04 02:40:17,134
+1585,Payment of company shares,1970-01-04 02:40:17,1970-01-05 00:41:09,134
+1586,Board minutes for attribution of powers,1970-01-04 02:40:17,1970-01-05 03:43:42,134
+1587,Notary appointment,1970-01-04 02:40:17,1970-01-05 06:56:00,134
+1588,Co-founder contract - customization,1970-01-04 02:40:17,1970-01-07 01:09:27,134
+1589,Co-founder contract - signing,1970-01-07 01:09:27,1970-01-07 22:26:04,134
+1590,Documents collection,1970-01-04 02:40:17,1970-01-05 05:38:33,134
+1591,Documents collection,1970-01-05 05:38:33,1970-01-06 03:33:48,134
+1592,Documents sending to notary,1970-01-06 03:33:48,1970-01-07 01:26:54,134
+1593,Founding,1970-01-07 01:26:54,1970-01-09 21:34:36,134
+1594,Receipt of documents of incorporation,1970-01-09 21:34:36,1970-01-10 21:32:31,134
+1595,Documents sending to business consultant,1970-01-10 21:32:31,1970-01-12 00:48:06,134
+1596,Creation of social books,1970-01-12 00:48:06,1970-01-13 01:18:25,134
+1597,Bank account creation,1970-01-13 01:18:25,1970-01-18 19:10:14,134
+1598,Documents sending to lawyer,1970-01-10 21:32:31,1970-01-11 21:55:30,134
+1599,Documents sending to labor consultant,1970-01-10 21:32:31,1970-01-12 00:04:05,134
+1600,Operations kick-off,1970-01-09 21:34:36,1970-01-10 19:32:21,134
+1601,Funds transfer,1970-01-18 19:10:14,1970-01-19 16:26:25,134
+1602,Registered office activation,1970-01-19 16:26:25,1970-01-20 15:38:30,134
+1603,Tax registration,1970-01-12 00:04:05,1970-01-12 21:23:00,134
+1604,Core team selection,1970-01-10 19:32:21,1970-02-11 20:10:27,134
+1605,Naming,1970-01-10 19:32:21,1970-01-11 22:12:41,134
+1606,Business idea consolidation,1970-01-10 19:32:21,1970-01-18 14:20:46,134
+1607,Business planning,1970-01-18 14:20:46,1970-02-19 22:36:43,134
+1608,Priority search,1970-01-11 22:12:41,1970-01-13 02:00:01,134
+1609,Brand identity creation,1970-01-13 02:00:01,1970-01-26 10:08:52,134
+1610,User personas definition,1970-01-18 14:20:46,1970-01-19 11:32:01,134
+1611,Product discovery & prototyping,1970-01-19 11:32:01,1970-03-02 23:13:37,134
+1612,Trademark registration,1970-01-26 10:08:52,1970-03-22 15:57:00,134
+1613,Technical feasibility analysis,1970-03-02 23:13:37,1970-03-06 06:56:50,134
+1614,Prototyping refinements,1970-03-06 06:56:50,1970-03-13 17:35:26,134
+1615,Technical feasibility analysis,1970-03-13 17:35:26,1970-03-16 13:04:32,134
+1616,Lean market validation,1970-03-16 13:04:32,1970-04-11 01:06:33,134
+1617,Tech operations kick-off,1970-04-11 01:06:33,1970-04-12 04:25:51,134
+1618,Architecture design,1970-04-12 04:25:51,1970-04-20 23:48:39,134
+1619,Tech stack identification,1970-04-12 04:25:51,1970-04-16 20:19:06,134
+1620,Backlog creation,1970-04-12 04:25:51,1970-04-14 16:23:53,134
+1621,Investors roadshow,1970-04-11 01:06:33,1970-06-14 20:43:46,134
+1622,Investment committee,1970-06-14 20:43:46,1970-06-15 22:19:58,134
+1623,Co-founder engagement,1970-01-01 03:11:48,1970-01-02 06:23:20,138
+1624,Co-founder termsheet - customization,1970-01-02 06:23:20,1970-01-03 02:39:03,138
+1625,Co-founder termsheet - signing,1970-01-03 02:39:03,1970-01-03 23:30:08,138
+1626,Documents collection,1970-01-03 23:30:08,1970-01-04 20:35:57,138
+1627,Board minutes for attribution of powers,1970-01-03 23:30:08,1970-01-04 19:16:30,138
+1628,Documents collection,1970-01-04 20:35:57,1970-01-05 21:20:00,138
+1629,Notary appointment,1970-01-03 23:30:08,1970-01-05 02:04:46,138
+1630,Co-founder contract - customization,1970-01-03 23:30:08,1970-01-07 05:10:20,138
+1631,Payment of company shares,1970-01-03 23:30:08,1970-01-04 21:04:03,138
+1632,Co-founder contract - signing,1970-01-07 05:10:20,1970-01-08 04:24:44,138
+1633,Documents collection,1970-01-05 21:20:00,1970-01-07 00:21:37,138
+1634,Documents collection,1970-01-07 00:21:37,1970-01-08 04:00:17,138
+1635,Documents sending to notary,1970-01-08 04:00:17,1970-01-09 01:03:59,138
+1636,Founding,1970-01-09 01:03:59,1970-01-12 09:40:18,138
+1637,Receipt of documents of incorporation,1970-01-12 09:40:18,1970-01-13 08:23:33,138
+1638,Documents sending to business consultant,1970-01-13 08:23:33,1970-01-14 09:05:56,138
+1639,Documents sending to labor consultant,1970-01-13 08:23:33,1970-01-14 04:44:15,138
+1640,Operations kick-off,1970-01-12 09:40:18,1970-01-13 10:02:22,138
+1641,Documents sending to lawyer,1970-01-13 08:23:33,1970-01-14 12:58:00,138
+1642,Tax registration,1970-01-14 04:44:15,1970-01-15 06:12:07,138
+1643,Creation of social books,1970-01-14 09:05:56,1970-01-15 12:47:58,138
+1644,Bank account creation,1970-01-15 12:47:58,1970-01-20 17:52:14,138
+1645,Funds transfer,1970-01-20 17:52:14,1970-01-21 17:58:25,138
+1646,Registered office activation,1970-01-21 17:58:25,1970-01-22 19:22:22,138
+1647,Business idea consolidation,1970-01-13 10:02:22,1970-01-19 22:03:10,138
+1648,Business planning,1970-01-19 22:03:10,1970-02-17 23:27:43,138
+1649,User personas definition,1970-01-19 22:03:10,1970-01-20 21:15:22,138
+1650,Product discovery & prototyping,1970-01-20 21:15:22,1970-02-26 04:57:59,138
+1651,Core team selection,1970-01-13 10:02:22,1970-02-08 00:16:37,138
+1652,Naming,1970-01-13 10:02:22,1970-01-14 06:33:32,138
+1653,Technical feasibility analysis,1970-02-26 04:57:59,1970-03-01 16:26:17,138
+1654,Prototyping refinements,1970-03-01 16:26:17,1970-03-08 17:32:18,138
+1655,Technical feasibility analysis,1970-03-08 17:32:18,1970-03-11 07:33:06,138
+1656,Priority search,1970-01-14 06:33:32,1970-01-15 08:11:02,138
+1657,Brand identity creation,1970-01-15 08:11:02,1970-01-28 14:55:53,138
+1658,Trademark registration,1970-01-28 14:55:53,1970-04-03 22:43:22,138
+1659,Prototyping refinements,1970-03-11 07:33:06,1970-03-19 14:43:02,138
+1660,Technical feasibility analysis,1970-03-19 14:43:02,1970-03-22 16:49:55,138
+1661,Prototyping refinements,1970-03-22 16:49:55,1970-03-30 01:48:20,138
+1662,Technical feasibility analysis,1970-03-30 01:48:20,1970-04-02 06:00:16,138
+1663,Lean market validation,1970-04-02 06:00:16,1970-05-08 02:04:39,138
+1664,Tech operations kick-off,1970-05-08 02:04:39,1970-05-09 07:49:52,138
+1665,Architecture design,1970-05-09 07:49:52,1970-05-21 02:33:38,138
+1666,Backlog creation,1970-05-09 07:49:52,1970-05-11 21:50:13,138
+1667,Tech stack identification,1970-05-09 07:49:52,1970-05-15 05:56:25,138
+1668,Investors roadshow,1970-05-08 02:04:39,1970-06-26 10:08:02,138
+1669,Investment committee,1970-06-26 10:08:02,1970-06-27 08:14:16,138
+1670,Co-founder engagement,1970-01-01 03:16:45,1970-01-02 02:32:46,144
+1671,Co-founder termsheet - customization,1970-01-02 02:32:46,1970-01-02 22:40:12,144
+1672,Co-founder termsheet - signing,1970-01-02 22:40:12,1970-01-03 21:15:53,144
+1673,Payment of company shares,1970-01-03 21:15:53,1970-01-04 16:43:53,144
+1674,Documents collection,1970-01-03 21:15:53,1970-01-04 19:01:41,144
+1675,Co-founder contract - customization,1970-01-03 21:15:53,1970-01-06 13:44:14,144
+1676,Board minutes for attribution of powers,1970-01-03 21:15:53,1970-01-04 22:12:29,144
+1677,Documents sending to notary,1970-01-04 19:01:41,1970-01-05 17:27:39,144
+1678,Co-founder contract - signing,1970-01-06 13:44:14,1970-01-07 16:35:09,144
+1679,Notary appointment,1970-01-03 21:15:53,1970-01-05 01:13:11,144
+1680,Founding,1970-01-05 17:27:39,1970-01-08 10:03:03,144
+1681,Operations kick-off,1970-01-08 10:03:03,1970-01-09 07:42:10,144
+1682,Receipt of documents of incorporation,1970-01-08 10:03:03,1970-01-09 08:41:53,144
+1683,Documents sending to business consultant,1970-01-09 08:41:53,1970-01-10 12:13:25,144
+1684,Documents sending to lawyer,1970-01-09 08:41:53,1970-01-10 08:33:12,144
+1685,Creation of social books,1970-01-10 12:13:25,1970-01-11 10:58:51,144
+1686,Documents sending to labor consultant,1970-01-09 08:41:53,1970-01-10 11:34:37,144
+1687,Tax registration,1970-01-10 11:34:37,1970-01-11 13:32:17,144
+1688,Bank account creation,1970-01-11 10:58:51,1970-01-16 23:07:24,144
+1689,Funds transfer,1970-01-16 23:07:24,1970-01-17 20:01:38,144
+1690,Registered office activation,1970-01-17 20:01:38,1970-01-18 21:10:07,144
+1691,Core team selection,1970-01-09 07:42:10,1970-02-03 14:33:35,144
+1692,Naming,1970-01-09 07:42:10,1970-01-10 08:40:03,144
+1693,Priority search,1970-01-10 08:40:03,1970-01-11 04:23:47,144
+1694,Business idea consolidation,1970-01-09 07:42:10,1970-01-15 01:43:32,144
+1695,Business planning,1970-01-15 01:43:32,1970-02-12 03:28:31,144
+1696,User personas definition,1970-01-15 01:43:32,1970-01-15 22:39:00,144
+1697,Product discovery & prototyping,1970-01-15 22:39:00,1970-02-19 12:45:47,144
+1698,Brand identity creation,1970-01-11 04:23:47,1970-01-23 05:44:55,144
+1699,Trademark registration,1970-01-23 05:44:55,1970-03-16 16:30:33,144
+1700,Technical feasibility analysis,1970-02-19 12:45:47,1970-02-22 11:18:17,144
+1701,Lean market validation,1970-02-22 11:18:17,1970-03-18 13:02:18,144
+1702,Prototyping refinements,1970-03-18 13:02:18,1970-03-24 23:20:41,144
+1703,Technical feasibility analysis,1970-03-24 23:20:41,1970-03-27 10:47:37,144
+1704,Lean market validation,1970-03-27 10:47:37,1970-04-30 14:56:40,144
+1705,Tech operations kick-off,1970-04-30 14:56:40,1970-05-01 19:49:55,144
+1706,Backlog creation,1970-05-01 19:49:55,1970-05-05 09:24:47,144
+1707,Architecture design,1970-05-01 19:49:55,1970-05-10 01:45:48,144
+1708,Tech stack identification,1970-05-01 19:49:55,1970-05-07 06:53:39,144
+1709,Investors roadshow,1970-04-30 14:56:40,1970-06-27 05:53:26,144
+1710,Investment committee,1970-06-27 05:53:26,1970-06-28 09:41:58,144
+1711,Co-founder engagement,1970-01-01 03:19:34,1970-01-02 05:10:34,146
+1712,Co-founder termsheet - customization,1970-01-02 05:10:34,1970-01-03 09:25:55,146
+1713,Co-founder termsheet - signing,1970-01-03 09:25:55,1970-01-04 09:10:17,146
+1714,Co-founder contract - customization,1970-01-04 09:10:17,1970-01-07 07:37:40,146
+1715,Co-founder contract - signing,1970-01-07 07:37:40,1970-01-08 04:36:47,146
+1716,Board minutes for attribution of powers,1970-01-04 09:10:17,1970-01-05 08:54:58,146
+1717,Notary appointment,1970-01-04 09:10:17,1970-01-05 13:15:23,146
+1718,Payment of company shares,1970-01-04 09:10:17,1970-01-05 11:05:55,146
+1719,Documents collection,1970-01-04 09:10:17,1970-01-05 08:53:08,146
+1720,Documents collection,1970-01-05 08:53:08,1970-01-06 04:25:10,146
+1721,Documents sending to notary,1970-01-06 04:25:10,1970-01-07 08:22:56,146
+1722,Founding,1970-01-07 08:22:56,1970-01-10 09:00:51,146
+1723,Operations kick-off,1970-01-10 09:00:51,1970-01-11 08:20:31,146
+1724,Receipt of documents of incorporation,1970-01-10 09:00:51,1970-01-11 05:21:44,146
+1725,Documents sending to lawyer,1970-01-11 05:21:44,1970-01-12 09:11:12,146
+1726,Documents sending to business consultant,1970-01-11 05:21:44,1970-01-12 02:56:43,146
+1727,Creation of social books,1970-01-12 02:56:43,1970-01-13 00:52:45,146
+1728,Bank account creation,1970-01-13 00:52:45,1970-01-17 06:18:31,146
+1729,Documents sending to labor consultant,1970-01-11 05:21:44,1970-01-12 04:14:19,146
+1730,Funds transfer,1970-01-17 06:18:31,1970-01-18 10:19:56,146
+1731,Tax registration,1970-01-12 04:14:19,1970-01-12 23:49:38,146
+1732,Registered office activation,1970-01-18 10:19:56,1970-01-19 07:21:30,146
+1733,Core team selection,1970-01-11 08:20:31,1970-02-05 05:04:38,146
+1734,Business idea consolidation,1970-01-11 08:20:31,1970-01-17 05:07:09,146
+1735,Naming,1970-01-11 08:20:31,1970-01-12 04:35:03,146
+1736,Priority search,1970-01-12 04:35:03,1970-01-13 00:08:25,146
+1737,Brand identity creation,1970-01-13 00:08:25,1970-01-29 18:37:39,146
+1738,Business planning,1970-01-17 05:07:09,1970-02-12 19:33:30,146
+1739,Trademark registration,1970-01-29 18:37:39,1970-03-23 14:19:42,146
+1740,User personas definition,1970-01-17 05:07:09,1970-01-18 02:28:15,146
+1741,Product discovery & prototyping,1970-01-18 02:28:15,1970-02-25 15:45:26,146
+1742,Technical feasibility analysis,1970-02-25 15:45:26,1970-02-28 17:26:24,146
+1743,Lean market validation,1970-02-28 17:26:24,1970-03-30 08:46:01,146
+1744,Prototyping refinements,1970-03-30 08:46:01,1970-04-05 00:16:44,146
+1745,Technical feasibility analysis,1970-04-05 00:16:44,1970-04-07 19:06:09,146
+1746,Lean market validation,1970-04-07 19:06:09,1970-05-06 14:02:44,146
+1747,Tech operations kick-off,1970-05-06 14:02:44,1970-05-07 18:28:34,146
+1748,Architecture design,1970-05-07 18:28:34,1970-05-15 21:04:18,146
+1749,Tech stack identification,1970-05-07 18:28:34,1970-05-13 16:19:43,146
+1750,Backlog creation,1970-05-07 18:28:34,1970-05-11 09:47:45,146
+1751,Investors roadshow,1970-05-06 14:02:44,1970-06-26 14:05:13,146
+1752,Business planning review,1970-06-26 14:05:13,1970-07-03 05:05:59,146
+1753,Investors roadshow,1970-07-03 05:05:59,1970-09-11 15:37:44,146
+1754,Investment committee,1970-09-11 15:37:44,1970-09-12 18:18:27,146
+1755,Co-founder engagement,1970-01-01 03:20:18,1970-01-02 07:08:52,147
+1756,Co-founder termsheet - customization,1970-01-02 07:08:52,1970-01-03 05:26:15,147
+1757,Co-founder termsheet - signing,1970-01-03 05:26:15,1970-01-04 09:07:46,147
+1758,Board minutes for attribution of powers,1970-01-04 09:07:46,1970-01-05 10:16:51,147
+1759,Documents collection,1970-01-04 09:07:46,1970-01-05 10:06:57,147
+1760,Notary appointment,1970-01-04 09:07:46,1970-01-05 13:10:18,147
+1761,Payment of company shares,1970-01-04 09:07:46,1970-01-05 10:15:14,147
+1762,Documents sending to notary,1970-01-05 10:06:57,1970-01-06 05:53:04,147
+1763,Co-founder contract - customization,1970-01-04 09:07:46,1970-01-07 13:56:16,147
+1764,Co-founder contract - signing,1970-01-07 13:56:16,1970-01-08 12:34:18,147
+1765,Founding,1970-01-06 05:53:04,1970-01-09 13:13:58,147
+1766,Receipt of documents of incorporation,1970-01-09 13:13:58,1970-01-10 08:26:16,147
+1767,Documents sending to labor consultant,1970-01-10 08:26:16,1970-01-11 04:10:00,147
+1768,Documents sending to business consultant,1970-01-10 08:26:16,1970-01-11 12:08:46,147
+1769,Creation of social books,1970-01-11 12:08:46,1970-01-12 12:13:25,147
+1770,Operations kick-off,1970-01-09 13:13:58,1970-01-10 08:34:03,147
+1771,Tax registration,1970-01-11 04:10:00,1970-01-12 08:34:13,147
+1772,Documents sending to lawyer,1970-01-10 08:26:16,1970-01-11 04:38:13,147
+1773,Bank account creation,1970-01-12 12:13:25,1970-01-17 09:34:03,147
+1774,Funds transfer,1970-01-17 09:34:03,1970-01-18 07:14:50,147
+1775,Registered office activation,1970-01-18 07:14:50,1970-01-19 06:12:25,147
+1776,Business idea consolidation,1970-01-10 08:34:03,1970-01-16 15:14:35,147
+1777,Core team selection,1970-01-10 08:34:03,1970-02-10 21:01:59,147
+1778,Business planning,1970-01-16 15:14:35,1970-02-14 02:07:42,147
+1779,User personas definition,1970-01-16 15:14:35,1970-01-17 18:39:01,147
+1780,Product discovery & prototyping,1970-01-17 18:39:01,1970-02-23 04:03:21,147
+1781,Naming,1970-01-10 08:34:03,1970-01-11 08:19:45,147
+1782,Technical feasibility analysis,1970-02-23 04:03:21,1970-02-26 09:41:29,147
+1783,Priority search,1970-01-11 08:19:45,1970-01-12 06:40:27,147
+1784,Brand identity creation,1970-01-12 06:40:27,1970-01-27 13:37:43,147
+1785,Prototyping refinements,1970-02-26 09:41:29,1970-03-05 11:58:46,147
+1786,Technical feasibility analysis,1970-03-05 11:58:46,1970-03-08 12:48:49,147
+1787,Trademark registration,1970-01-27 13:37:43,1970-03-25 10:30:20,147
+1788,Lean market validation,1970-03-08 12:48:49,1970-04-07 01:45:16,147
+1789,Tech operations kick-off,1970-04-07 01:45:16,1970-04-07 23:41:10,147
+1790,Backlog creation,1970-04-07 23:41:10,1970-04-11 12:45:11,147
+1791,Tech stack identification,1970-04-07 23:41:10,1970-04-12 17:17:30,147
+1792,Architecture design,1970-04-07 23:41:10,1970-04-17 22:51:47,147
+1793,Investors roadshow,1970-04-07 01:45:16,1970-05-25 12:39:00,147
+1794,No Actions,1970-05-25 12:39:00,1970-05-26 12:27:29,147
+1795,Co-founder engagement,1970-01-01 03:32:58,1970-01-02 08:09:45,160
+1796,Co-founder termsheet - customization,1970-01-02 08:09:45,1970-01-03 08:04:00,160
+1797,Co-founder termsheet - signing,1970-01-03 08:04:00,1970-01-04 07:52:50,160
+1798,Payment of company shares,1970-01-04 07:52:50,1970-01-05 05:53:30,160
+1799,Documents collection,1970-01-04 07:52:50,1970-01-05 03:38:07,160
+1800,Documents sending to notary,1970-01-05 03:38:07,1970-01-06 01:11:04,160
+1801,Co-founder contract - customization,1970-01-04 07:52:50,1970-01-07 21:01:31,160
+1802,Co-founder contract - signing,1970-01-07 21:01:31,1970-01-08 16:25:59,160
+1803,Board minutes for attribution of powers,1970-01-04 07:52:50,1970-01-05 10:07:17,160
+1804,Notary appointment,1970-01-04 07:52:50,1970-01-05 10:40:24,160
+1805,Founding,1970-01-06 01:11:04,1970-01-08 23:15:58,160
+1806,Receipt of documents of incorporation,1970-01-08 23:15:58,1970-01-09 23:56:02,160
+1807,Documents sending to lawyer,1970-01-09 23:56:02,1970-01-11 01:55:43,160
+1808,Documents sending to business consultant,1970-01-09 23:56:02,1970-01-11 01:57:43,160
+1809,Creation of social books,1970-01-11 01:57:43,1970-01-12 01:07:07,160
+1810,Documents sending to labor consultant,1970-01-09 23:56:02,1970-01-11 04:42:27,160
+1811,Bank account creation,1970-01-12 01:07:07,1970-01-16 13:28:14,160
+1812,Operations kick-off,1970-01-08 23:15:58,1970-01-09 23:38:19,160
+1813,Tax registration,1970-01-11 04:42:27,1970-01-12 00:45:44,160
+1814,Funds transfer,1970-01-16 13:28:14,1970-01-17 14:39:39,160
+1815,Registered office activation,1970-01-17 14:39:39,1970-01-18 11:45:11,160
+1816,Business idea consolidation,1970-01-09 23:38:19,1970-01-18 05:14:06,160
+1817,Business planning,1970-01-18 05:14:06,1970-02-13 20:08:36,160
+1818,Naming,1970-01-09 23:38:19,1970-01-10 21:47:47,160
+1819,Core team selection,1970-01-09 23:38:19,1970-02-07 14:40:51,160
+1820,Priority search,1970-01-10 21:47:47,1970-01-11 18:36:44,160
+1821,User personas definition,1970-01-18 05:14:06,1970-01-19 07:59:34,160
+1822,Product discovery & prototyping,1970-01-19 07:59:34,1970-03-07 18:21:45,160
+1823,Technical feasibility analysis,1970-03-07 18:21:45,1970-03-10 22:02:37,160
+1824,Lean market validation,1970-03-10 22:02:37,1970-04-11 05:38:32,160
+1825,Brand identity creation,1970-01-11 18:36:44,1970-01-23 08:18:43,160
+1826,Trademark registration,1970-01-23 08:18:43,1970-03-23 17:36:44,160
+1827,Prototyping refinements,1970-04-11 05:38:32,1970-04-17 10:47:15,160
+1828,Technical feasibility analysis,1970-04-17 10:47:15,1970-04-20 21:13:59,160
+1829,Lean market validation,1970-04-20 21:13:59,1970-05-26 09:01:17,160
+1830,Tech operations kick-off,1970-05-26 09:01:17,1970-05-27 06:16:42,160
+1831,Architecture design,1970-05-27 06:16:42,1970-06-04 19:38:10,160
+1832,Backlog creation,1970-05-27 06:16:42,1970-05-30 20:34:14,160
+1833,Tech stack identification,1970-05-27 06:16:42,1970-06-01 01:29:08,160
+1834,Investors roadshow,1970-05-26 09:01:17,1970-08-01 16:30:29,160
+1835,Investment committee,1970-08-01 16:30:29,1970-08-02 17:29:51,160
+1836,Co-founder engagement,1970-01-01 03:33:39,1970-01-02 06:20:33,161
+1837,Co-founder termsheet - customization,1970-01-02 06:20:33,1970-01-03 04:00:46,161
+1838,Co-founder termsheet - signing,1970-01-03 04:00:46,1970-01-04 06:06:05,161
+1839,Co-founder contract - customization,1970-01-04 06:06:05,1970-01-07 02:13:25,161
+1840,Documents collection,1970-01-04 06:06:05,1970-01-05 10:32:39,161
+1841,Notary appointment,1970-01-04 06:06:05,1970-01-05 06:07:09,161
+1842,Payment of company shares,1970-01-04 06:06:05,1970-01-05 10:23:48,161
+1843,Documents collection,1970-01-05 10:32:39,1970-01-06 13:32:18,161
+1844,Documents sending to notary,1970-01-06 13:32:18,1970-01-07 11:00:05,161
+1845,Board minutes for attribution of powers,1970-01-04 06:06:05,1970-01-05 07:47:02,161
+1846,Co-founder contract - signing,1970-01-07 02:13:25,1970-01-08 03:02:20,161
+1847,Founding,1970-01-07 11:00:05,1970-01-10 11:54:25,161
+1848,Operations kick-off,1970-01-10 11:54:25,1970-01-11 16:06:51,161
+1849,Receipt of documents of incorporation,1970-01-10 11:54:25,1970-01-11 10:48:24,161
+1850,Documents sending to business consultant,1970-01-11 10:48:24,1970-01-12 07:46:55,161
+1851,Documents sending to labor consultant,1970-01-11 10:48:24,1970-01-12 13:25:49,161
+1852,Tax registration,1970-01-12 13:25:49,1970-01-13 13:50:29,161
+1853,Documents sending to lawyer,1970-01-11 10:48:24,1970-01-12 07:20:46,161
+1854,Creation of social books,1970-01-12 07:46:55,1970-01-13 03:11:29,161
+1855,Bank account creation,1970-01-13 03:11:29,1970-01-17 14:45:58,161
+1856,Funds transfer,1970-01-17 14:45:58,1970-01-18 11:29:03,161
+1857,Registered office activation,1970-01-18 11:29:03,1970-01-19 11:48:32,161
+1858,Core team selection,1970-01-11 16:06:51,1970-02-16 12:23:35,161
+1859,Naming,1970-01-11 16:06:51,1970-01-12 18:26:34,161
+1860,Priority search,1970-01-12 18:26:34,1970-01-13 17:41:25,161
+1861,Business idea consolidation,1970-01-11 16:06:51,1970-01-18 08:58:22,161
+1862,Business planning,1970-01-18 08:58:22,1970-02-22 19:43:52,161
+1863,User personas definition,1970-01-18 08:58:22,1970-01-19 09:19:35,161
+1864,Product discovery & prototyping,1970-01-19 09:19:35,1970-03-04 19:48:24,161
+1865,Brand identity creation,1970-01-13 17:41:25,1970-01-30 03:24:28,161
+1866,Technical feasibility analysis,1970-03-04 19:48:24,1970-03-08 07:49:53,161
+1867,Trademark registration,1970-01-30 03:24:28,1970-03-23 03:33:40,161
+1868,Prototyping refinements,1970-03-08 07:49:53,1970-03-15 20:43:41,161
+1869,Technical feasibility analysis,1970-03-15 20:43:41,1970-03-18 13:24:28,161
+1870,Lean market validation,1970-03-18 13:24:28,1970-04-13 02:34:14,161
+1871,Tech operations kick-off,1970-04-13 02:34:14,1970-04-14 06:06:33,161
+1872,Architecture design,1970-04-14 06:06:33,1970-04-25 04:21:36,161
+1873,Backlog creation,1970-04-14 06:06:33,1970-04-17 12:48:23,161
+1874,Tech stack identification,1970-04-14 06:06:33,1970-04-19 00:27:50,161
+1875,Investors roadshow,1970-04-13 02:34:14,1970-06-19 09:22:24,161
+1876,Investment committee,1970-06-19 09:22:24,1970-06-20 13:02:09,161
+1877,Co-founder engagement,1970-01-01 03:36:46,1970-01-02 04:16:31,164
+1878,Co-founder termsheet - customization,1970-01-02 04:16:31,1970-01-03 03:47:46,164
+1879,Co-founder termsheet - signing,1970-01-03 03:47:46,1970-01-04 07:48:12,164
+1880,Documents collection,1970-01-04 07:48:12,1970-01-05 12:13:46,164
+1881,Documents sending to notary,1970-01-05 12:13:46,1970-01-06 08:21:14,164
+1882,Co-founder contract - customization,1970-01-04 07:48:12,1970-01-07 01:42:05,164
+1883,Co-founder contract - signing,1970-01-07 01:42:05,1970-01-08 00:54:01,164
+1884,Notary appointment,1970-01-04 07:48:12,1970-01-05 12:07:46,164
+1885,Payment of company shares,1970-01-04 07:48:12,1970-01-05 04:34:41,164
+1886,Board minutes for attribution of powers,1970-01-04 07:48:12,1970-01-05 03:40:18,164
+1887,Founding,1970-01-06 08:21:14,1970-01-09 15:52:39,164
+1888,Operations kick-off,1970-01-09 15:52:39,1970-01-10 11:11:11,164
+1889,Receipt of documents of incorporation,1970-01-09 15:52:39,1970-01-10 14:32:36,164
+1890,Documents sending to business consultant,1970-01-10 14:32:36,1970-01-11 10:14:35,164
+1891,Documents sending to lawyer,1970-01-10 14:32:36,1970-01-11 16:00:02,164
+1892,Creation of social books,1970-01-11 10:14:35,1970-01-12 09:56:06,164
+1893,Documents sending to labor consultant,1970-01-10 14:32:36,1970-01-11 15:24:26,164
+1894,Tax registration,1970-01-11 15:24:26,1970-01-12 19:03:54,164
+1895,Bank account creation,1970-01-12 09:56:06,1970-01-16 19:35:20,164
+1896,Funds transfer,1970-01-16 19:35:20,1970-01-17 17:24:13,164
+1897,Registered office activation,1970-01-17 17:24:13,1970-01-18 17:27:16,164
+1898,Business idea consolidation,1970-01-10 11:11:11,1970-01-16 18:03:02,164
+1899,Core team selection,1970-01-10 11:11:11,1970-02-11 11:35:27,164
+1900,Business planning,1970-01-16 18:03:02,1970-02-18 19:12:29,164
+1901,User personas definition,1970-01-16 18:03:02,1970-01-17 20:20:54,164
+1902,Product discovery & prototyping,1970-01-17 20:20:54,1970-02-19 20:17:16,164
+1903,Technical feasibility analysis,1970-02-19 20:17:16,1970-02-22 22:32:12,164
+1904,Lean market validation,1970-02-22 22:32:12,1970-03-27 18:24:10,164
+1905,Prototyping refinements,1970-03-27 18:24:10,1970-04-04 14:07:10,164
+1906,Naming,1970-01-10 11:11:11,1970-01-11 08:10:54,164
+1907,Priority search,1970-01-11 08:10:54,1970-01-12 09:01:09,164
+1908,Technical feasibility analysis,1970-04-04 14:07:10,1970-04-07 12:42:43,164
+1909,Lean market validation,1970-04-07 12:42:43,1970-05-06 17:02:22,164
+1910,Brand identity creation,1970-01-12 09:01:09,1970-01-28 05:45:02,164
+1911,Tech operations kick-off,1970-05-06 17:02:22,1970-05-07 19:05:35,164
+1912,Architecture design,1970-05-07 19:05:35,1970-05-16 21:26:16,164
+1913,Backlog creation,1970-05-07 19:05:35,1970-05-10 21:45:59,164
+1914,Trademark registration,1970-01-28 05:45:02,1970-03-19 09:26:24,164
+1915,Tech stack identification,1970-05-07 19:05:35,1970-05-11 22:36:16,164
+1916,Investors roadshow,1970-05-06 17:02:22,1970-07-16 07:50:38,164
+1917,Business planning review,1970-07-16 07:50:38,1970-07-24 03:05:25,164
+1918,Investors roadshow,1970-07-24 03:05:25,1970-09-21 13:31:03,164
+1919,Investment committee,1970-09-21 13:31:03,1970-09-22 15:13:06,164
+1920,Co-founder engagement,1970-01-01 03:42:32,1970-01-02 02:28:32,171
+1921,Co-founder termsheet - customization,1970-01-02 02:28:32,1970-01-03 04:11:22,171
+1922,Co-founder termsheet - signing,1970-01-03 04:11:22,1970-01-04 00:20:01,171
+1923,Documents collection,1970-01-04 00:20:01,1970-01-04 22:42:09,171
+1924,Documents sending to notary,1970-01-04 22:42:09,1970-01-06 02:23:25,171
+1925,Notary appointment,1970-01-04 00:20:01,1970-01-05 04:49:19,171
+1926,Payment of company shares,1970-01-04 00:20:01,1970-01-04 20:50:58,171
+1927,Board minutes for attribution of powers,1970-01-04 00:20:01,1970-01-04 19:40:57,171
+1928,Co-founder contract - customization,1970-01-04 00:20:01,1970-01-06 10:10:53,171
+1929,Co-founder contract - signing,1970-01-06 10:10:53,1970-01-07 14:18:25,171
+1930,Founding,1970-01-06 02:23:25,1970-01-08 22:30:56,171
+1931,Receipt of documents of incorporation,1970-01-08 22:30:56,1970-01-09 22:34:30,171
+1932,Documents sending to labor consultant,1970-01-09 22:34:30,1970-01-11 00:01:46,171
+1933,Documents sending to lawyer,1970-01-09 22:34:30,1970-01-10 19:04:43,171
+1934,Tax registration,1970-01-11 00:01:46,1970-01-11 23:16:20,171
+1935,Operations kick-off,1970-01-08 22:30:56,1970-01-09 20:14:34,171
+1936,Documents sending to business consultant,1970-01-09 22:34:30,1970-01-11 01:50:32,171
+1937,Creation of social books,1970-01-11 01:50:32,1970-01-11 23:53:46,171
+1938,Bank account creation,1970-01-11 23:53:46,1970-01-17 20:27:53,171
+1939,Funds transfer,1970-01-17 20:27:53,1970-01-18 18:36:19,171
+1940,Registered office activation,1970-01-18 18:36:19,1970-01-19 15:54:56,171
+1941,Core team selection,1970-01-09 20:14:34,1970-02-10 10:09:58,171
+1942,Naming,1970-01-09 20:14:34,1970-01-10 20:08:52,171
+1943,Business idea consolidation,1970-01-09 20:14:34,1970-01-17 01:43:26,171
+1944,Priority search,1970-01-10 20:08:52,1970-01-11 19:55:44,171
+1945,User personas definition,1970-01-17 01:43:26,1970-01-17 23:22:45,171
+1946,Business planning,1970-01-17 01:43:26,1970-02-18 13:08:58,171
+1947,Brand identity creation,1970-01-11 19:55:44,1970-01-25 13:45:06,171
+1948,Trademark registration,1970-01-25 13:45:06,1970-03-20 10:07:09,171
+1949,Product discovery & prototyping,1970-01-17 23:22:45,1970-02-25 15:47:09,171
+1950,Technical feasibility analysis,1970-02-25 15:47:09,1970-03-01 02:10:42,171
+1951,Lean market validation,1970-03-01 02:10:42,1970-03-27 11:41:33,171
+1952,Prototyping refinements,1970-03-27 11:41:33,1970-04-04 15:16:22,171
+1953,Technical feasibility analysis,1970-04-04 15:16:22,1970-04-07 08:09:14,171
+1954,Prototyping refinements,1970-04-07 08:09:14,1970-04-14 15:22:24,171
+1955,Technical feasibility analysis,1970-04-14 15:22:24,1970-04-17 04:52:25,171
+1956,Lean market validation,1970-04-17 04:52:25,1970-05-11 12:58:27,171
+1957,Tech operations kick-off,1970-05-11 12:58:27,1970-05-12 13:31:31,171
+1958,Tech stack identification,1970-05-12 13:31:31,1970-05-16 20:27:41,171
+1959,Backlog creation,1970-05-12 13:31:31,1970-05-15 15:46:28,171
+1960,Architecture design,1970-05-12 13:31:31,1970-05-22 13:49:18,171
+1961,Investors roadshow,1970-05-11 12:58:27,1970-07-05 19:50:21,171
+1962,Business planning review,1970-07-05 19:50:21,1970-07-13 20:46:28,171
+1963,Investors roadshow,1970-07-13 20:46:28,1970-09-23 12:51:11,171
+1964,Investment committee,1970-09-23 12:51:11,1970-09-24 10:06:17,171
+1965,Co-founder engagement,1970-01-01 03:47:56,1970-01-02 01:05:20,174
+1966,Co-founder termsheet - customization,1970-01-02 01:05:20,1970-01-03 05:04:28,174
+1967,Co-founder termsheet - signing,1970-01-03 05:04:28,1970-01-04 03:39:31,174
+1968,Co-founder contract - customization,1970-01-04 03:39:31,1970-01-07 07:57:13,174
+1969,Notary appointment,1970-01-04 03:39:31,1970-01-05 01:52:56,174
+1970,Payment of company shares,1970-01-04 03:39:31,1970-01-05 00:59:00,174
+1971,Documents collection,1970-01-04 03:39:31,1970-01-05 06:48:00,174
+1972,Documents sending to notary,1970-01-05 06:48:00,1970-01-06 02:34:19,174
+1973,Board minutes for attribution of powers,1970-01-04 03:39:31,1970-01-05 04:48:13,174
+1974,Co-founder contract - signing,1970-01-07 07:57:13,1970-01-08 08:50:34,174
+1975,Founding,1970-01-06 02:34:19,1970-01-08 12:45:13,174
+1976,Operations kick-off,1970-01-08 12:45:13,1970-01-09 17:16:36,174
+1977,Receipt of documents of incorporation,1970-01-08 12:45:13,1970-01-09 09:36:26,174
+1978,Documents sending to business consultant,1970-01-09 09:36:26,1970-01-10 07:41:22,174
+1979,Documents sending to lawyer,1970-01-09 09:36:26,1970-01-10 07:10:23,174
+1980,Creation of social books,1970-01-10 07:41:22,1970-01-11 08:11:49,174
+1981,Bank account creation,1970-01-11 08:11:49,1970-01-16 18:24:26,174
+1982,Documents sending to labor consultant,1970-01-09 09:36:26,1970-01-10 07:18:00,174
+1983,Tax registration,1970-01-10 07:18:00,1970-01-11 07:41:05,174
+1984,Funds transfer,1970-01-16 18:24:26,1970-01-17 20:17:25,174
+1985,Registered office activation,1970-01-17 20:17:25,1970-01-18 21:33:55,174
+1986,Naming,1970-01-09 17:16:36,1970-01-10 14:55:48,174
+1987,Priority search,1970-01-10 14:55:48,1970-01-11 18:11:21,174
+1988,Brand identity creation,1970-01-11 18:11:21,1970-01-24 03:36:09,174
+1989,Business idea consolidation,1970-01-09 17:16:36,1970-01-17 14:02:44,174
+1990,Business planning,1970-01-17 14:02:44,1970-02-13 14:02:57,174
+1991,User personas definition,1970-01-17 14:02:44,1970-01-18 09:23:03,174
+1992,Product discovery & prototyping,1970-01-18 09:23:03,1970-03-05 18:45:44,174
+1993,Trademark registration,1970-01-24 03:36:09,1970-04-04 06:35:38,174
+1994,Technical feasibility analysis,1970-03-05 18:45:44,1970-03-09 04:37:23,174
+1995,Core team selection,1970-01-09 17:16:36,1970-02-10 22:28:20,174
+1996,Prototyping refinements,1970-03-09 04:37:23,1970-03-17 05:03:07,174
+1997,Technical feasibility analysis,1970-03-17 05:03:07,1970-03-20 00:56:29,174
+1998,Prototyping refinements,1970-03-20 00:56:29,1970-03-27 00:59:17,174
+1999,Technical feasibility analysis,1970-03-27 00:59:17,1970-03-29 21:21:10,174
+2000,Prototyping refinements,1970-03-29 21:21:10,1970-04-07 02:51:15,174
+2001,Technical feasibility analysis,1970-04-07 02:51:15,1970-04-10 05:27:44,174
+2002,Lean market validation,1970-04-10 05:27:44,1970-05-06 23:18:47,174
+2003,Tech operations kick-off,1970-05-06 23:18:47,1970-05-08 04:56:24,174
+2004,Architecture design,1970-05-08 04:56:24,1970-05-19 07:37:50,174
+2005,Backlog creation,1970-05-08 04:56:24,1970-05-11 15:19:57,174
+2006,Tech stack identification,1970-05-08 04:56:24,1970-05-13 00:30:55,174
+2007,Investors roadshow,1970-05-06 23:18:47,1970-07-12 02:13:28,174
+2008,Investment committee,1970-07-12 02:13:28,1970-07-12 22:56:51,174
+2009,Co-founder engagement,1970-01-01 03:50:11,1970-01-02 01:43:59,177
+2010,Co-founder termsheet - customization,1970-01-02 01:43:59,1970-01-03 04:21:31,177
+2011,Co-founder termsheet - signing,1970-01-03 04:21:31,1970-01-04 06:50:30,177
+2012,Documents collection,1970-01-04 06:50:30,1970-01-05 11:00:17,177
+2013,Payment of company shares,1970-01-04 06:50:30,1970-01-05 02:39:36,177
+2014,Notary appointment,1970-01-04 06:50:30,1970-01-05 10:44:56,177
+2015,Co-founder contract - customization,1970-01-04 06:50:30,1970-01-07 15:35:27,177
+2016,Co-founder contract - signing,1970-01-07 15:35:27,1970-01-08 16:02:33,177
+2017,Documents collection,1970-01-05 11:00:17,1970-01-06 10:45:53,177
+2018,Documents collection,1970-01-06 10:45:53,1970-01-07 07:53:14,177
+2019,Board minutes for attribution of powers,1970-01-04 06:50:30,1970-01-05 04:25:29,177
+2020,Documents sending to notary,1970-01-07 07:53:14,1970-01-08 07:15:27,177
+2021,Founding,1970-01-08 07:15:27,1970-01-11 06:02:49,177
+2022,Receipt of documents of incorporation,1970-01-11 06:02:49,1970-01-12 01:45:37,177
+2023,Operations kick-off,1970-01-11 06:02:49,1970-01-12 02:15:52,177
+2024,Documents sending to labor consultant,1970-01-12 01:45:37,1970-01-13 00:18:19,177
+2025,Documents sending to business consultant,1970-01-12 01:45:37,1970-01-12 22:03:45,177
+2026,Documents sending to lawyer,1970-01-12 01:45:37,1970-01-13 03:12:17,177
+2027,Creation of social books,1970-01-12 22:03:45,1970-01-13 19:24:26,177
+2028,Tax registration,1970-01-13 00:18:19,1970-01-13 20:06:06,177
+2029,Bank account creation,1970-01-13 19:24:26,1970-01-19 05:25:02,177
+2030,Funds transfer,1970-01-19 05:25:02,1970-01-20 05:02:06,177
+2031,Registered office activation,1970-01-20 05:02:06,1970-01-21 03:38:06,177
+2032,Business idea consolidation,1970-01-12 02:15:52,1970-01-19 14:18:37,177
+2033,Core team selection,1970-01-12 02:15:52,1970-02-09 04:42:32,177
+2034,Business planning,1970-01-19 14:18:37,1970-02-15 12:57:11,177
+2035,User personas definition,1970-01-19 14:18:37,1970-01-20 18:01:46,177
+2036,Naming,1970-01-12 02:15:52,1970-01-13 07:00:46,177
+2037,Product discovery & prototyping,1970-01-20 18:01:46,1970-02-25 15:22:44,177
+2038,Priority search,1970-01-13 07:00:46,1970-01-14 03:01:38,177
+2039,Brand identity creation,1970-01-14 03:01:38,1970-01-28 09:42:12,177
+2040,Technical feasibility analysis,1970-02-25 15:22:44,1970-02-28 19:11:05,177
+2041,Trademark registration,1970-01-28 09:42:12,1970-03-20 23:45:36,177
+2042,Prototyping refinements,1970-02-28 19:11:05,1970-03-08 16:19:31,177
+2043,Technical feasibility analysis,1970-03-08 16:19:31,1970-03-11 16:25:53,177
+2044,Lean market validation,1970-03-11 16:25:53,1970-04-05 11:24:38,177
+2045,Tech operations kick-off,1970-04-05 11:24:38,1970-04-06 15:32:07,177
+2046,Backlog creation,1970-04-06 15:32:07,1970-04-10 06:19:52,177
+2047,Architecture design,1970-04-06 15:32:07,1970-04-17 17:47:51,177
+2048,Tech stack identification,1970-04-06 15:32:07,1970-04-11 19:57:48,177
+2049,Investors roadshow,1970-04-05 11:24:38,1970-05-24 19:50:06,177
+2050,Investment committee,1970-05-24 19:50:06,1970-05-26 00:04:56,177
+2051,Co-founder engagement,1970-01-01 03:51:31,1970-01-02 01:20:36,179
+2052,Co-founder termsheet - customization,1970-01-02 01:20:36,1970-01-03 05:33:47,179
+2053,Co-founder termsheet - signing,1970-01-03 05:33:47,1970-01-04 04:59:00,179
+2054,Documents collection,1970-01-04 04:59:00,1970-01-05 08:30:27,179
+2055,Payment of company shares,1970-01-04 04:59:00,1970-01-05 02:11:53,179
+2056,Co-founder contract - customization,1970-01-04 04:59:00,1970-01-07 04:35:07,179
+2057,Documents sending to notary,1970-01-05 08:30:27,1970-01-06 08:16:56,179
+2058,Co-founder contract - signing,1970-01-07 04:35:07,1970-01-08 01:46:12,179
+2059,Notary appointment,1970-01-04 04:59:00,1970-01-05 02:07:32,179
+2060,Board minutes for attribution of powers,1970-01-04 04:59:00,1970-01-05 07:13:37,179
+2061,Founding,1970-01-06 08:16:56,1970-01-08 21:36:56,179
+2062,Operations kick-off,1970-01-08 21:36:56,1970-01-09 17:04:47,179
+2063,Receipt of documents of incorporation,1970-01-08 21:36:56,1970-01-09 18:10:30,179
+2064,Documents sending to lawyer,1970-01-09 18:10:30,1970-01-10 21:56:20,179
+2065,Documents sending to business consultant,1970-01-09 18:10:30,1970-01-10 14:32:42,179
+2066,Documents sending to labor consultant,1970-01-09 18:10:30,1970-01-10 21:34:53,179
+2067,Tax registration,1970-01-10 21:34:53,1970-01-11 18:48:36,179
+2068,Creation of social books,1970-01-10 14:32:42,1970-01-11 17:25:55,179
+2069,Bank account creation,1970-01-11 17:25:55,1970-01-16 05:05:57,179
+2070,Funds transfer,1970-01-16 05:05:57,1970-01-17 03:53:34,179
+2071,Registered office activation,1970-01-17 03:53:34,1970-01-18 02:18:03,179
+2072,Core team selection,1970-01-09 17:04:47,1970-02-12 07:34:19,179
+2073,Business idea consolidation,1970-01-09 17:04:47,1970-01-16 02:58:14,179
+2074,Naming,1970-01-09 17:04:47,1970-01-10 17:49:45,179
+2075,User personas definition,1970-01-16 02:58:14,1970-01-16 22:56:38,179
+2076,Business planning,1970-01-16 02:58:14,1970-02-20 03:48:16,179
+2077,Product discovery & prototyping,1970-01-16 22:56:38,1970-02-27 12:35:15,179
+2078,Priority search,1970-01-10 17:49:45,1970-01-11 20:20:40,179
+2079,Technical feasibility analysis,1970-02-27 12:35:15,1970-03-02 23:39:29,179
+2080,Brand identity creation,1970-01-11 20:20:40,1970-01-28 00:54:06,179
+2081,Prototyping refinements,1970-03-02 23:39:29,1970-03-09 11:02:20,179
+2082,Trademark registration,1970-01-28 00:54:06,1970-03-23 02:21:41,179
+2083,Technical feasibility analysis,1970-03-09 11:02:20,1970-03-12 19:27:13,179
+2084,Prototyping refinements,1970-03-12 19:27:13,1970-03-20 09:51:40,179
+2085,Technical feasibility analysis,1970-03-20 09:51:40,1970-03-23 08:39:28,179
+2086,Lean market validation,1970-03-23 08:39:28,1970-04-27 12:24:47,179
+2087,Tech operations kick-off,1970-04-27 12:24:47,1970-04-28 12:15:55,179
+2088,Tech stack identification,1970-04-28 12:15:55,1970-05-04 00:58:36,179
+2089,Architecture design,1970-04-28 12:15:55,1970-05-09 11:04:19,179
+2090,Backlog creation,1970-04-28 12:15:55,1970-05-01 09:31:40,179
+2091,Investors roadshow,1970-04-27 12:24:47,1970-07-06 15:06:09,179
+2092,Investment committee,1970-07-06 15:06:09,1970-07-07 19:11:39,179
+2093,Co-founder engagement,1970-01-01 03:52:13,1970-01-02 07:06:56,180
+2094,Co-founder termsheet - customization,1970-01-02 07:06:56,1970-01-03 06:16:08,180
+2095,Co-founder termsheet - signing,1970-01-03 06:16:08,1970-01-04 05:02:13,180
+2096,Payment of company shares,1970-01-04 05:02:13,1970-01-05 02:40:41,180
+2097,Board minutes for attribution of powers,1970-01-04 05:02:13,1970-01-05 05:27:01,180
+2098,Co-founder contract - customization,1970-01-04 05:02:13,1970-01-07 03:51:37,180
+2099,Co-founder contract - signing,1970-01-07 03:51:37,1970-01-08 04:08:52,180
+2100,Notary appointment,1970-01-04 05:02:13,1970-01-05 02:29:53,180
+2101,Documents collection,1970-01-04 05:02:13,1970-01-05 02:38:24,180
+2102,Documents sending to notary,1970-01-05 02:38:24,1970-01-06 04:18:39,180
+2103,Founding,1970-01-06 04:18:39,1970-01-09 15:06:40,180
+2104,Receipt of documents of incorporation,1970-01-09 15:06:40,1970-01-10 13:31:06,180
+2105,Documents sending to business consultant,1970-01-10 13:31:06,1970-01-11 09:17:49,180
+2106,Documents sending to labor consultant,1970-01-10 13:31:06,1970-01-11 16:51:05,180
+2107,Creation of social books,1970-01-11 09:17:49,1970-01-12 08:44:19,180
+2108,Bank account creation,1970-01-12 08:44:19,1970-01-17 01:46:15,180
+2109,Tax registration,1970-01-11 16:51:05,1970-01-12 21:37:13,180
+2110,Funds transfer,1970-01-17 01:46:15,1970-01-17 21:42:51,180
+2111,Operations kick-off,1970-01-09 15:06:40,1970-01-10 14:55:58,180
+2112,Registered office activation,1970-01-17 21:42:51,1970-01-18 20:07:10,180
+2113,Documents sending to lawyer,1970-01-10 13:31:06,1970-01-11 13:58:20,180
+2114,Business idea consolidation,1970-01-10 14:55:58,1970-01-17 13:36:46,180
+2115,User personas definition,1970-01-17 13:36:46,1970-01-18 10:53:47,180
+2116,Business planning,1970-01-17 13:36:46,1970-02-17 01:54:37,180
+2117,Naming,1970-01-10 14:55:58,1970-01-11 18:23:31,180
+2118,Priority search,1970-01-11 18:23:31,1970-01-12 15:32:32,180
+2119,Core team selection,1970-01-10 14:55:58,1970-02-11 11:46:37,180
+2120,Brand identity creation,1970-01-12 15:32:32,1970-01-29 10:05:04,180
+2121,Trademark registration,1970-01-29 10:05:04,1970-04-05 13:21:31,180
+2122,Product discovery & prototyping,1970-01-18 10:53:47,1970-02-20 19:20:13,180
+2123,Technical feasibility analysis,1970-02-20 19:20:13,1970-02-23 21:08:41,180
+2124,Prototyping refinements,1970-02-23 21:08:41,1970-03-02 15:45:02,180
+2125,Technical feasibility analysis,1970-03-02 15:45:02,1970-03-06 01:17:32,180
+2126,Lean market validation,1970-03-06 01:17:32,1970-04-10 19:36:52,180
+2127,Prototyping refinements,1970-04-10 19:36:52,1970-04-17 11:16:02,180
+2128,Technical feasibility analysis,1970-04-17 11:16:02,1970-04-20 14:23:08,180
+2129,Prototyping refinements,1970-04-20 14:23:08,1970-04-28 02:57:21,180
+2130,Technical feasibility analysis,1970-04-28 02:57:21,1970-05-01 03:23:21,180
+2131,Lean market validation,1970-05-01 03:23:21,1970-05-27 19:03:58,180
+2132,Tech operations kick-off,1970-05-27 19:03:58,1970-05-28 20:58:35,180
+2133,Tech stack identification,1970-05-28 20:58:35,1970-06-01 23:40:53,180
+2134,Backlog creation,1970-05-28 20:58:35,1970-06-01 10:26:07,180
+2135,Architecture design,1970-05-28 20:58:35,1970-06-07 05:33:27,180
+2136,Investors roadshow,1970-05-27 19:03:58,1970-07-20 04:14:49,180
+2137,Business planning review,1970-07-20 04:14:49,1970-07-26 01:04:31,180
+2138,Investors roadshow,1970-07-26 01:04:31,1970-09-18 05:14:01,180
+2139,Investment committee,1970-09-18 05:14:01,1970-09-19 01:34:17,180
+2140,Co-founder engagement,1970-01-01 03:54:26,1970-01-02 04:43:52,182
+2141,Co-founder termsheet - customization,1970-01-02 04:43:52,1970-01-03 05:14:54,182
+2142,Co-founder termsheet - signing,1970-01-03 05:14:54,1970-01-04 07:50:31,182
+2143,Payment of company shares,1970-01-04 07:50:31,1970-01-05 05:42:42,182
+2144,Co-founder contract - customization,1970-01-04 07:50:31,1970-01-07 21:32:19,182
+2145,Co-founder contract - signing,1970-01-07 21:32:19,1970-01-08 22:28:32,182
+2146,Documents collection,1970-01-04 07:50:31,1970-01-05 05:14:59,182
+2147,Notary appointment,1970-01-04 07:50:31,1970-01-05 03:50:08,182
+2148,Documents collection,1970-01-05 05:14:59,1970-01-06 04:00:31,182
+2149,Documents sending to notary,1970-01-06 04:00:31,1970-01-07 03:51:51,182
+2150,Board minutes for attribution of powers,1970-01-04 07:50:31,1970-01-05 11:56:47,182
+2151,Founding,1970-01-07 03:51:51,1970-01-10 16:13:31,182
+2152,Operations kick-off,1970-01-10 16:13:31,1970-01-11 16:49:23,182
+2153,Receipt of documents of incorporation,1970-01-10 16:13:31,1970-01-11 12:32:31,182
+2154,Documents sending to business consultant,1970-01-11 12:32:31,1970-01-12 07:44:43,182
+2155,Documents sending to lawyer,1970-01-11 12:32:31,1970-01-12 17:12:33,182
+2156,Documents sending to labor consultant,1970-01-11 12:32:31,1970-01-12 14:01:14,182
+2157,Creation of social books,1970-01-12 07:44:43,1970-01-13 08:54:48,182
+2158,Tax registration,1970-01-12 14:01:14,1970-01-13 15:29:45,182
+2159,Bank account creation,1970-01-13 08:54:48,1970-01-19 05:08:56,182
+2160,Funds transfer,1970-01-19 05:08:56,1970-01-20 07:14:43,182
+2161,Registered office activation,1970-01-20 07:14:43,1970-01-21 11:55:46,182
+2162,Core team selection,1970-01-11 16:49:23,1970-02-04 20:47:12,182
+2163,Naming,1970-01-11 16:49:23,1970-01-12 16:29:43,182
+2164,Business idea consolidation,1970-01-11 16:49:23,1970-01-19 21:46:51,182
+2165,Business planning,1970-01-19 21:46:51,1970-02-19 07:07:30,182
+2166,User personas definition,1970-01-19 21:46:51,1970-01-20 21:45:09,182
+2167,Priority search,1970-01-12 16:29:43,1970-01-13 16:31:29,182
+2168,Brand identity creation,1970-01-13 16:31:29,1970-01-29 16:13:35,182
+2169,Product discovery & prototyping,1970-01-20 21:45:09,1970-03-07 08:22:21,182
+2170,Trademark registration,1970-01-29 16:13:35,1970-03-28 17:38:18,182
+2171,Technical feasibility analysis,1970-03-07 08:22:21,1970-03-10 01:18:55,182
+2172,Prototyping refinements,1970-03-10 01:18:55,1970-03-16 05:08:19,182
+2173,Technical feasibility analysis,1970-03-16 05:08:19,1970-03-19 14:55:41,182
+2174,Lean market validation,1970-03-19 14:55:41,1970-04-17 02:58:07,182
+2175,Tech operations kick-off,1970-04-17 02:58:07,1970-04-17 23:49:03,182
+2176,Architecture design,1970-04-17 23:49:03,1970-04-28 00:22:21,182
+2177,Tech stack identification,1970-04-17 23:49:03,1970-04-22 07:57:30,182
+2178,Backlog creation,1970-04-17 23:49:03,1970-04-20 13:46:55,182
+2179,Investors roadshow,1970-04-17 02:58:07,1970-06-19 10:21:25,182
+2180,Investment committee,1970-06-19 10:21:25,1970-06-20 06:34:44,182
+2181,Co-founder engagement,1970-01-01 03:58:00,1970-01-02 06:51:57,185
+2182,Co-founder termsheet - customization,1970-01-02 06:51:57,1970-01-03 09:59:01,185
+2183,Co-founder termsheet - signing,1970-01-03 09:59:01,1970-01-04 05:39:15,185
+2184,Documents collection,1970-01-04 05:39:15,1970-01-05 05:04:22,185
+2185,Notary appointment,1970-01-04 05:39:15,1970-01-05 06:43:45,185
+2186,Board minutes for attribution of powers,1970-01-04 05:39:15,1970-01-05 06:52:33,185
+2187,Documents sending to notary,1970-01-05 05:04:22,1970-01-06 04:06:39,185
+2188,Payment of company shares,1970-01-04 05:39:15,1970-01-05 10:26:12,185
+2189,Co-founder contract - customization,1970-01-04 05:39:15,1970-01-07 19:36:05,185
+2190,Co-founder contract - signing,1970-01-07 19:36:05,1970-01-08 19:57:24,185
+2191,Founding,1970-01-06 04:06:39,1970-01-08 20:15:29,185
+2192,Operations kick-off,1970-01-08 20:15:29,1970-01-09 20:50:43,185
+2193,Receipt of documents of incorporation,1970-01-08 20:15:29,1970-01-09 15:48:38,185
+2194,Documents sending to lawyer,1970-01-09 15:48:38,1970-01-10 19:16:30,185
+2195,Documents sending to business consultant,1970-01-09 15:48:38,1970-01-10 16:26:04,185
+2196,Documents sending to labor consultant,1970-01-09 15:48:38,1970-01-10 15:35:25,185
+2197,Creation of social books,1970-01-10 16:26:04,1970-01-11 19:12:24,185
+2198,Tax registration,1970-01-10 15:35:25,1970-01-11 11:32:46,185
+2199,Bank account creation,1970-01-11 19:12:24,1970-01-17 03:53:34,185
+2200,Funds transfer,1970-01-17 03:53:34,1970-01-18 01:51:50,185
+2201,Registered office activation,1970-01-18 01:51:50,1970-01-19 06:16:11,185
+2202,Naming,1970-01-09 20:50:43,1970-01-10 17:17:19,185
+2203,Priority search,1970-01-10 17:17:19,1970-01-11 21:52:28,185
+2204,Brand identity creation,1970-01-11 21:52:28,1970-01-27 02:41:47,185
+2205,Trademark registration,1970-01-27 02:41:47,1970-03-20 05:59:25,185
+2206,Business idea consolidation,1970-01-09 20:50:43,1970-01-15 12:42:27,185
+2207,User personas definition,1970-01-15 12:42:27,1970-01-16 15:04:33,185
+2208,Business planning,1970-01-15 12:42:27,1970-02-17 15:56:30,185
+2209,Product discovery & prototyping,1970-01-16 15:04:33,1970-03-04 16:38:03,185
+2210,Technical feasibility analysis,1970-03-04 16:38:03,1970-03-08 07:01:46,185
+2211,Core team selection,1970-01-09 20:50:43,1970-02-09 02:59:54,185
+2212,Prototyping refinements,1970-03-08 07:01:46,1970-03-14 00:24:53,185
+2213,Technical feasibility analysis,1970-03-14 00:24:53,1970-03-16 15:55:08,185
+2214,Lean market validation,1970-03-16 15:55:08,1970-04-12 09:17:34,185
+2215,Tech operations kick-off,1970-04-12 09:17:34,1970-04-13 05:55:28,185
+2216,Architecture design,1970-04-13 05:55:28,1970-04-22 21:51:22,185
+2217,Backlog creation,1970-04-13 05:55:28,1970-04-16 06:22:22,185
+2218,Tech stack identification,1970-04-13 05:55:28,1970-04-17 15:26:29,185
+2219,Investors roadshow,1970-04-12 09:17:34,1970-06-21 17:05:42,185
+2220,Investment committee,1970-06-21 17:05:42,1970-06-22 17:01:52,185
+2221,Co-founder engagement,1970-01-01 04:00:35,1970-01-01 23:58:22,188
+2222,Co-founder termsheet - customization,1970-01-01 23:58:22,1970-01-02 20:52:50,188
+2223,Co-founder termsheet - signing,1970-01-02 20:52:50,1970-01-04 00:35:47,188
+2224,Co-founder contract - customization,1970-01-04 00:35:47,1970-01-06 19:58:49,188
+2225,Documents collection,1970-01-04 00:35:47,1970-01-04 19:49:25,188
+2226,Documents sending to notary,1970-01-04 19:49:25,1970-01-05 22:36:42,188
+2227,Co-founder contract - signing,1970-01-06 19:58:49,1970-01-07 23:00:16,188
+2228,Board minutes for attribution of powers,1970-01-04 00:35:47,1970-01-05 01:27:23,188
+2229,Payment of company shares,1970-01-04 00:35:47,1970-01-04 20:20:30,188
+2230,Notary appointment,1970-01-04 00:35:47,1970-01-05 02:34:33,188
+2231,Founding,1970-01-05 22:36:42,1970-01-08 18:19:22,188
+2232,Operations kick-off,1970-01-08 18:19:22,1970-01-09 15:43:40,188
+2233,Receipt of documents of incorporation,1970-01-08 18:19:22,1970-01-09 22:37:58,188
+2234,Documents sending to business consultant,1970-01-09 22:37:58,1970-01-11 00:18:38,188
+2235,Creation of social books,1970-01-11 00:18:38,1970-01-12 01:40:54,188
+2236,Documents sending to lawyer,1970-01-09 22:37:58,1970-01-10 19:14:40,188
+2237,Documents sending to labor consultant,1970-01-09 22:37:58,1970-01-11 02:18:26,188
+2238,Tax registration,1970-01-11 02:18:26,1970-01-12 03:26:08,188
+2239,Bank account creation,1970-01-12 01:40:54,1970-01-17 14:42:06,188
+2240,Funds transfer,1970-01-17 14:42:06,1970-01-18 15:41:00,188
+2241,Registered office activation,1970-01-18 15:41:00,1970-01-19 17:56:55,188
+2242,Business idea consolidation,1970-01-09 15:43:40,1970-01-16 07:22:35,188
+2243,Business planning,1970-01-16 07:22:35,1970-02-16 02:16:42,188
+2244,User personas definition,1970-01-16 07:22:35,1970-01-17 10:41:32,188
+2245,Product discovery & prototyping,1970-01-17 10:41:32,1970-03-02 17:35:30,188
+2246,Naming,1970-01-09 15:43:40,1970-01-10 17:49:34,188
+2247,Core team selection,1970-01-09 15:43:40,1970-02-05 23:50:04,188
+2248,Priority search,1970-01-10 17:49:34,1970-01-11 13:58:00,188
+2249,Brand identity creation,1970-01-11 13:58:00,1970-01-23 04:03:28,188
+2250,Trademark registration,1970-01-23 04:03:28,1970-04-04 11:35:05,188
+2251,Technical feasibility analysis,1970-03-02 17:35:30,1970-03-05 13:23:42,188
+2252,Prototyping refinements,1970-03-05 13:23:42,1970-03-12 11:28:14,188
+2253,Technical feasibility analysis,1970-03-12 11:28:14,1970-03-16 01:02:15,188
+2254,Lean market validation,1970-03-16 01:02:15,1970-04-15 11:56:06,188
+2255,Tech operations kick-off,1970-04-15 11:56:06,1970-04-16 14:17:35,188
+2256,Architecture design,1970-04-16 14:17:35,1970-04-28 02:56:14,188
+2257,Backlog creation,1970-04-16 14:17:35,1970-04-19 07:01:59,188
+2258,Tech stack identification,1970-04-16 14:17:35,1970-04-22 04:16:39,188
+2259,Investors roadshow,1970-04-15 11:56:06,1970-06-25 00:08:37,188
+2260,Co-founder engagement,1970-06-25 00:08:37,1970-06-25 21:54:19,188
+2261,Co-founder termsheet - customization,1970-06-25 21:54:19,1970-06-27 00:33:21,188
+2262,Co-founder termsheet - signing,1970-06-27 00:33:21,1970-06-28 05:32:25,188
+2263,Co-founder contract - customization,1970-06-28 05:32:25,1970-07-01 08:09:18,188
+2264,Board minutes for attribution of powers,1970-06-28 05:32:25,1970-06-29 05:49:14,188
+2265,Payment of company shares,1970-06-28 05:32:25,1970-06-29 05:05:57,188
+2266,Documents collection,1970-06-28 05:32:25,1970-06-29 08:51:17,188
+2267,Co-founder contract - signing,1970-07-01 08:09:18,1970-07-02 05:20:57,188
+2268,Notary appointment,1970-06-28 05:32:25,1970-06-29 05:24:10,188
+2269,Documents collection,1970-06-29 08:51:17,1970-06-30 11:35:20,188
+2270,Documents sending to notary,1970-06-30 11:35:20,1970-07-01 14:08:38,188
+2271,Founding,1970-07-01 14:08:38,1970-07-05 04:07:37,188
+2272,Operations kick-off,1970-07-05 04:07:37,1970-07-06 05:30:53,188
+2273,Receipt of documents of incorporation,1970-07-05 04:07:37,1970-07-06 00:40:26,188
+2274,Documents sending to business consultant,1970-07-06 00:40:26,1970-07-07 03:51:39,188
+2275,Creation of social books,1970-07-07 03:51:39,1970-07-08 07:50:03,188
+2276,Bank account creation,1970-07-08 07:50:03,1970-07-12 20:27:55,188
+2277,Documents sending to lawyer,1970-07-06 00:40:26,1970-07-07 05:24:19,188
+2278,Documents sending to labor consultant,1970-07-06 00:40:26,1970-07-07 01:04:51,188
+2279,Tax registration,1970-07-07 01:04:51,1970-07-08 02:49:04,188
+2280,Funds transfer,1970-07-12 20:27:55,1970-07-14 00:04:44,188
+2281,Registered office activation,1970-07-14 00:04:44,1970-07-15 00:58:47,188
+2282,Business idea consolidation,1970-07-06 05:30:53,1970-07-12 03:07:01,188
+2283,Core team selection,1970-07-06 05:30:53,1970-07-31 16:58:23,188
+2284,Naming,1970-07-06 05:30:53,1970-07-07 08:54:29,188
+2285,Priority search,1970-07-07 08:54:29,1970-07-08 06:11:00,188
+2286,Brand identity creation,1970-07-08 06:11:00,1970-07-20 22:41:39,188
+2287,Business planning,1970-07-12 03:07:01,1970-08-15 03:26:40,188
+2288,User personas definition,1970-07-12 03:07:01,1970-07-13 04:28:55,188
+2289,Trademark registration,1970-07-20 22:41:39,1970-09-16 17:17:01,188
+2290,Product discovery & prototyping,1970-07-13 04:28:55,1970-08-15 11:53:42,188
+2291,Technical feasibility analysis,1970-08-15 11:53:42,1970-08-18 04:32:00,188
+2292,Lean market validation,1970-08-18 04:32:00,1970-09-15 19:36:44,188
+2293,Tech operations kick-off,1970-09-15 19:36:44,1970-09-16 20:21:12,188
+2294,Backlog creation,1970-09-16 20:21:12,1970-09-19 10:07:49,188
+2295,Architecture design,1970-09-16 20:21:12,1970-09-25 06:37:15,188
+2296,Tech stack identification,1970-09-16 20:21:12,1970-09-21 06:02:00,188
+2297,Investors roadshow,1970-09-16 17:17:01,1970-11-21 14:04:23,188
+2298,Investment committee,1970-11-21 14:04:23,1970-11-22 10:11:15,188
+2299,Co-founder engagement,1970-01-01 04:08:52,1970-01-02 06:32:57,195
+2300,Co-founder termsheet - customization,1970-01-02 06:32:57,1970-01-03 04:12:56,195
+2301,Co-founder termsheet - signing,1970-01-03 04:12:56,1970-01-04 04:47:27,195
+2302,Co-founder contract - customization,1970-01-04 04:47:27,1970-01-07 16:26:11,195
+2303,Co-founder contract - signing,1970-01-07 16:26:11,1970-01-08 14:03:30,195
+2304,Board minutes for attribution of powers,1970-01-04 04:47:27,1970-01-05 02:56:46,195
+2305,Documents collection,1970-01-04 04:47:27,1970-01-05 01:11:02,195
+2306,Notary appointment,1970-01-04 04:47:27,1970-01-05 03:43:34,195
+2307,Payment of company shares,1970-01-04 04:47:27,1970-01-05 02:32:12,195
+2308,Documents collection,1970-01-05 01:11:02,1970-01-06 03:50:53,195
+2309,Documents sending to notary,1970-01-06 03:50:53,1970-01-07 06:47:24,195
+2310,Founding,1970-01-07 06:47:24,1970-01-10 05:35:15,195
+2311,Operations kick-off,1970-01-10 05:35:15,1970-01-11 06:18:15,195
+2312,Receipt of documents of incorporation,1970-01-10 05:35:15,1970-01-11 08:32:51,195
+2313,Documents sending to labor consultant,1970-01-11 08:32:51,1970-01-12 09:49:10,195
+2314,Documents sending to business consultant,1970-01-11 08:32:51,1970-01-12 05:30:33,195
+2315,Tax registration,1970-01-12 09:49:10,1970-01-13 07:20:05,195
+2316,Documents sending to lawyer,1970-01-11 08:32:51,1970-01-12 11:30:56,195
+2317,Creation of social books,1970-01-12 05:30:33,1970-01-13 08:14:47,195
+2318,Bank account creation,1970-01-13 08:14:47,1970-01-19 04:16:17,195
+2319,Funds transfer,1970-01-19 04:16:17,1970-01-20 06:23:40,195
+2320,Registered office activation,1970-01-20 06:23:40,1970-01-21 05:49:19,195
+2321,Business idea consolidation,1970-01-11 06:18:15,1970-01-17 01:22:16,195
+2322,Naming,1970-01-11 06:18:15,1970-01-12 10:33:46,195
+2323,User personas definition,1970-01-17 01:22:16,1970-01-18 02:20:06,195
+2324,Priority search,1970-01-12 10:33:46,1970-01-13 10:02:33,195
+2325,Brand identity creation,1970-01-13 10:02:33,1970-01-30 03:27:04,195
+2326,Core team selection,1970-01-11 06:18:15,1970-02-15 01:10:00,195
+2327,Product discovery & prototyping,1970-01-18 02:20:06,1970-02-27 14:18:30,195
+2328,Trademark registration,1970-01-30 03:27:04,1970-03-29 18:50:42,195
+2329,Technical feasibility analysis,1970-02-27 14:18:30,1970-03-02 10:05:11,195
+2330,Business planning,1970-01-17 01:22:16,1970-02-19 02:02:46,195
+2331,Prototyping refinements,1970-03-02 10:05:11,1970-03-08 15:23:23,195
+2332,Technical feasibility analysis,1970-03-08 15:23:23,1970-03-11 05:51:28,195
+2333,Prototyping refinements,1970-03-11 05:51:28,1970-03-18 15:56:31,195
+2334,Technical feasibility analysis,1970-03-18 15:56:31,1970-03-22 03:14:54,195
+2335,Prototyping refinements,1970-03-22 03:14:54,1970-03-28 21:22:26,195
+2336,Technical feasibility analysis,1970-03-28 21:22:26,1970-03-31 08:39:38,195
+2337,Lean market validation,1970-03-31 08:39:38,1970-05-03 16:53:32,195
+2338,Tech operations kick-off,1970-05-03 16:53:32,1970-05-04 22:37:10,195
+2339,Architecture design,1970-05-04 22:37:10,1970-05-16 01:51:11,195
+2340,Backlog creation,1970-05-04 22:37:10,1970-05-07 23:33:17,195
+2341,Tech stack identification,1970-05-04 22:37:10,1970-05-10 04:05:09,195
+2342,Investors roadshow,1970-05-03 16:53:32,1970-06-24 10:09:58,195
+2343,Business planning review,1970-06-24 10:09:58,1970-06-30 06:20:06,195
+2344,Investors roadshow,1970-06-30 06:20:06,1970-09-02 13:56:21,195
+2345,Investment committee,1970-09-02 13:56:21,1970-09-03 17:59:14,195
+2346,Co-founder engagement,1970-01-01 04:10:20,1970-01-02 03:12:42,197
+2347,Co-founder termsheet - customization,1970-01-02 03:12:42,1970-01-03 02:07:53,197
+2348,Co-founder termsheet - signing,1970-01-03 02:07:53,1970-01-04 02:42:41,197
+2349,Payment of company shares,1970-01-04 02:42:41,1970-01-05 05:51:36,197
+2350,Co-founder contract - customization,1970-01-04 02:42:41,1970-01-07 04:01:58,197
+2351,Documents collection,1970-01-04 02:42:41,1970-01-05 04:10:25,197
+2352,Documents sending to notary,1970-01-05 04:10:25,1970-01-06 07:56:35,197
+2353,Notary appointment,1970-01-04 02:42:41,1970-01-05 02:39:27,197
+2354,Board minutes for attribution of powers,1970-01-04 02:42:41,1970-01-05 02:15:44,197
+2355,Co-founder contract - signing,1970-01-07 04:01:58,1970-01-08 03:49:53,197
+2356,Founding,1970-01-06 07:56:35,1970-01-09 20:59:26,197
+2357,Operations kick-off,1970-01-09 20:59:26,1970-01-11 01:30:14,197
+2358,Receipt of documents of incorporation,1970-01-09 20:59:26,1970-01-10 20:04:55,197
+2359,Documents sending to business consultant,1970-01-10 20:04:55,1970-01-11 20:55:27,197
+2360,Creation of social books,1970-01-11 20:55:27,1970-01-12 17:42:24,197
+2361,Bank account creation,1970-01-12 17:42:24,1970-01-18 10:39:00,197
+2362,Funds transfer,1970-01-18 10:39:00,1970-01-19 09:59:03,197
+2363,Registered office activation,1970-01-19 09:59:03,1970-01-20 12:06:34,197
+2364,Documents sending to labor consultant,1970-01-10 20:04:55,1970-01-11 19:30:39,197
+2365,Documents sending to lawyer,1970-01-10 20:04:55,1970-01-12 00:12:29,197
+2366,Tax registration,1970-01-11 19:30:39,1970-01-12 16:25:39,197
+2367,Core team selection,1970-01-11 01:30:14,1970-02-04 15:15:58,197
+2368,Naming,1970-01-11 01:30:14,1970-01-12 01:47:29,197
+2369,Priority search,1970-01-12 01:47:29,1970-01-12 23:10:42,197
+2370,Brand identity creation,1970-01-12 23:10:42,1970-01-28 05:27:32,197
+2371,Trademark registration,1970-01-28 05:27:32,1970-03-27 23:01:55,197
+2372,Business idea consolidation,1970-01-11 01:30:14,1970-01-17 15:35:39,197
+2373,User personas definition,1970-01-17 15:35:39,1970-01-18 17:19:05,197
+2374,Business planning,1970-01-17 15:35:39,1970-02-21 08:18:41,197
+2375,Product discovery & prototyping,1970-01-18 17:19:05,1970-02-25 01:13:57,197
+2376,Technical feasibility analysis,1970-02-25 01:13:57,1970-02-27 14:44:21,197
+2377,Prototyping refinements,1970-02-27 14:44:21,1970-03-06 10:18:26,197
+2378,Technical feasibility analysis,1970-03-06 10:18:26,1970-03-09 11:39:26,197
+2379,Lean market validation,1970-03-09 11:39:26,1970-04-03 00:20:18,197
+2380,Tech operations kick-off,1970-04-03 00:20:18,1970-04-04 03:25:20,197
+2381,Tech stack identification,1970-04-04 03:25:20,1970-04-09 18:50:23,197
+2382,Backlog creation,1970-04-04 03:25:20,1970-04-06 14:51:14,197
+2383,Architecture design,1970-04-04 03:25:20,1970-04-14 04:26:06,197
+2384,Investors roadshow,1970-04-03 00:20:18,1970-06-02 03:16:02,197
+2385,No Actions,1970-06-02 03:16:02,1970-06-03 09:03:38,197
+2386,Co-founder engagement,1970-01-01 04:11:00,1970-01-02 04:28:55,198
+2387,Co-founder termsheet - customization,1970-01-02 04:28:55,1970-01-03 01:41:07,198
+2388,Co-founder termsheet - signing,1970-01-03 01:41:07,1970-01-03 21:50:08,198
+2389,Payment of company shares,1970-01-03 21:50:08,1970-01-04 19:30:31,198
+2390,Documents collection,1970-01-03 21:50:08,1970-01-04 18:35:37,198
+2391,Notary appointment,1970-01-03 21:50:08,1970-01-04 18:35:54,198
+2392,Board minutes for attribution of powers,1970-01-03 21:50:08,1970-01-04 19:23:10,198
+2393,Documents collection,1970-01-04 18:35:37,1970-01-05 18:50:23,198
+2394,Co-founder contract - customization,1970-01-03 21:50:08,1970-01-06 08:17:57,198
+2395,Documents collection,1970-01-05 18:50:23,1970-01-06 18:05:47,198
+2396,Documents sending to notary,1970-01-06 18:05:47,1970-01-07 22:53:21,198
+2397,Co-founder contract - signing,1970-01-06 08:17:57,1970-01-07 04:24:16,198
+2398,Founding,1970-01-07 22:53:21,1970-01-11 07:49:59,198
+2399,Operations kick-off,1970-01-11 07:49:59,1970-01-12 07:32:59,198
+2400,Receipt of documents of incorporation,1970-01-11 07:49:59,1970-01-12 03:38:51,198
+2401,Documents sending to labor consultant,1970-01-12 03:38:51,1970-01-13 03:29:52,198
+2402,Documents sending to business consultant,1970-01-12 03:38:51,1970-01-13 04:11:08,198
+2403,Documents sending to lawyer,1970-01-12 03:38:51,1970-01-13 00:23:59,198
+2404,Tax registration,1970-01-13 03:29:52,1970-01-14 04:25:07,198
+2405,Creation of social books,1970-01-13 04:11:08,1970-01-14 08:00:52,198
+2406,Bank account creation,1970-01-14 08:00:52,1970-01-18 22:35:55,198
+2407,Funds transfer,1970-01-18 22:35:55,1970-01-19 18:54:50,198
+2408,Registered office activation,1970-01-19 18:54:50,1970-01-20 17:03:55,198
+2409,Business idea consolidation,1970-01-12 07:32:59,1970-01-18 01:12:43,198
+2410,Naming,1970-01-12 07:32:59,1970-01-13 08:21:16,198
+2411,Priority search,1970-01-13 08:21:16,1970-01-14 04:49:11,198
+2412,Core team selection,1970-01-12 07:32:59,1970-02-05 12:55:10,198
+2413,User personas definition,1970-01-18 01:12:43,1970-01-19 01:30:30,198
+2414,Brand identity creation,1970-01-14 04:49:11,1970-01-28 03:24:21,198
+2415,Business planning,1970-01-18 01:12:43,1970-02-21 23:48:23,198
+2416,Trademark registration,1970-01-28 03:24:21,1970-03-17 21:46:32,198
+2417,Product discovery & prototyping,1970-01-19 01:30:30,1970-03-04 12:52:22,198
+2418,Technical feasibility analysis,1970-03-04 12:52:22,1970-03-07 23:16:25,198
+2419,Prototyping refinements,1970-03-07 23:16:25,1970-03-15 13:08:35,198
+2420,Technical feasibility analysis,1970-03-15 13:08:35,1970-03-18 10:05:50,198
+2421,Prototyping refinements,1970-03-18 10:05:50,1970-03-26 14:41:01,198
+2422,Technical feasibility analysis,1970-03-26 14:41:01,1970-03-29 19:04:33,198
+2423,Lean market validation,1970-03-29 19:04:33,1970-04-27 13:03:36,198
+2424,Tech operations kick-off,1970-04-27 13:03:36,1970-04-28 13:58:42,198
+2425,Tech stack identification,1970-04-28 13:58:42,1970-05-02 19:09:43,198
+2426,Backlog creation,1970-04-28 13:58:42,1970-05-01 14:21:20,198
+2427,Architecture design,1970-04-28 13:58:42,1970-05-07 03:20:45,198
+2428,Investors roadshow,1970-04-27 13:03:36,1970-06-25 15:38:55,198
+2429,Investment committee,1970-06-25 15:38:55,1970-06-26 19:36:38,198
